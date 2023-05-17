@@ -27,3 +27,4 @@ Founder of MegaEase Inc. 芝兰生于空谷，不以无人而不芳。
 - [Telegram 程序员资源分享频道](https://t.me/gotoshare)
 - [Telegram 程序员资源分享社区](https://t.co/QCkvQEUOkw)
 - 本网站内容主要来自 『程序员资源分享频道』，旨在帮助更多开发者
+- 网站源代码，见 [goto-share/goto-share.github.io](https://github.com/goto-share/goto-share.github.io)

@@ -13,7 +13,7 @@ const siteMetadata = {
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'dylanninin@gmail.com',
-  github: 'https://github.com/dylanninin',
+  github: 'https://github.com/goto-share/goto-share.github.io',
   twitter: 'https://twitter.com/dylanninin',
   facebook: 'https://facebook.com/dylanninin',
   youtube: 'https://www.youtube.com/channel/UCPiHqi-QA7aGJ591unWuaMA',
