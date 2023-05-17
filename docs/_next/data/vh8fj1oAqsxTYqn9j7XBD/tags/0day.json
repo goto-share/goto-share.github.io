@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"title":"Apache Log4j 的 0 day 漏洞原理\n","date":"2021-12-10T00:00:00.000Z","draft":false,"tags":["0day","security"],"summary":"Apache Log4j 的 0 day 远程代码执行，是经典的 JNDI注入攻击，通过加载远程类完成，下面两篇文章大家都学习一下吧其漏洞原理。\n","slug":"2021-12-10-901"}],"tag":"0day"},"__N_SSG":true}
