@@ -80,14 +80,14 @@ jobs:
     - name: Auto Commit
       id: auto-commit
       run: |
-        cp -r master/docs gp-pages
-        cd gp-pages
+        cp -r master/docs gh-pages
+        cd gh-pages
         git config --global user.email "dylanninin@gmail.com"
         git config --global user.name "Dylanninin"
         if [[ `git status --porcelain` ]]; then
           git add .
           git commit -m "update post - skip ci"
-          git push origin gp-pages
+          git push origin gh-pages
         else
           echo "clean"
         fi
