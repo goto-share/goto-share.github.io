@@ -1,0 +1,27 @@
+---
+title: |
+    浏览器分词搜索有什么推荐的么？
+date: 2020-05-27
+draft: false
+tags: [github, nlp]
+summary: |
+    浏览器分词搜索有什么推荐的么？
+---
+
+## Content
+
+浏览器分词搜索有什么推荐的么？
+
+需求
+
+- [ ] 在对象列表中查找关键字
+- [ ] 支持分词
+- [ ] 支持中文
+
+目前找到的解决方案
+
+- [lunrjs](https://lunrjs.com/): API 简单直白，但分词功能在使用上存在问题，同时对中文支持不好
+- 参考 [第三方中文支持](https://github.com/codepiano/lunr.js)
+- [elasticlunr](http://elasticlunr.com/): lunr 的改进版，修复了英文分词的一些问题，但仍未解决中文支持问题。
+- [hexo-generator-search](https://www.npmjs.com/package/hexo-generator-search): hexo 自带的搜索功能看起来完全能满足需求，但还没看要怎么使用
+- 手动实现简单一个简单的搜索函数

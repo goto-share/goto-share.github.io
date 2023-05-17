@@ -458,10 +458,10 @@
 
   <item>
     <guid>https://goto-share.github.io/blog/2021-08-12-883</guid>
-    <title>deleted
+    <title>Weixin Article Deleted
 </title>
     <link>https://goto-share.github.io/blog/2021-08-12-883</link>
-    <description>deleted
+    <description>Weixin Article Deleted
 </description>
     <pubDate>Thu, 12 Aug 2021 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
@@ -862,6 +862,1037 @@
     <pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
     <category>coolshell</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-22-849</guid>
+    <title>Disaster recovery for multi-region Kafka at Uber | Uber Blog
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-22-849</link>
+    <description>Uber has one of the largest deployments of Apache Kafka in the world, processing trillions of messages and multiple petabytes of data per day. As Figure 1 shows, today we position Apache Kafka as a cornerstone to Uber’s technology stack and build a complex ecosystem on top of it to empower a large number of different workflows. These include a pub/sub message bus to pass event data from the rider and driver apps, enabling a streaming analytics platform (e.g. Apache Samza, Apache Flink), streaming database changelogs to the downstream subscribers, and ingesting all sorts of data into Uber’s Apache Hadoop data lake.
+</description>
+    <pubDate>Tue, 22 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>kafka</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-11-848</guid>
+    <title>Apache Kafka: The Definitive Guide | Confluent
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-11-848</link>
+    <description>Learn how to take full advantage of Apache Kafka, understand how Kafka works and how it’s designed with this comprehensive book.
+</description>
+    <pubDate>Fri, 11 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>kafka</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-07-847</guid>
+    <title>分布式事务中的时间戳
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-07-847</link>
+    <description>时间戳（timestamp）是分布式事务中绕不开的重要概念，有意思的是，现在主流的几个分布式数据库对它的实现都不尽相同，甚至是主要区分点之一。本文聊一聊时间戳的前世今生，为了把讨论集中在主题上，假设读者已经对数据库的 MVCC、2PC、一致性、隔离级别等概念有个基本的了解。
+</description>
+    <pubDate>Mon, 07 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-11-23-846</guid>
+    <title>《程序是怎样跑起来的》
+</title>
+    <link>https://goto-share.github.io/blog/2020-11-23-846</link>
+    <description>本书从计算机的内部结构开始讲起，以图配文的形式详细讲解了二进制、内存、数据压缩、源文件和可执行文件、操作系统和应用程序的关系、汇编语言、硬件控制方法等内容，目的是让读者了解从用户双击程序图标到程序开始运行之间到底发生了什么。同时专设了“如果是你，你会怎样介绍？”专栏，以小学生、老奶奶为对象讲解程序的运行原理，颇为有趣。本书图文并茂，通俗易懂，非常适合计算机爱好者及相关从业人员阅读
+</description>
+    <pubDate>Mon, 23 Nov 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>pdf</category><category>how</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-11-22-845</guid>
+    <title>GopherChina 2020  - Go programming patterns.
+</title>
+    <link>https://goto-share.github.io/blog/2020-11-22-845</link>
+    <description>GopherChina 2020  - Go programming patterns. I hope it&#39;s useful for you to improve your coding skills and you will like it.
+</description>
+    <pubDate>Sun, 22 Nov 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>pdf</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-11-18-844</guid>
+    <title>M1芯片内存访问顺序的一致性
+</title>
+    <link>https://goto-share.github.io/blog/2020-11-18-844</link>
+    <description>Apple的M1芯片可能会给你的多线程序带来一些bug，因为ARM芯片不像X86的芯片会保证内存访问顺的一致性。（当然，如果高级语方处理了则不会有问题）
+</description>
+    <pubDate>Wed, 18 Nov 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>apple</category><category>memory</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-11-11-843</guid>
+    <title>将 UDP 与网络负载均衡器搭配使用
+</title>
+    <link>https://goto-share.github.io/blog/2020-11-11-843</link>
+    <description>介绍如何将 UDP 与网络负载均衡搭配使用的教程。
+</description>
+    <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>google</category><category>udp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-10-29-842</guid>
+    <title>Top 10 Best VS Code Extensions
+</title>
+    <link>https://goto-share.github.io/blog/2020-10-29-842</link>
+    <description>👉 Become A VS Code SuperHero Today: https://vsCodeHero.com 🚢 Deploy for FREE on Vercel: https://vercel.com/ambassadors/codestackr.
+</description>
+    <pubDate>Thu, 29 Oct 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-10-28-841</guid>
+    <title>Patterns of Distributed Systems
+</title>
+    <link>https://goto-share.github.io/blog/2020-10-28-841</link>
+    <description>https://martinfowler.com/articles/patterns-of-distributed-systems/
+</description>
+    <pubDate>Wed, 28 Oct 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>martinfowler</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-07-10-840</guid>
+    <title>A handy guide to financial support for open source
+</title>
+    <link>https://goto-share.github.io/blog/2020-07-10-840</link>
+    <description>A handy guide to financial support for open source - GitHub - nayafia/lemonade-stand: A handy guide to financial support for open source
+</description>
+    <pubDate>Fri, 10 Jul 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-764</guid>
+    <title>聊聊网络喷子与键盘侠
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-764</link>
+    <description>“一个知识越贫乏的人，越是拥有一种莫名奇怪的勇气和一种莫名奇怪的自豪感，因为知识越贫乏，所相信的东西就越绝对，夜郎自大是好辩者的天性。”
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>bilibili</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-765</guid>
+    <title>Youtube Video Deleted
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-765</link>
+    <description>Youtube Video Deleted
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>deleted</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-766</guid>
+    <title>Spring on Kubernetes Workshop
+大佬牛逼 spring on k8s
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-766</link>
+    <description>大佬牛逼 spring on k8s https://hackmd.io/@ryanjbaxter/spring-on-k8s-workshop
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>kubernets</category><category>spring</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-767</guid>
+    <title>写技术文章建立个人影响力
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-767</link>
+    <description>从技术编辑的角度看待技术，推荐给想写技术文章建立个人影响力的工程师
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-768</guid>
+    <title></title>
+    <link>https://goto-share.github.io/blog/2020-05-27-768</link>
+    
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-769</guid>
+    <title>Proxy Grafana Webhook alert to WeChat Work.
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-769</link>
+    <description>Proxy Grafana Webhook alert to WeChat Work.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>grafana</category><category>weixin</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-770</guid>
+    <title>Generate plantuml diagrams from go source files or directories
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-770</link>
+    <description>Generate plantuml diagrams from go source files or directories - GitHub - bykof/go-plantuml: Generate plantuml diagrams from go source files or directories
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-771</guid>
+    <title>mclone - 麻麻再也不用担心拉取GitHub代码慢了
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-771</link>
+    <description>mclone - 麻麻再也不用担心拉取GitHub代码慢了. Contribute to nulastudio/mclone development by creating an account on GitHub.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-772</guid>
+    <title>GitHub Repos That Every Developer Should Know About
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-772</link>
+    <description>A handpicked list of repos that’ll help you become a better all-round developer
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>medium</category><category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-773</guid>
+    <title>一个很不错的学习设计模式的网站
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-773</link>
+    <description>看到一个很不错的学习设计模式的网站，分享一下😁 学不会设计模式，是因为你还没用过这个神奇的网站！
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>patterns</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-774</guid>
+    <title>Refactoring and Design Patterns
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-774</link>
+    <description>Refactoring is a controllable process of improving code without creating new functionality. Design Patterns are typical solutions to the commonly occurring problems in software design.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>patterns</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-775</guid>
+    <title>labuladong 的算法网站
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-775</link>
+    <description>labuladong 的算法网站, https://labuladong.gitbook.io/algo/
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>ebooks</category><category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-776</guid>
+    <title>从简单规则到系统物理学
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-776</link>
+    <description>著名物理学家、《一种新科学》作者、Mathematica 设计师 Stephen Wolfram 于近日发表了近四万字的博文，在文中他详细的阐出了一套能够阐述宇宙基本物理理论的模型框架。 集智俱乐部组织翻译了全文。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>weixin</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-777</guid>
+    <title>关于Rust语言编程范式
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-777</link>
+    <description>上周六做了个关于Rust语言编程范式的直播，然后大家问了我很多编程语言的问题，我就即兴地写了一个PPT，事后我又精修了一下这个PPT，现在分享出来（免攻击声明：纯粹是我个人主观观点，欢迎喷观点，但不要对我进行人身攻击）
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>twitter</category><category>rust</category><category>haoel</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-778</guid>
+    <title>In Praise of Idleness
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-778</link>
+    <description>给大家推荐一篇罗素的In Praise of Idleness，我们并没必要不停的工作，把写程序当作众多技能中的一种也许会更轻松。不去接盘房子就不会有太大债务，利用空闲时间学习一点其它实用技能，养好身体，慢慢寻找机会。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-779</guid>
+    <title>四百多本书的免费下载
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-779</link>
+    <description>出版商 Springer 放出了四百多本书的免费下载链接，主要是计算机科学、数学、物理学、工程学、商业管理方面的书。 有兴趣的可以看看。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>ebooks</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-780</guid>
+    <title>程序员的基础知识,程序员!=语言+框架
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-780</link>
+    <description>程序员的基础知识,程序员!=语言+框架
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>image</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-781</guid>
+    <title>AVIF for Next-Generation Image Coding
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-781</link>
+    <description>By Aditya Mavlankar, Jan de Cock, Cyril Concolato, Kyle Swanson, Anush Moorthy and Anne Aaron
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>image</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-782</guid>
+    <title>Interactive Learning Platform for Software Engineers
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-782</link>
+    <description>Learn the latest technologies with our hands-on labs
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-783</guid>
+    <title>Go Search Extension
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-783</link>
+    <description>我做了一款在地址栏快速搜索go语言文档和第三方库的插件,感兴趣的朋友可以下载体验
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-784</guid>
+    <title>浏览器分词搜索有什么推荐的么？
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-784</link>
+    <description>浏览器分词搜索有什么推荐的么？
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>nlp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-785</guid>
+    <title>找日本it工作的7種途徑
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-785</link>
+    <description>大家好，我是麥芽糖 歡迎收看我的頻道，這個視頻我跟大家說壹說 來日本找程序員工作的7種途徑 揭露壹個騙子培訓機構 我的頻道是和大家壹起討論日本it資訊，以及日本生活指南的壹個頻道。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-786</guid>
+    <title>三年之久的 etcd 3 数据不一致 bug 分析
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-786</link>
+    <description>近日被挖掘出一个存在 3 年之久的数据不一致 bug——client 写入后无法在异常节点读取到数据，即数据丢失。本文介绍了我们是如何从问题分析、大胆猜测、严谨验证、排除、工程化复现，从 Raft 到 BoltDB，从源码定制再到 Chaos Monkey，一步步定位并解决 etcd 数据不一致 bug 的详细流程，并将解决方案提交给社区，移植到 etcd 3.4/3.3 生产环境分支。希望通过本文，能够揭开 etcd 的神秘面纱，让大家对 etcd 的原理和问题定位有一个较为深入的了解。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>wexin</category><category>etcd</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-787</guid>
+    <title>How Important are Algorithms and Data Structures in Backend Engineering?
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-787</link>
+    <description>Algorithms &amp; Data Structures are critical to Backend Engineering however it really depends on what kind of application and infrastructure you are building.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>algorithm</category><category>ds</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-788</guid>
+    <title>Why does Windows64 use a different calling convention from all other OSes on x86-64?
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-788</link>
+    <description>Why does Windows64 use a different calling convention from all other OSes on x86-64?
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>stackoverflow</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-789</guid>
+    <title>黑暗网站
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-789</link>
+    <description>黑暗网站（英語：Dark web）多简称为暗网，是存在于黑暗网络、覆盖网络上的万维网内容，只能用特殊軟體、特殊授權、或對電腦做特殊設定才能访问。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>wikipedia</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-790</guid>
+    <title>Managing services for non-root users with systemd
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-790</link>
+    <description>Systemd allows non-root users to manage their own services in the same way the root user does for the system.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>systemd</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-791</guid>
+    <title>英国政府的新冠病毒模型代码写的可真烂……
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-791</link>
+    <description>英国政府的新冠病毒模型。代码写的可真烂……
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-792</guid>
+    <title>在 VSCode 里玩 Draw.io
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-792</link>
+    <description>在 VSCode 里玩 Draw.io
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>vscode</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-793</guid>
+    <title>那你看下 https://www.kawabangga.com/posts/2761 这些吧，推荐 urwid
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-793</link>
+    <description>那你看下 https://www.kawabangga.com/posts/2761 这些吧，推荐 urwid
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>kawabangga</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-794</guid>
+    <title>pingtop
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-794</link>
+    <description>我之前用 urwid 写过一个 类似top的软件
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-795</guid>
+    <title>魔法级算法收集
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-795</link>
+    <description>魔法级算法收集
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-796</guid>
+    <title>分享一下这些励志故事吧。
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-796</link>
+    <description>分享一下这些励志故事吧。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-797</guid>
+    <title>开发了一个英文阅读辅助app
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-797</link>
+    <description>这两天学swiftui，开发了一个英文阅读辅助app，iOS内测版:https://testflight.apple.com/join/cU9qI5rn 每天自动推送两篇经济学人文章，一篇英文版的，一篇双语版的，想提高一下英文阅读的可以下载试用一下
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>apple</category><category>swift</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-798</guid>
+    <title>How to iterate over a PriorityQueue?
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-798</link>
+    <description>for (Event e : pq)  doesn&#39;t iterate in the priority order.  while(!pq.isEmpty()){   Event e = pq.poll(); }  This works but empties the queue.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>stackoverflow</category><category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-799</guid>
+    <title>dockerized: 用 docker 搭一些平时使用的服务
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-799</link>
+    <description>来，自荐下我的个人项目，用 docker 搭一些平时使用的服务，如果觉得可以，欢迎 star 哦
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>docker</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-800</guid>
+    <title>The Bw-Tree: A B-tree for New Hardware Platforms
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-800</link>
+    <description>The emergence of new hardware and platforms has led to reconsideration of how data management systems are designed. However, certain basic functions such as key indexed access to records remain essential. While we exploit the common architectural layering of prior systems, we make radically new design decisions about each layer. Our new form of B […]
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>ds</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-801</guid>
+    <title>前端开发的瓶颈与未来之路
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-801</link>
+    <description>花了两天时间写了一篇关于前端方面文章，希望各路大佬批评指正：https://mp.weixin.qq.com/s/MW8FRkAtSGQXrxvZZnh1zw
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>weixin</category><category>growth</category><category>frontend</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-802</guid>
+    <title>在阿里我们如何管理测试环境
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-802</link>
+    <description>阿里的许多实践看似简单，背后却蕴涵着许多思考，譬如测试环境的管理。互联网产品的服务通常是由Web应用、中间件、数据库和许多后台业务程序组成的，一套运行环境就是一个自成一体的小生态。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>aliyun</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-803</guid>
+    <title>如何在HTTP头里找工作
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-803</link>
+    <description>如何在HTTP头里找工作
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-804</guid>
+    <title>Open source fork of the Google Authenticator Android app
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-804</link>
+    <description>Open source fork of the Google Authenticator Android app - GitHub - google/google-authenticator-android: Open source fork of the Google Authenticator Android app
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>android</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-805</guid>
+    <title>Totp: google otp
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-805</link>
+    <description>totp, hotp,  source fork of the Google Authenticator Android app - GitHub - biutech/Totp: totp, hotp,  source fork of the Google Authenticator Android app
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>android</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-806</guid>
+    <title>Kubernetes Learning Path
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-806</link>
+    <description>Kubernetes is taking the app development world by storm. By 2022, more than 75% of global organizations will be running containerized applications in production.* Kubernetes is shaping the fut...
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-807</guid>
+    <title>Lockable Tree - Google Interview Question
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-807</link>
+    <description>Lockable tree is a great programming interview question asked by Google, and it is a very well thought out one. A lockable tree is a tree with nodes that can be locked if none of its ancestors and descendants is locked. In the question, we are asked to implement locking/unlocking operations that should run in O(h) time where h is the height of the tree. Lock/unlock methods do not need to be thread-safe.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>ds</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-808</guid>
+    <title>python-online-reading
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-808</link>
+    <description>https://github.com/makerroot/python-online-reading 欢迎大伙pr
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-809</guid>
+    <title>A comprehensive MySQL Tutorial
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-809</link>
+    <description>MySQL Tutorial website provides a comprehensive MySQL tutorial that helps you master MySQL fast, easy &amp; fun.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>mysql</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-810</guid>
+    <title>MySQL Beginner
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-810</link>
+    <description>MySQL Beginner
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>mysql</category><category>mooc</category><category>deleted</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-811</guid>
+    <title>Microsoft is bringing Linux GUI apps to Windows 10
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-811</link>
+    <description>Microsoft is bringing Linux GUI apps to Windows 10 https://t.co/wnBe8deYQl
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>twitter</category><category>windows</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-812</guid>
+    <title>Developer Roadmaps - roadmap.sh
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-812</link>
+    <description>Community driven roadmaps, articles and guides for developers to grow in their career.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-813</guid>
+    <title>微软正式推出 Windows 包管理工具
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-813</link>
+    <description>微软正式推出 Windows 包管理工具： Windows Package Manager。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>windows</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-814</guid>
+    <title>The Windows Subsystem for Linux BUILD 2020 Summary
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-814</link>
+    <description>This year at an all virtual BUILD conference we had many exciting announcements for the Windows Subsystem for Linux (WSL)! This blog post gives you a summary of all the WSL news, including what’s available now and what you can expect in the future.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>windows</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-815</guid>
+    <title>Windows Package Manager CLI
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-815</link>
+    <description>Windows Package Manager CLI (aka winget). Contribute to microsoft/winget-cli development by creating an account on GitHub.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>windows</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-816</guid>
+    <title>配置 vscode 远程开发环境
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-816</link>
+    <description>前言 使用windows的时候无法会有很多莫名其妙的配置问题(缺少vs****的dll,还需要下载vs,这会将 […]
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>vscode</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-817</guid>
+    <title>XY problem
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-817</link>
+    <description>The XY problem is a logical fallacy, a faulty mental model, and a communication problem encountered in help desk and similar situations in which the real issue, X, of the person asking for help is obscured, because instead of asking directly about issue X, they ask how to solve a secondary issue, Y, which they believe will allow them to resolve issue X.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-818</guid>
+    <title>记录一次authorized_keys被加锁引起的木马攻防战
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-818</link>
+    <description>发现一台服务器，ssh免密登陆不好使，用密码登陆后发现authorized_keys文件下有一条不知道的证书，估计是被黑了。删除证书时发现无法删除，提示 Operationnotpermitted
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-819</guid>
+    <title>程序员技术资源分享群内容整理
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-819</link>
+    <description>@tualatrix 我用 Notion 整理了一下 @haoel 耗子叔社群的编程资源：https://t.co/G6X3fRy9vg ，展示效果不错。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>twitter</category><category>notion</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-820</guid>
+    <title>Learn and share with other cloud native enthusiasts
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-820</link>
+    <description>Learn and share with other cloud native enthusiasts
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>cloud</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-821</guid>
+    <title>An opinionated guide to technology frontiers
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-821</link>
+    <description>The Technology Radar is an opinionated guide to technology frontiers. Read the latest here.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>thoughtworks</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-822</guid>
+    <title>EdX KTHx ID2203 Reliable Distributed Algorithms
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-822</link>
+    <description>These videos are part of the edx.org course on reliable distributed algorithm by edX KTHx. Part 1 and Part 2 A new round of the two courses starts October 2017.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-823</guid>
+    <title>Aircraft, Design, synthesis and analysis
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-823</link>
+    <description>Aircraft, Design, synthesis and analysis
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>pdf</category><category>deleted</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-824</guid>
+    <title>Building Microservices with Spring Cloud
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-824</link>
+    <description>Youtube 上有很多 webinar 其实也很有意思 比如我喜欢看 Josh Long 的 看他现场编码 能学到一些带着 Spring 原生气息的编程小技巧 比如这个 https://www.youtube.com/watch?v=ZyK5QrKCbwM
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>java</category><category>spring</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-825</guid>
+    <title>浅析Java的线程调度策略
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-825</link>
+    <description>作者：杨兴强原文来源：开点工作室（ID：kaidiancs） 一．从一个例子开始 看着Java线程执行起来的那种任性和随意，我们不免会问：是谁在主导Java线程的执行？它按照...
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>java</category><category>thread</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-826</guid>
+    <title>What every developer should know about TCP
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-826</link>
+    <description>Why do you need to place your servers geographically close to your users? One of the reasons is to achieve lower latencies. That makes a lot of sense when you are sending short bursts of data that should be delivered as quickly as possible. But what about large files, such as videos? Surely there is a latency penalty for receiving the first byte, but shouldn’t it be smooth sailing after that?
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>network</category><category>tcp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-827</guid>
+    <title>Linux程序设计
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-827</link>
+    <description>本书讲述了Linux 系统及其他UNIX 风格的操作系统上的程序开发，主要内容包括标准Linux C 语言函数库和由不同的Linux 或UNIX 标准指定的各种工具的使用方法，大多数标准Linux 开发工具的使用方法，通过DBM 和MySQL 数据库系统存储Linux 中的数据，为X 视窗系统建立图形化用户界面等。本书通过先介绍程序设计理论，再以适当的例子和清晰的解释来阐明它的方式，帮助读者迅速掌握相关的知识。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>c</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-828</guid>
+    <title>The Definitive C Book Guide and List
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-828</link>
+    <description>This question attempts to collect a community-maintained list of quality books on the c programming language, targeted at various skill levels.  C is a complex programming language that is difficult...
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>stackoverflow</category><category>c</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-829</guid>
+    <title>Assembly’s Perspective of C
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-829</link>
+    <description>If you are living under a rock, quarantined against COVID-19, here’s quite a long, and somewhat technical, post for your consumption. This post will talk about how C and assembly dance together–the tango? waltz? who knows?
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>webassembly</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-830</guid>
+    <title>国内技术书盗版现状
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-830</link>
+    <description>我在 18 年出版了一本技术书，快两年过去了，和盗版打了很多交道。这篇文章从一个技术书作者的视角以 2018~2020 作为切片来记录一下国内技术书的盗版现状。 盗版的起源 我的书第一次上架到电子书平台是在 18 年 8 月 24 号，纸质书正式开始发售是在同年 9 月 13 号。仅仅不到一个月的时间，在 10 月初，淘宝上就开始出现了大量盗版影印书（大约有十几个，价格多在 ￥30 左右）。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>books</category><category>copyright</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-831</guid>
+    <title>Watch &quot;Building Software Systems At Google and Lessons Learned&quot; on YouTube
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-831</link>
+    <description>Watch &quot;Building Software Systems At Google and Lessons Learned&quot; on YouTube
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>google</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-832</guid>
+    <title>A curated list of awesome Deno
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-832</link>
+    <description>A curated list of awesome Deno frameworks, libraries, software and resources.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>deno</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-833</guid>
+    <title>使用kubesql查询kubernetes资源
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-833</link>
+    <description>kubectl虽然查询单个的kubernetes资源或者列表都已经比较方便，但是进行更为多个资源的联合查询（比如pod和node），以及查询结果的二次处理方面却是kubectl无法胜任的。所以一直以来，我都有想法将kubernetes作为数据库进行查询
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-834</guid>
+    <title>A native Rust robots.txt parser
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-834</link>
+    <description>A native Rust port of Google&#39;s robots.txt parser and matcher C++ library.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>rust</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-835</guid>
+    <title>Internet Protocol - IPv4 vs IPv6 as Fast As Possible
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-835</link>
+    <description>IPv4 vs IPv6... Why do we need to transition from the Internet Protocol that&#39;s served us so well for all these years? Maybe because we&#39;re completely running out of IP addresses!
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-836</guid>
+    <title>The Big List of Naughty Strings
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-836</link>
+    <description>The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-837</guid>
+    <title>笔记应用 joplin
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-837</link>
+    <description>an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-838</guid>
+    <title>一个介绍 PyTorch 的playlist
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-838</link>
+    <description>发现一个介绍 PyTorch 的playlist，动画效果属实不错，缺点是废话有点多。。建议1.25或1.5倍速
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-839</guid>
+    <title>Windows Subsystem for Linux Documentation
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-839</link>
+    <description>Overview of the Windows Subsystem for Linux documentation.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>microsoft</category>
   </item>
 
     </channel>

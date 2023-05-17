@@ -1,0 +1,29 @@
+---
+title: |
+    M1芯片内存访问顺序的一致性
+date: 2020-11-18
+draft: false
+tags: [apple,memory]
+summary: |
+    Apple的M1芯片可能会给你的多线程序带来一些bug，因为ARM芯片不像X86的芯片会保证内存访问顺的一致性。（当然，如果高级语方处理了则不会有问题）
+---
+
+## Content
+
+Apple的M1芯片可能会给你的多线程序带来一些bug，因为ARM芯片不像X86的芯片会保证内存访问顺的一致性。（当然，如果高级语方处理了则不会有问题）
+
+有两篇文章可以读一下：
+
+1）强弱内存模型的CPU
+
+https://preshing.com/20120930/weak-vs-strong-memory-models/
+
+2）在弱内存模型的CPU上的内存访问乱序的问题
+
+https://preshing.com/20121019/this-is-why-they-call-it-a-weakly-ordered-cpu/
+
+## Link Preview
+
+- https://preshing.com/20120930/weak-vs-strong-memory-models/
+- Weak vs. Strong Memory Models
+- There are many types of memory reordering, and not all types of reordering occur equally often. It all depends on processor you’re targeting and/or the toolchain you’ …

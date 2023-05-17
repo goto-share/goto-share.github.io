@@ -1,0 +1,19 @@
+---
+title: |
+    三年之久的 etcd 3 数据不一致 bug 分析
+date: 2020-05-27
+draft: false
+tags: [wexin, etcd]
+summary: |
+    近日被挖掘出一个存在 3 年之久的数据不一致 bug——client 写入后无法在异常节点读取到数据，即数据丢失。本文介绍了我们是如何从问题分析、大胆猜测、严谨验证、排除、工程化复现，从 Raft 到 BoltDB，从源码定制再到 Chaos Monkey，一步步定位并解决 etcd 数据不一致 bug 的详细流程，并将解决方案提交给社区，移植到 etcd 3.4/3.3 生产环境分支。希望通过本文，能够揭开 etcd 的神秘面纱，让大家对 etcd 的原理和问题定位有一个较为深入的了解。
+---
+
+## Content
+
+https://mp.weixin.qq.com/s/PCoce4gK3KiS9G6HEhH44w
+
+## Link Preview
+
+- https://mp.weixin.qq.com/s/PCoce4gK3KiS9G6HEhH44w
+- 三年之久的 etcd 3 数据不一致 bug 分析
+- etcd 作为 Kubernetes 集群的元数据存储，是被业界广泛使用的强一致性 KV 存储，但近日被挖掘出一个存在 3 年之久的数据不一致 bug——client 写入后无法在异常节点读取到数据，即数据丢失。本文介绍了我们是如何从问题分析、大胆猜测、严谨验证、排除、工程化复现，从 Raft 到 BoltDB，从源码定制再到 Chaos Monkey，一步步定位并解决 etcd 数据不一致 bug 的详细流程，并将解决方案提交给社区，移植到 etcd 3.4/3.3 生产环境分支。希望通过本文，能够揭开 etcd 的神秘面纱，让大家对 etcd 的原理和问题定位有一个较为深入的了解。

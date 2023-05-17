@@ -15,11 +15,13 @@ repo = gh.get_repo(os.environ.get('GH_REPO'))
 
 
 def export_issues():
-    issues = repo.get_issues(state='closed')
+    issues = repo.get_issues(state='open')
     counter = 0
     for issue in issues:
         date = issue.created_at.strftime(FMT_DATE)
         if date < POST_FILTER_DATE:
+            break
+        if '2020-' not in issue.title:
             break
         tags = [i.name for i in issue.labels]
         if POST_FILTER_LABEL not in tags:
