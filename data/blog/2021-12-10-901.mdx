@@ -1,0 +1,23 @@
+---
+title: |
+    Apache Log4j 的 0 day 漏洞原理
+date: 2021-12-10
+draft: false
+tags: [0day, security]
+summary: |
+    Apache Log4j 的 0 day 远程代码执行，是经典的 JNDI注入攻击，通过加载远程类完成，下面两篇文章大家都学习一下吧其漏洞原理。
+---
+
+## Content
+
+Apache Log4j 的 0 day 远程代码执行，是经典的 JNDI注入攻击，通过加载远程类完成，下面两篇文章大家都学习一下吧其漏洞原理。
+
+[1] Exploiting JNDI Injections in Java https://www.veracode.com/blog/research/exploiting-jndi-injections-java
+
+[2] A Journey-From JNDI-LDAP Manipulation To Remote Code Execution https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE.pdf
+
+## Link Preview
+
+- https://www.veracode.com/blog/research/exploiting-jndi-injections-java
+- Exploiting JNDI Injections in Java | Veracode
+- Java Naming and Directory Interface (JNDI) is a Java API that allows clients to discover and look up data and objects via a name. These objects can be stored in different naming or directory services, such as Remote Method Invocation (RMI), Common Object Request Broker Architecture (CORBA), Lightweight Directory Access Protocol (LDAP), or Domain Name Service (DNS).

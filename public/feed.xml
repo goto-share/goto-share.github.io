@@ -302,26 +302,26 @@
 
   <item>
     <guid>https://goto-share.github.io/blog/2022-02-13-905</guid>
-    <title>一把梭：REST API 全用 POS
+    <title>一把梭：REST API 全用 POST
 </title>
     <link>https://goto-share.github.io/blog/2022-02-13-905</link>
     <description>还是写篇文章讨论一下这个事。文章包括如下部分: - 为什么要用不同的HTTP动词？- REST API进行复杂查询 - 几个主要问题的回应
 </description>
     <pubDate>Sun, 13 Feb 2022 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>coolshell</category>
+    <category>coolshell</category><category>restful</category><category>http</category>
   </item>
 
   <item>
     <guid>https://goto-share.github.io/blog/2022-01-07-903</guid>
-    <title>技术分享：Kube-OVN 容器性能优化之旅（刘梦馨）
+    <title>技术分享：Kube-OVN 容器性能优化之旅
 </title>
     <link>https://goto-share.github.io/blog/2022-01-07-903</link>
-    <description>技术分享：Kube-OVN 容器性能优化之旅（刘梦馨）
+    <description>技术分享：Kube-OVN 容器性能优化之旅（刘梦馨）。容器网络性能优化之旅 - 容器网络性能测试以及 Profile 方法 - 网络性能瓶颈分析及优化过程 - 后续可能的优化方法和方向
 </description>
     <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>1drv</category><category>bilibili</category><category>youtube</category><category>kubernates</category>
+    <category>1drv</category><category>bilibili</category><category>youtube</category><category>kubernetes</category>
   </item>
 
   <item>
@@ -329,11 +329,407 @@
     <title>网络数字身份认证术
 </title>
     <link>https://goto-share.github.io/blog/2022-01-07-904</link>
-    <description>网络数字身份认证术 | 酷 壳 - CoolShell
+    <description>这篇文章是《HTTP API 认证授权术》的姊妹篇，在那篇文章中，主要介绍了 HTTP API 认证和授权技术中用到的 HTTP Basic, Digest Access, HMAC, OAuth, JWT 等各种方式，主要是 API 上用到的一些技术，这篇文章主要想说的是另一个话题——身份认证。也就是说，怎么确认这个数据就是这个人发出来的？
 </description>
     <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>coolshell</category>
+    <category>coolshell</category><category>id</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-12-21-902</guid>
+    <title>我做架构的一些原则
+</title>
+    <link>https://goto-share.github.io/blog/2021-12-21-902</link>
+    <description>工作 20 年来看到了很多公司的很多的系统架构，相关的经历也越来越多，所以，逐渐形成了自己的逻辑和方法论。写下这篇文章，除了总结个人的经验和想法，供人参考和借鉴。同时，也是针对于现有市面上众多不合理的架构和方案，也作一种“纠正”
+</description>
+    <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-12-10-901</guid>
+    <title>Apache Log4j 的 0 day 漏洞原理
+</title>
+    <link>https://goto-share.github.io/blog/2021-12-10-901</link>
+    <description>Apache Log4j 的 0 day 远程代码执行，是经典的 JNDI注入攻击，通过加载远程类完成，下面两篇文章大家都学习一下吧其漏洞原理。
+</description>
+    <pubDate>Fri, 10 Dec 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>blackhat</category><category>veracode</category><category>0day</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-11-19-900</guid>
+    <title>源代码特洛伊木马攻击
+</title>
+    <link>https://goto-share.github.io/blog/2021-11-19-900</link>
+    <description>最近，我们在 Github 的 Code Review 中看到 Github 开始出现下面这个 Warning 信息—— “This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below.”也就是说我们的代码中有一些 bidirectional unicode 的文本，中文直译作 “双向文本”，意思是一些语言是从左到右的，而另一些则是是从右到左的（如：阿拉伯语），如果同一个文件里，即有从左向右的文本也有从右向左文本两种的混搭，那么，就叫bi-direction。术语通常缩写为“ BiDi ”或“ bidi ”。使用双向文本对于中国人来说并不陌生，因为中文又可以从左到右，也可以从右到左，还可以从上到下。
+</description>
+    <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-10-03-892</guid>
+    <title>为什么玩游戏容易上瘾而学习不会？
+</title>
+    <link>https://goto-share.github.io/blog/2021-10-03-892</link>
+    <description>你学习咋没像玩游戏那样呢？ 那学习为什么不像游戏那样好玩？
+</description>
+    <pubDate>Sun, 03 Oct 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-09-20-891</guid>
+    <title>程序员文摘：第四期
+</title>
+    <link>https://goto-share.github.io/blog/2021-09-20-891</link>
+    <description>程序员文摘：第四期
+</description>
+    <pubDate>Mon, 20 Sep 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>digest</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-09-12-890</guid>
+    <title>程序员文摘
+</title>
+    <link>https://goto-share.github.io/blog/2021-09-12-890</link>
+    <description>程序员文摘
+</description>
+    <pubDate>Sun, 12 Sep 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>digest</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-09-11-889</guid>
+    <title>技术分享：用 Easegress + WebAssembly 做秒杀
+</title>
+    <link>https://goto-share.github.io/blog/2021-09-11-889</link>
+    <description>技术分享：用 Easegress + WebAssembly 做秒杀
+</description>
+    <pubDate>Sat, 11 Sep 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>easegress</category><category>webassembly</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-09-05-888</guid>
+    <title>Zlibrary
+</title>
+    <link>https://goto-share.github.io/blog/2021-09-05-888</link>
+    <description>0️⃣【#电子书】 Zlibrary（ https://1lib.us/ ）是个电子书网站，可以搜到很多很多电子书，不管是中文还是英文原版。
+</description>
+    <pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>zlibrary</category><category>ebooks</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-09-04-885</guid>
+    <title>GO编程模式：泛型编程
+</title>
+    <link>https://goto-share.github.io/blog/2021-09-04-885</link>
+    <description>Go语言的1.17版本发布了，其中开始正式支持泛型了。虽然还有一些限制（比如，不能把泛型函数export），但是，可以体验了。我的这个《Go编程模式》的系列终于有了真正的泛型编程了，再也不需要使用反射或是go generation这些难用的技术了。周末的时候，我把Go 1.17下载下来，然后，体验了一下泛型编程，还是很不错的。下面，就让我们来看一下Go的泛型编程
+</description>
+    <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-08-29-884</guid>
+    <title>Public API Lists
+</title>
+    <link>https://goto-share.github.io/blog/2021-08-29-884</link>
+    <description>1️⃣ Public API Lists
+</description>
+    <pubDate>Sun, 29 Aug 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>API</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-08-12-883</guid>
+    <title>deleted
+</title>
+    <link>https://goto-share.github.io/blog/2021-08-12-883</link>
+    <description>deleted
+</description>
+    <pubDate>Thu, 12 Aug 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>weixin</category><category>deleted</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-07-13-882</guid>
+    <title>如何做一个有质量的技术分享
+</title>
+    <link>https://goto-share.github.io/blog/2021-07-13-882</link>
+    <description>分享信息并不难，大多数人都能做到，就算是不善言谈性格内向的技术人员，通过博客或社交媒体，或是不正式的交流，他们都能或多或少的做到。但是如果你想要做一个有质量有高度的分享，这个就难了，所谓的有质量和有高度，我心里面的定义有两点：1）分享内容的保鲜期是很长的，2）会被大范围的传递。我们团队内每周都在做技术分享，虽然分享的主题都很有价值，但是分享的质量参差不齐，所以，想写下这篇文章 。供大家参考
+</description>
+    <pubDate>Tue, 13 Jul 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>talk</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-07-03-880</guid>
+    <title>怎么写一个JavaAgent
+</title>
+    <link>https://goto-share.github.io/blog/2021-07-03-880</link>
+    <description>怎么写一个JavaAgent
+</description>
+    <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>agent</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-07-03-881</guid>
+    <title>分布式锁管理
+</title>
+    <link>https://goto-share.github.io/blog/2021-07-03-881</link>
+    <description>分布式锁管理
+</description>
+    <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>distributed</category><category>haoel</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-06-29-879</guid>
+    <title>在腾讯云上的Serverless的分享
+</title>
+    <link>https://goto-share.github.io/blog/2021-06-29-879</link>
+    <description>微服务是一把双刃剑，在让我们提升开发效率的同时，也会让运维难度加大，尤其是 Serverless，其微服务器的粒度更小，随着数量的增长，缺乏配套设施的架构会变得一发不可收拾，而治理和运维的难度也随之呈现级数性增长。本次分享主要讨论如何对 Serverless 进行更有效的服务治理。本文由MegaEase 创始人、腾讯云TVP 陈皓在 Techo TVP 开发者峰会 ServerlessDays China 2021上的演讲《Serverless 的服务治理》整理而成，向大家分享。
+</description>
+    <pubDate>Tue, 29 Jun 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>weixin</category><category>serverless</category><category>haoel</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-05-20-878</guid>
+    <title>技术分享：Sledge: Serverless + WASM Runtime
+</title>
+    <link>https://goto-share.github.io/blog/2021-05-20-878</link>
+    <description>An Introduction about -  What is WebAssembly -  How does WebAssembly impact Serverless/FaaS technology.  -  Sledge - multiple functions in one process.
+</description>
+    <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>serverless</category><category>webassembly</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-05-19-877</guid>
+    <title>技术分享：Kubernetes Networking Model
+</title>
+    <link>https://goto-share.github.io/blog/2021-05-19-877</link>
+    <description>主要分享Kubernetes的网络模型 分享人：赵锟 ( https://github.com/zhao-kun )
+</description>
+    <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-05-18-876</guid>
+    <title>Google Cloud API design most popular blog posts
+</title>
+    <link>https://goto-share.github.io/blog/2021-05-18-876</link>
+    <description>Find our most requested blog posts on API design in one location to read now or bookmark for later.
+</description>
+    <pubDate>Tue, 18 May 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>google</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-03-15-875</guid>
+    <title>一个和手势识别有关的gist
+</title>
+    <link>https://goto-share.github.io/blog/2021-03-15-875</link>
+    <description>一个和手势识别有关的gist
+</description>
+    <pubDate>Mon, 15 Mar 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-03-08-874</guid>
+    <title>Patterns of Distributed Systems
+</title>
+    <link>https://goto-share.github.io/blog/2021-03-08-874</link>
+    <description>A catalog of patterns to better understand, communicate, and teach the design of distributed systems
+</description>
+    <pubDate>Mon, 08 Mar 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>martinfowler</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-03-07-872</guid>
+    <title>How do SSDs Work?
+</title>
+    <link>https://goto-share.github.io/blog/2021-03-07-872</link>
+    <description>Have you ever wondered how your smartphone can store countless pictures, songs, or videos?  Or, have you wondered when you download a podcast to your smartphone, where does it actually get stored?  In this video, we will open up your smartphone and take a look at the inside of the memory storage microchip.  This same microchip is also used to store data in solid-state drives, or SSDs in your computer, in tablets, and inside flash drives.  The technology is called VNAND or V-NAND, and it&#39;s incredible how engineers were able to fit such an insane amount of memory storage capacity in such a small space.  Do you want to support in-depth engineering and technology education? Support us on: https://www.patreon.com/brancheducation   Website: https://www.branch.education  On Facebook: https://www.facebook.com/BranchEducation/  On Twitter: https://twitter.com/TeddyTablante  On Insta: https://www.instagram.com/brancheducation/  Or Join us on YouTube Memberships: https://www.youtube.com/channel/UCdp4_l1vPmpN-gDbUwhaRUQ/join  Written, animated, and edited- Teddy Tablante   Twitter: @teddytablante Voice Over- Phil Lee  Timestamps:   0:00 - Intro into SSDs 2:06 - Example of Saving a Picture 4:17 - Pixel Calculations 5:19 - Single Memory Cell 7:59 - Vertical Strings and Pages 10:34 - Control Gates of VNAND 12:00 - Calculations of Example Array 13:09 - True size of an SSD microchip  14:50 - Overall chip in an SSD 16:07 - Outro 16:32 - Creator&#39;s comments 16:54 - Future Episodes  This video is part of a series that intends to thoroughly explain how SSDs, and more specifically how VNAND works.  These are the episodes in the series:  1) [18min] Overview on how SSDs / VNAND / Smartphone storage works.  2) [3min] Quick/Abridged episode of the overview  3) How charge trap flash works.  (details on a single memory cell)  4) How strings of memory cells work (details on a stack of memory cells)  5) How a massive array of memory cells are organized. (Terabit Cell Array Transistor, TCAT)  6) How is VNAND manufactured?  7) Possible episode on an analogy using a city &amp; apartments to explain VNAND.  Key Branches from this video are: Microchips, CPUs, Integrated Circuits,  Erratum:    Animation built using Blender 2.82a https://www.blender.org/  Post with Adobe Premiere Pro  Book References: Aritome, Seiichi. (2015).  NAND flash memory technologies.  IEEE Press Series on Microelectronic Systems.  Wiley.  [2nd most useful resource]    Cai, Yu et al.  (2013) Threshold Voltage Distribution in MLC NAND Flash Memory:  Characterization Analysis, and Modeling.  2013 Design, Automation &amp; Test in Europe Conference &amp; Exhibition.  IEEE.  Micheloni, Rino.  Marelli, Alessia.  Eshghi, Kam. (2018)  Inside solid state drives (SSDs) Second edition.  Springer Series in Advanced Microelectronics Volume 37. Springer.    Micheloni, Rino.  (2017) Solid-state-drives (SSDs) Modeling, Simulation tools &amp; strategies.  Springer Series in Advanced Microelectronics Volume 58.  Springer  Micheloni, Rino. Crippa, Luca. (2016) 3D flash memories. Springer.   [Chapter 4- Most useful resource]   Pierret, Robert F. (1996)  Semiconductor Device Fundamentals. Addison-Wesley Publishing Company.  Prince, Betty.  (2014) Vertical 3D Memory Technologies.  Wiley  Internet References: Crisp, Simon. (29/01/2018)  Samsung SSD860 PRO 4TB SSD Review.  Kitguru.net https://www.kitguru.net/components/ssd-drives/simon-crisp/samsung-ssd860-pro-4tb-ssd-review/all/1/ (Accessed 07/05/2020)  Mellor, Chris. (28/07/2016) QLC flash istricky stuff to make and use, so here&#39;s a primer.  TheRegister.co.uk https://www.theregister.co.uk/2016/07/28/qlc_flash_primer/ (Accessed 07/05/2020)  Samsung Website.  Samsung 1TB Details and Specifications www.samsung.com https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-2-5--sata-iii-1tb-mz-76e1t0b-am/ (Accessed 07/05/2020)  Shah, Dhiram. (27/02/2019) Samsung Begins Mass Production of Frist 512 GB eUFS3.0 for Next-Generation Mobile Devices. Fareastgizmos.com https://fareastgizmos.com/smartphone/samsung-begins-mass-production-of-first-512gb-eufs-3-0…
+</description>
+    <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>ssd</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-03-07-873</guid>
+    <title>Coding for SSDs – Part 1: Introduction and Table of Contents
+</title>
+    <link>https://goto-share.github.io/blog/2021-03-07-873</link>
+    <description>I want to make solid-state drives (SSDs) the optimal storage solution for my key-value store project. For that reason, I had to make sure I fully understood how SSDs work
+</description>
+    <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>codecapsule</category><category>ssd</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-02-23-870</guid>
+    <title>FOQS: Scaling a distributed priority queue
+</title>
+    <link>https://goto-share.github.io/blog/2021-02-23-870</link>
+    <description>Facebook Ordered Queueing Service (FOQS) supports the asynchronous computing workloads that run many of Facebook’s services at scale.
+</description>
+    <pubDate>Tue, 23 Feb 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>facebook</category><category>queue</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-02-23-871</guid>
+    <title>技术分享：Prometheus是怎么存储数据的
+</title>
+    <link>https://goto-share.github.io/blog/2021-02-23-871</link>
+    <description>技术分享：Prometheus是怎么存储数据的
+</description>
+    <pubDate>Tue, 23 Feb 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>prometheus</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-02-14-868</guid>
+    <title>25 JavaScript Tricks You Need To Know About
+</title>
+    <link>https://goto-share.github.io/blog/2021-02-14-868</link>
+    <description>Including some useful bits of code and utilities
+</description>
+    <pubDate>Sun, 14 Feb 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>medium</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-02-14-869</guid>
+    <title>25 JavaScript Tricks You Need To Know About (Part 2)
+</title>
+    <link>https://goto-share.github.io/blog/2021-02-14-869</link>
+    <description>Universal any item getter
+</description>
+    <pubDate>Sun, 14 Feb 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>medium</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-02-12-867</guid>
+    <title>代码防腐实用技术
+</title>
+    <link>https://goto-share.github.io/blog/2021-02-12-867</link>
+    <description>代码防腐实用技术. Contribute to taowen/modularization-examples development by creating an account on GitHub.
+</description>
+    <pubDate>Fri, 12 Feb 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>coding</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-01-28-866</guid>
+    <title>10个小时的DataStructure的教学视频
+</title>
+    <link>https://goto-share.github.io/blog/2021-01-28-866</link>
+    <description>10个小时的DataStructure的教学视频，看了下开头，还是挺好的（可以练习印度英文听力，哈）
+</description>
+    <pubDate>Thu, 28 Jan 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>ds</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-01-19-864</guid>
+    <title>Optimizing Kafka consumers
+</title>
+    <link>https://goto-share.github.io/blog/2021-01-19-864</link>
+    <description>Strimzi provides a way to run an Apache Kafka cluster on Kubernetes in various deployment configurations.
+</description>
+    <pubDate>Tue, 19 Jan 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>strimzi</category><category>kubernetes</category><category>kafka</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-01-19-865</guid>
+    <title>Optimizing Kafka producers
+</title>
+    <link>https://goto-share.github.io/blog/2021-01-19-865</link>
+    <description>Strimzi provides a way to run an Apache Kafka cluster on Kubernetes in various deployment configurations.
+</description>
+    <pubDate>Tue, 19 Jan 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>strimzi</category><category>kubernetes</category><category>kafka</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-01-16-862</guid>
+    <title>Entire Computer Science Curriculum in 1000 YouTube Videos
+</title>
+    <link>https://goto-share.github.io/blog/2021-01-16-862</link>
+    <description>This is The Entire Computer Science Curriculum in 1000 YouTube Videos. The curriculum is going to be organized in 40 courses in total, further organized in 4 academic years...
+</description>
+    <pubDate>Sat, 16 Jan 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>laconicml</category><category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-01-16-863</guid>
+    <title>Computer System Engineering
+</title>
+    <link>https://goto-share.github.io/blog/2021-01-16-863</link>
+    <description>This class covers topics on the engineering of computer software and hardware systems. Topics include techniques for controlling complexity; strong modularity using client-server design, operating systems; performance, networks; naming; security and privacy; fault-tolerant systems, atomicity and coordination of concurrent activities, and recovery; impact of computer systems on society.
+</description>
+    <pubDate>Sat, 16 Jan 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>mit</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-01-14-861</guid>
+    <title>Timing web requests with cURL and Chrome
+</title>
+    <link>https://goto-share.github.io/blog/2021-01-14-861</link>
+    <description>When considering website performance, the term TTFB - time to first byte - crops up regularly. Often we see measurements from cURL and Chrome, and this article will show what timings those tools can produce, including time to first byte...
+</description>
+    <pubDate>Thu, 14 Jan 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>cloudflare</category><category>perf</category><category>curl</category><category>chrome</category>
   </item>
 
     </channel>
