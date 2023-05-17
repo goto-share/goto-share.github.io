@@ -45,7 +45,7 @@
 </description>
     <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>coolshell</category>
+    <category>coolshell</category><category>security</category>
   </item>
 
   <item>
@@ -86,7 +86,7 @@
 
   <item>
     <guid>https://goto-share.github.io/blog/2022-02-13-905</guid>
-    <title>一把梭：REST API 全用 POS
+    <title>一把梭：REST API 全用 POST
 </title>
     <link>https://goto-share.github.io/blog/2022-02-13-905</link>
     <description>还是写篇文章讨论一下这个事。文章包括如下部分: - 为什么要用不同的HTTP动词？- REST API进行复杂查询 - 几个主要问题的回应
@@ -101,11 +101,59 @@
     <title>网络数字身份认证术
 </title>
     <link>https://goto-share.github.io/blog/2022-01-07-904</link>
-    <description>网络数字身份认证术 | 酷 壳 - CoolShell
+    <description>这篇文章是《HTTP API 认证授权术》的姊妹篇，在那篇文章中，主要介绍了 HTTP API 认证和授权技术中用到的 HTTP Basic, Digest Access, HMAC, OAuth, JWT 等各种方式，主要是 API 上用到的一些技术，这篇文章主要想说的是另一个话题——身份认证。也就是说，怎么确认这个数据就是这个人发出来的？
 </description>
     <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>coolshell</category>
+    <category>coolshell</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-12-21-902</guid>
+    <title>我做架构的一些原则
+</title>
+    <link>https://goto-share.github.io/blog/2021-12-21-902</link>
+    <description>工作 20 年来看到了很多公司的很多的系统架构，相关的经历也越来越多，所以，逐渐形成了自己的逻辑和方法论。写下这篇文章，除了总结个人的经验和想法，供人参考和借鉴。同时，也是针对于现有市面上众多不合理的架构和方案，也作一种“纠正”
+</description>
+    <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-11-19-900</guid>
+    <title>源代码特洛伊木马攻击
+</title>
+    <link>https://goto-share.github.io/blog/2021-11-19-900</link>
+    <description>最近，我们在 Github 的 Code Review 中看到 Github 开始出现下面这个 Warning 信息—— “This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below.”也就是说我们的代码中有一些 bidirectional unicode 的文本，中文直译作 “双向文本”，意思是一些语言是从左到右的，而另一些则是是从右到左的（如：阿拉伯语），如果同一个文件里，即有从左向右的文本也有从右向左文本两种的混搭，那么，就叫bi-direction。术语通常缩写为“ BiDi ”或“ bidi ”。使用双向文本对于中国人来说并不陌生，因为中文又可以从左到右，也可以从右到左，还可以从上到下。
+</description>
+    <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-09-04-885</guid>
+    <title>GO编程模式：泛型编程
+</title>
+    <link>https://goto-share.github.io/blog/2021-09-04-885</link>
+    <description>Go语言的1.17版本发布了，其中开始正式支持泛型了。虽然还有一些限制（比如，不能把泛型函数export），但是，可以体验了。我的这个《Go编程模式》的系列终于有了真正的泛型编程了，再也不需要使用反射或是go generation这些难用的技术了。周末的时候，我把Go 1.17下载下来，然后，体验了一下泛型编程，还是很不错的。下面，就让我们来看一下Go的泛型编程
+</description>
+    <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-07-13-882</guid>
+    <title>如何做一个有质量的技术分享
+</title>
+    <link>https://goto-share.github.io/blog/2021-07-13-882</link>
+    <description>分享信息并不难，大多数人都能做到，就算是不善言谈性格内向的技术人员，通过博客或社交媒体，或是不正式的交流，他们都能或多或少的做到。但是如果你想要做一个有质量有高度的分享，这个就难了，所谓的有质量和有高度，我心里面的定义有两点：1）分享内容的保鲜期是很长的，2）会被大范围的传递。我们团队内每周都在做技术分享，虽然分享的主题都很有价值，但是分享的质量参差不齐，所以，想写下这篇文章 。供大家参考
+</description>
+    <pubDate>Tue, 13 Jul 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>talk</category>
   </item>
 
     </channel>

@@ -14,7 +14,7 @@
       
   <item>
     <guid>https://goto-share.github.io/blog/2022-02-13-905</guid>
-    <title>一把梭：REST API 全用 POS
+    <title>一把梭：REST API 全用 POST
 </title>
     <link>https://goto-share.github.io/blog/2022-02-13-905</link>
     <description>还是写篇文章讨论一下这个事。文章包括如下部分: - 为什么要用不同的HTTP动词？- REST API进行复杂查询 - 几个主要问题的回应

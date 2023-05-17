@@ -24,5 +24,29 @@
     <category>medium</category><category>memory</category><category>golang</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-02-14-868</guid>
+    <title>25 JavaScript Tricks You Need To Know About
+</title>
+    <link>https://goto-share.github.io/blog/2021-02-14-868</link>
+    <description>Including some useful bits of code and utilities
+</description>
+    <pubDate>Sun, 14 Feb 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>medium</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-02-14-869</guid>
+    <title>25 JavaScript Tricks You Need To Know About (Part 2)
+</title>
+    <link>https://goto-share.github.io/blog/2021-02-14-869</link>
+    <description>Universal any item getter
+</description>
+    <pubDate>Sun, 14 Feb 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>medium</category><category>javascript</category>
+  </item>
+
     </channel>
   </rss>

@@ -21,7 +21,31 @@
 </description>
     <pubDate>Sat, 11 Jun 2022 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>kevinzhow</category><category>swift</category><category>webassembly</category>
+    <category>swift</category><category>webassembly</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-09-11-889</guid>
+    <title>技术分享：用 Easegress + WebAssembly 做秒杀
+</title>
+    <link>https://goto-share.github.io/blog/2021-09-11-889</link>
+    <description>技术分享：用 Easegress + WebAssembly 做秒杀
+</description>
+    <pubDate>Sat, 11 Sep 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>easegress</category><category>webassembly</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-05-20-878</guid>
+    <title>技术分享：Sledge: Serverless + WASM Runtime
+</title>
+    <link>https://goto-share.github.io/blog/2021-05-20-878</link>
+    <description>An Introduction about -  What is WebAssembly -  How does WebAssembly impact Serverless/FaaS technology.  -  Sledge - multiple functions in one process.
+</description>
+    <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>youtube</category><category>serverless</category><category>webassembly</category>
   </item>
 
     </channel>

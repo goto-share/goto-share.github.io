@@ -24,5 +24,17 @@
     <category>megaease</category><category>youtube</category><category>architecture</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-12-21-902</guid>
+    <title>我做架构的一些原则
+</title>
+    <link>https://goto-share.github.io/blog/2021-12-21-902</link>
+    <description>工作 20 年来看到了很多公司的很多的系统架构，相关的经历也越来越多，所以，逐渐形成了自己的逻辑和方法论。写下这篇文章，除了总结个人的经验和想法，供人参考和借鉴。同时，也是针对于现有市面上众多不合理的架构和方案，也作一种“纠正”
+</description>
+    <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>architecture</category>
+  </item>
+
     </channel>
   </rss>

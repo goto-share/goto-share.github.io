@@ -1,0 +1,76 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
+      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <lastBuildDate>Fri, 03 Feb 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/security/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2023-02-03-925</guid>
+    <title>聊聊 nostr 和 审查
+</title>
+    <link>https://goto-share.github.io/blog/2023-02-03-925</link>
+    <description>本文包括 nostr协议简介，如何对抗审查，如何对抗Spam和骗子，以及我对审查的理解和看法。
+</description>
+    <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-10-18-920</guid>
+    <title>How to hide your IP address
+</title>
+    <link>https://goto-share.github.io/blog/2022-10-18-920</link>
+    <description>A field guide to VPNs, proxies, and traffic relaying
+</description>
+    <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>vpn</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-01-07-904</guid>
+    <title>网络数字身份认证术
+</title>
+    <link>https://goto-share.github.io/blog/2022-01-07-904</link>
+    <description>这篇文章是《HTTP API 认证授权术》的姊妹篇，在那篇文章中，主要介绍了 HTTP API 认证和授权技术中用到的 HTTP Basic, Digest Access, HMAC, OAuth, JWT 等各种方式，主要是 API 上用到的一些技术，这篇文章主要想说的是另一个话题——身份认证。也就是说，怎么确认这个数据就是这个人发出来的？
+</description>
+    <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-12-10-901</guid>
+    <title>Apache Log4j 的 0 day 漏洞原理
+</title>
+    <link>https://goto-share.github.io/blog/2021-12-10-901</link>
+    <description>Apache Log4j 的 0 day 远程代码执行，是经典的 JNDI注入攻击，通过加载远程类完成，下面两篇文章大家都学习一下吧其漏洞原理。
+</description>
+    <pubDate>Fri, 10 Dec 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>0day</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-11-19-900</guid>
+    <title>源代码特洛伊木马攻击
+</title>
+    <link>https://goto-share.github.io/blog/2021-11-19-900</link>
+    <description>最近，我们在 Github 的 Code Review 中看到 Github 开始出现下面这个 Warning 信息—— “This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below.”也就是说我们的代码中有一些 bidirectional unicode 的文本，中文直译作 “双向文本”，意思是一些语言是从左到右的，而另一些则是是从右到左的（如：阿拉伯语），如果同一个文件里，即有从左向右的文本也有从右向左文本两种的混搭，那么，就叫bi-direction。术语通常缩写为“ BiDi ”或“ bidi ”。使用双向文本对于中国人来说并不陌生，因为中文又可以从左到右，也可以从右到左，还可以从上到下。
+</description>
+    <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>security</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,40 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
+      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <lastBuildDate>Thu, 12 Aug 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/weixin/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-08-12-883</guid>
+    <title>deleted
+</title>
+    <link>https://goto-share.github.io/blog/2021-08-12-883</link>
+    <description>deleted
+</description>
+    <pubDate>Thu, 12 Aug 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>weixin</category><category>deleted</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-06-29-879</guid>
+    <title>在腾讯云上的Serverless的分享
+</title>
+    <link>https://goto-share.github.io/blog/2021-06-29-879</link>
+    <description>微服务是一把双刃剑，在让我们提升开发效率的同时，也会让运维难度加大，尤其是 Serverless，其微服务器的粒度更小，随着数量的增长，缺乏配套设施的架构会变得一发不可收拾，而治理和运维的难度也随之呈现级数性增长。本次分享主要讨论如何对 Serverless 进行更有效的服务治理。本文由MegaEase 创始人、腾讯云TVP 陈皓在 Techo TVP 开发者峰会 ServerlessDays China 2021上的演讲《Serverless 的服务治理》整理而成，向大家分享。
+</description>
+    <pubDate>Tue, 29 Jun 2021 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>weixin</category><category>serverless</category><category>haoel</category>
+  </item>
+
+    </channel>
+  </rss>

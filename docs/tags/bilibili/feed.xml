@@ -26,14 +26,14 @@
 
   <item>
     <guid>https://goto-share.github.io/blog/2022-01-07-903</guid>
-    <title>技术分享：Kube-OVN 容器性能优化之旅（刘梦馨）
+    <title>技术分享：Kube-OVN 容器性能优化之旅
 </title>
     <link>https://goto-share.github.io/blog/2022-01-07-903</link>
-    <description>技术分享：Kube-OVN 容器性能优化之旅（刘梦馨）
+    <description>技术分享：Kube-OVN 容器性能优化之旅（刘梦馨）。容器网络性能优化之旅 - 容器网络性能测试以及 Profile 方法 - 网络性能瓶颈分析及优化过程 - 后续可能的优化方法和方向
 </description>
     <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>1drv</category><category>bilibili</category><category>youtube</category><category>kubernates</category>
+    <category>bilibili</category><category>youtube</category><category>kubernetes</category>
   </item>
 
     </channel>
