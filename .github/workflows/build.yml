@@ -10,6 +10,8 @@ on:
   issues:
     types: [closed]
 
+permissions: write-all
+
 env:
   GH_PAT: ${{ secrets.GH_PAT }}
   GH_REPO: ${{ secrets.GH_REPO }}
