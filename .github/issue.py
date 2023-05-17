@@ -50,7 +50,7 @@ def export_issue(number):
     parts = [issue.body] + [i.body for i in issue.get_comments()]
     body = POST_DELIMITER.join(parts)
     with open(path, 'w') as f:
-        f.write(content)
+        f.write(body)
 
     post = {
         'number': number,
