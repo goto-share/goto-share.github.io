@@ -37,6 +37,16 @@ jobs:
       with:
         python-version: ${{ matrix.python-version }}
 
+    - uses: actions/setup-node@v3
+      id: setup-node
+      with:
+        node-version: 16
+
+    - uses: pnpm/action-setup@v2
+      id: setup-pnpm
+      with:
+        version: 6.0.2
+
     - name: Install requirements
       id: install-requirements
       run: |
