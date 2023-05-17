@@ -156,5 +156,125 @@
     <category>coolshell</category><category>talk</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-26-850</guid>
+    <title>Go编程模式：切片，接口，时间和性能
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-26-850</link>
+    <description>在本篇文章中，我会对Go语言编程模式的一些基本技术和要点，这样可以让你更容易掌握Go语言编程。其中，主要包括，数组切片的一些小坑，还有接口编程，以及时间和程序运行性能相关的话题。
+</description>
+    <pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-26-851</guid>
+    <title>Go 编程模式：错误处理
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-26-851</link>
+    <description>错误处理一直以一是编程必需要面对的问题，错误处理如果做的好的话，代码的稳定性会很好。不同的语言有不同的出现处理的方式。Go语言也一样，在本篇文章中，我们来讨论一下Go语言的出错出处，尤其是那令人抓狂的 if err != nil 。
+</description>
+    <pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-26-852</guid>
+    <title>Go 编程模式：Functional Options
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-26-852</link>
+    <description>在本篇文章中，我们来讨论一下Functional Options这个编程模式。这是一个函数式编程的应用案例，编程技巧也很好，是目前在Go语言中最流行的一种编程模式。但是，在我们正式讨论这个模式之前，我们需要先来看看要解决什么样的问题。
+</description>
+    <pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-26-853</guid>
+    <title>Go编程模式：委托和反转控制
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-26-853</link>
+    <description>反转控制 IoC – Inversion of Control  是一种软件设计的方法，其主要的思想是把控制逻辑与业务逻辑分享，不要在业务逻辑里写控制逻辑，这样会让控制逻辑依赖于业务逻辑，而是反过来，让业务逻辑依赖控制逻辑。在《[IoC/DIP其实是一种管理思想](https://coolshell.cn/articles/9949.html)》中的那个开关和电灯的示例一样，开关是控制逻辑，电器是业务逻辑，不要在电器中实现开关，而是把开关抽象成一种协议，让电器都依赖之。这样的编程方式可以有效的降低程序复杂度，并提升代码重用。
+</description>
+    <pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-26-854</guid>
+    <title>Go编程模式：Map-Reduce
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-26-854</link>
+    <description>在本篇文章中，我们学习一下函数式编程的中非常重要的Map、Reduce、Filter的三种操作，这三种操作可以让我们非常方便灵活地进行一些数据处理——我们的程序中大多数情况下都是在到倒腾数据，尤其对于一些需要统计的业务场景，Map/Reduce/Filter是非常通用的玩法
+</description>
+    <pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-26-855</guid>
+    <title>Go 编程模式：Go Generation
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-26-855</link>
+    <description>Go语言代码生成主要还是用来解决编程泛型的问题，泛型编程主要解决的问题是因为静态类型语言有类型，所以，相关的算法或是对数据处理的程序会因为类型不同而需要复制一份，这样导致数据类型和算法功能耦合的问题。泛型编程可以解决这样的问题，就是说，在写代码的时候，不用关心处理数据的类型，只需要关心相当处理逻辑。泛型编程是静态语言中非常非常重要的特征，如果没有泛型，我们很难做到多态，也很难完成抽象，会导致我们的代码冗余量很大。
+</description>
+    <pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-26-856</guid>
+    <title>Go编程模式：修饰器
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-26-856</link>
+    <description>之前写过一篇《Python修饰器的函数式编程》，这种模式很容易的可以把一些函数装配到另外一些函数上，可以让你的代码更为的简单，也可以让一些“小功能型”的代码复用性更高，让代码中的函数可以像乐高玩具那样自由地拼装。所以，一直以来，我对修饰器decoration这种编程模式情有独钟，这里写一篇Go语言相关的文章。
+</description>
+    <pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-26-857</guid>
+    <title>Go编程模式：Pipeline
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-26-857</link>
+    <description>本篇文章，我们着重介绍Go编程中的Pipeline模式。对于Pipeline用过Unix/Linux命令行的人都不会陌生，他是一种把各种命令拼接起来完成一个更强功能的技术方法。在今天，流式处理，函数式编程，以及应用网关对微服务进行简单的API编排，其实都是受pipeline这种技术方式的影响，Pipeline这种技术在可以很容易的把代码按单一职责的原则拆分成多个高内聚低耦合的小模块，然后可以很方便地拼装起来去完成比较复杂的功能。
+</description>
+    <pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-26-858</guid>
+    <title>Go 编程模式：k8s Visitor 模式
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-26-858</link>
+    <description>本篇文章主要想讨论一下，Kubernetes 的 kubectl 命令中的使用到到的一个编程模式 – Visitor。本来，Visitor 是面向对象设计模英中一个很重要的设计模款，这个模式是一种将算法与操作对象的结构分离的一种方法。这种分离的实际结果是能够在不修改结构的情况下向现有对象结构添加新操作，是遵循开放/封闭原则的一种方法。这篇文章我们重点看一下 kubelet 中是怎么使用函数式的方法来实现这个模式的。
+</description>
+    <pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-26-859</guid>
+    <title>今年在Gopher中国的分享主题
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-26-859</link>
+    <description>今年在Gopher中国的分享主题，终于成文完毕，一共9篇（今年没多长时间写博客，年底补齐）。
+</description>
+    <pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>golang</category>
+  </item>
+
     </channel>
   </rss>

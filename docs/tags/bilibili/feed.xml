@@ -36,5 +36,17 @@
     <category>bilibili</category><category>youtube</category><category>kubernetes</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-29-860</guid>
+    <title>苹果M1全网最硬核评测
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-29-860</link>
+    <description>在这期视频里，我们会从苹果M1的架构分析、CPU及GPU理论性能表现、MacBook Pro 13上M1的功耗及温度表现等方面深度挖掘M1的表现，以及M1内部的秘密
+</description>
+    <pubDate>Tue, 29 Dec 2020 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>bilibili</category><category>mac</category>
+  </item>
+
     </channel>
   </rss>
