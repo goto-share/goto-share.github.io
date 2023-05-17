@@ -60,6 +60,7 @@ jobs:
     - name: Export site
       id: export-site
       run: |
+        pnpm install
         pnpm export
 
     - name: Auto Commit
