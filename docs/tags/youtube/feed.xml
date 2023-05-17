@@ -36,5 +36,29 @@
     <category>megaease</category><category>youtube</category><category>architecture</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-02-14-906</guid>
+    <title>分享【非计算机专业的人如何转行程序员】
+</title>
+    <link>https://goto-share.github.io/blog/2022-02-14-906</link>
+    <description>这是今晚的公司内部一个关于个人成长的分享【非计算机专业的人如何转行程序员】- 宿琛是一个90后的程序员，他以前是学习金融的非程序员，后来爱上了写程序，但是在他读硕士的时候并没有学会编程，而且，工作的加班让他无法潜心学习，于是他开始了为期一年离职学习，在疫情期间通过学习美国大学的网课真正的成为了一个有深厚基础知识的程序员，这里是他的整个经历的分享。相信可以影响到更多的人。 
+</description>
+    <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>bilibili</category><category>youtube</category><category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-01-07-903</guid>
+    <title>技术分享：Kube-OVN 容器性能优化之旅（刘梦馨）
+</title>
+    <link>https://goto-share.github.io/blog/2022-01-07-903</link>
+    <description>技术分享：Kube-OVN 容器性能优化之旅（刘梦馨）
+</description>
+    <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>1drv</category><category>bilibili</category><category>youtube</category><category>kubernates</category>
+  </item>
+
     </channel>
   </rss>

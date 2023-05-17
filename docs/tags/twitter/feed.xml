@@ -24,5 +24,41 @@
     <category>twitter</category><category>chatgpt</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-08-15-918</guid>
+    <title>Redis Explained
+</title>
+    <link>https://goto-share.github.io/blog/2022-08-15-918</link>
+    <description>is an amazing article/tech note about everything there is to know about Redis.
+</description>
+    <pubDate>Mon, 15 Aug 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>twitter</category><category>redis</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-04-02-912</guid>
+    <title>在线正则表达式可视化工具
+</title>
+    <link>https://goto-share.github.io/blog/2022-04-02-912</link>
+    <description>在线正则表达式可视化工具 regex-vis 👉abskoop.com/17399/
+</description>
+    <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>twitter</category><category>regex</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-03-28-911</guid>
+    <title>对于各种中间件的 mTLS 的配置上的 tips
+</title>
+    <link>https://goto-share.github.io/blog/2022-03-28-911</link>
+    <description>公司群里的微分享：对于各种中间件的 mTLS 的配置上的 tips……
+</description>
+    <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>twitter</category><category>tls</category><category>tips</category>
+  </item>
+
     </channel>
   </rss>

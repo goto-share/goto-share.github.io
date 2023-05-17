@@ -1,0 +1,40 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
+      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <lastBuildDate>Fri, 21 Oct 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/http/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-10-21-922</guid>
+    <title>Exploiting HTTP Parameter Smuggling in Golang
+</title>
+    <link>https://goto-share.github.io/blog/2022-10-21-922</link>
+    <description>Oxeye’s security research team has found a security vulnerability in Golang-based applications. Under certain conditions, it lets a threat actor bypass validations based on HTTP request parameters due to the use of unsafe URL parsing.
+</description>
+    <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>oxeye</category><category>http</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-02-13-905</guid>
+    <title>一把梭：REST API 全用 POS
+</title>
+    <link>https://goto-share.github.io/blog/2022-02-13-905</link>
+    <description>还是写篇文章讨论一下这个事。文章包括如下部分: - 为什么要用不同的HTTP动词？- REST API进行复杂查询 - 几个主要问题的回应
+</description>
+    <pubDate>Sun, 13 Feb 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>restful</category><category>http</category>
+  </item>
+
+    </channel>
+  </rss>

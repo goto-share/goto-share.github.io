@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"title":"一把梭：REST API 全用 POS\n","date":"2022-02-13T00:00:00.000Z","draft":false,"tags":["coolshell","restful","http"],"summary":"还是写篇文章讨论一下这个事。文章包括如下部分: - 为什么要用不同的HTTP动词？- REST API进行复杂查询 - 几个主要问题的回应\n","slug":"2022-02-13-905"}],"tag":"restful"},"__N_SSG":true}

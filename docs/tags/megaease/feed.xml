@@ -36,5 +36,17 @@
     <category>megaease</category><category>telegram</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-03-25-908</guid>
+    <title>A tool that can do health/status checking
+</title>
+    <link>https://goto-share.github.io/blog/2022-03-25-908</link>
+    <description>最近有空，写了个探活其它服务的小程序，支持HTTP，TCP，Shell，Native Client的探活，HTTP看返回码，TCP看连不连得上，Shell 看运行结果，然后对于状态变化进行“边缘触发”通知，发通知到Email, Slack, Discord，可以每天/每周/每月发送一个各服务的SLA报告。图中是Discrod的通知示例。
+</description>
+    <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>megaease</category><category>golang</category>
+  </item>
+
     </channel>
   </rss>

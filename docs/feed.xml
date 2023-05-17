@@ -108,5 +108,233 @@
     <category>coolshell</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-12-10-924</guid>
+    <title>eBPF 介绍
+</title>
+    <link>https://goto-share.github.io/blog/2022-12-10-924</link>
+    <description>很早前就想写一篇关于eBPF的文章，但是迟迟没有动手，这两天有点时间，所以就来写一篇，这文章主要还是简单的介绍eBPF 是用来干什么的，并通过几个示例来介绍是怎么玩的，这个技术非常非常之强，Linux 操作系统的观测性实在是太强大了，并在 BCC 加持下变得一览无余。这个技术不是一般的运维人员或是系统管理员可以驾驭的，这个还是要有底层系统知识并有一定开发能力的技术人员才能驾驭的了的。我在这篇文章的最后给了个彩蛋。
+</description>
+    <pubDate>Sat, 10 Dec 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>eBPF</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-10-29-923</guid>
+    <title>相关编程语言或技术中文讨论群组
+</title>
+    <link>https://goto-share.github.io/blog/2022-10-29-923</link>
+    <description>相关编程语言或技术中文讨论群组
+</description>
+    <pubDate>Sat, 29 Oct 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-10-21-922</guid>
+    <title>Exploiting HTTP Parameter Smuggling in Golang
+</title>
+    <link>https://goto-share.github.io/blog/2022-10-21-922</link>
+    <description>Oxeye’s security research team has found a security vulnerability in Golang-based applications. Under certain conditions, it lets a threat actor bypass validations based on HTTP request parameters due to the use of unsafe URL parsing.
+</description>
+    <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>oxeye</category><category>http</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-10-20-921</guid>
+    <title>some tips and advice about HTML.
+</title>
+    <link>https://goto-share.github.io/blog/2022-10-20-921</link>
+    <description>In this article I’ll share some tips and advice about HTML.
+</description>
+    <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>markodenic</category><category>html</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-10-18-920</guid>
+    <title>How to hide your IP address
+</title>
+    <link>https://goto-share.github.io/blog/2022-10-18-920</link>
+    <description>A field guide to VPNs, proxies, and traffic relaying
+</description>
+    <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>educatedguesswork</category><category>vpn</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-08-15-918</guid>
+    <title>Redis Explained
+</title>
+    <link>https://goto-share.github.io/blog/2022-08-15-918</link>
+    <description>is an amazing article/tech note about everything there is to know about Redis.
+</description>
+    <pubDate>Mon, 15 Aug 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>twitter</category><category>redis</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-07-19-917</guid>
+    <title>从一次经历谈 TIME_WAIT 的那些事
+</title>
+    <link>https://goto-share.github.io/blog/2022-07-19-917</link>
+    <description>今天来讲一讲TCP 的 TIME_WAIT 的问题。这个问题尽人皆知，不过，这次遇到的是不太一样的场景，前两天也解决了，正好写篇文章，顺便把 TIME_WAIT 的那些事都说一说。对了，这个场景，跟我开源的探活小工具 EaseProbe 有关，我先说说这个场景里的问题，然后，顺着这个场景跟大家好好说一下这个事
+</description>
+    <pubDate>Tue, 19 Jul 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>tcp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-06-11-915</guid>
+    <title>使用 Rust 迈出第一步
+</title>
+    <link>https://goto-share.github.io/blog/2022-06-11-915</link>
+    <description>对学习一种日益广泛使用且越来越热门的新编程语言感兴趣吗？ 从此处开始！ 打下使用 Rust 构建快速、高效的程序所需的知识基础。
+</description>
+    <pubDate>Sat, 11 Jun 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>microsoft</category><category>rust</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-06-11-916</guid>
+    <title>Write WebAssembly in Swift and use it in Swift App
+</title>
+    <link>https://goto-share.github.io/blog/2022-06-11-916</link>
+    <description>Background. I&#39;ve been developing a new app for a while, one of the coolest ideas is to let the user write their own script to extend the app&#39;s ability. But what kind of scripting language should I support? Why not support them all? So the decision is to adapt WebAssembly
+</description>
+    <pubDate>Sat, 11 Jun 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>kevinzhow</category><category>swift</category><category>webassembly</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-05-05-914</guid>
+    <title>ETCD的内存问题
+</title>
+    <link>https://goto-share.github.io/blog/2022-05-05-914</link>
+    <description>今天跟大家分享一个etcd的内存大量占用的问题，这是前段时间在我们开源软件Easegress中遇到的问题，问题是比较简单的，但是我还想把前因后果说一下，包括，为什么要用etcd，使用etcd的用户场景，包括etcd的一些导致内存占用比较大的设计，以及最后一些建议。希望这篇文章不仅仅只是让你看到了一个简单的内存问题，还能让你有更多的收获。当然，也欢迎您关注我们的开源软件，给我们一些鼓励
+</description>
+    <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>etcd</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-04-26-913</guid>
+    <title>《Designing Data-Intensive Application》中文翻译
+</title>
+    <link>https://goto-share.github.io/blog/2022-04-26-913</link>
+    <description>《Designing Data-Intensive Application》DDIA中文翻译. Contribute to Vonng/ddia development by creating an account on GitHub.
+</description>
+    <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>bigdata</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-04-02-912</guid>
+    <title>在线正则表达式可视化工具
+</title>
+    <link>https://goto-share.github.io/blog/2022-04-02-912</link>
+    <description>在线正则表达式可视化工具 regex-vis 👉abskoop.com/17399/
+</description>
+    <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>twitter</category><category>regex</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-03-28-911</guid>
+    <title>对于各种中间件的 mTLS 的配置上的 tips
+</title>
+    <link>https://goto-share.github.io/blog/2022-03-28-911</link>
+    <description>公司群里的微分享：对于各种中间件的 mTLS 的配置上的 tips……
+</description>
+    <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>twitter</category><category>tls</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-03-25-908</guid>
+    <title>A tool that can do health/status checking
+</title>
+    <link>https://goto-share.github.io/blog/2022-03-25-908</link>
+    <description>最近有空，写了个探活其它服务的小程序，支持HTTP，TCP，Shell，Native Client的探活，HTTP看返回码，TCP看连不连得上，Shell 看运行结果，然后对于状态变化进行“边缘触发”通知，发通知到Email, Slack, Discord，可以每天/每周/每月发送一个各服务的SLA报告。图中是Discrod的通知示例。
+</description>
+    <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>github</category><category>megaease</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-03-16-907</guid>
+    <title>Memory management in Go
+</title>
+    <link>https://goto-share.github.io/blog/2022-03-16-907</link>
+    <description>How memory works in Go and some tips to get the best out of your memory.
+</description>
+    <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>medium</category><category>memory</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-02-14-906</guid>
+    <title>分享【非计算机专业的人如何转行程序员】
+</title>
+    <link>https://goto-share.github.io/blog/2022-02-14-906</link>
+    <description>这是今晚的公司内部一个关于个人成长的分享【非计算机专业的人如何转行程序员】- 宿琛是一个90后的程序员，他以前是学习金融的非程序员，后来爱上了写程序，但是在他读硕士的时候并没有学会编程，而且，工作的加班让他无法潜心学习，于是他开始了为期一年离职学习，在疫情期间通过学习美国大学的网课真正的成为了一个有深厚基础知识的程序员，这里是他的整个经历的分享。相信可以影响到更多的人。 
+</description>
+    <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>bilibili</category><category>youtube</category><category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-02-13-905</guid>
+    <title>一把梭：REST API 全用 POS
+</title>
+    <link>https://goto-share.github.io/blog/2022-02-13-905</link>
+    <description>还是写篇文章讨论一下这个事。文章包括如下部分: - 为什么要用不同的HTTP动词？- REST API进行复杂查询 - 几个主要问题的回应
+</description>
+    <pubDate>Sun, 13 Feb 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category><category>restful</category><category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-01-07-903</guid>
+    <title>技术分享：Kube-OVN 容器性能优化之旅（刘梦馨）
+</title>
+    <link>https://goto-share.github.io/blog/2022-01-07-903</link>
+    <description>技术分享：Kube-OVN 容器性能优化之旅（刘梦馨）
+</description>
+    <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>1drv</category><category>bilibili</category><category>youtube</category><category>kubernates</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-01-07-904</guid>
+    <title>网络数字身份认证术
+</title>
+    <link>https://goto-share.github.io/blog/2022-01-07-904</link>
+    <description>网络数字身份认证术 | 酷 壳 - CoolShell
+</description>
+    <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category>
+  </item>
+
     </channel>
   </rss>
