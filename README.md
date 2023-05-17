@@ -2,6 +2,9 @@ gotoshare website | 程序员资源分享网站
 
 ## 程序员资源分享网站
 
+- 源代码：https://github.com/goto-share/goto-share.github.io
+- 网站：https://goto-share.github.io
+
 即本网站，内容全部来自 Telegram channel[『程序员资源分享频道』](https://t.me/gotoshare)
 
 这里沉淀了很多有价值的分享（截止2023-05-15 有接近 1k 分享，16k订阅者）。导出为 Web 版后，通过浏览器即可访问、搜索，不再受限于 Telegram，受众会更广，也能帮助到更多的开发者。
@@ -15,7 +18,7 @@ gotoshare website | 程序员资源分享网站
   - 位于：[data/blog](data/blog)
   - 使用 MDX 格式，兼容 markdown
 - 因内容格式差异较大，自动化处理后，再人工编辑，以呈现出更好的效果
-  - 分享原文会自动创建 [Issues](https://github.com/goto-share/website/issues?q=label%3Apost+)
+  - 分享原文会自动创建 [Issues](https://github.com/goto-share/goto-share.github.io/issues?q=label%3Apost+)
   - 人工编辑，以呈现出更好的效果
   - 关闭 issue 后，issue 将自动化导出成 MDX 文件
 
