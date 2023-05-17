@@ -30,6 +30,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         submodules: recursive
+        path: master
 
     # see https://github.com/actions/setup-python
     - name: Setup Python ${{ matrix.python-version }}
@@ -50,28 +51,43 @@ jobs:
     - name: Install requirements
       id: install-requirements
       run: |
+        cd master
         pip install PyGithub requests
+        cd ~
 
     - name: Export issue
       id: export-issue
       run: |
+        cd master
         python3 .github/issue.py
+        cd ~
 
     - name: Export site
       id: export-site
       run: |
+        cd master
         pnpm install
         pnpm export
+        cd ~
+
+    - name: Checkout GitHub Pages
+      uses: actions/checkout@v2
+      with:
+        submodules: recursive
+        ref: gh-pages
+        path: gh-pages
 
     - name: Auto Commit
       id: auto-commit
       run: |
+        cp -r master/docs gp-pages
+        cd gp-pages
         git config --global user.email "dylanninin@gmail.com"
         git config --global user.name "Dylanninin"
         if [[ `git status --porcelain` ]]; then
           git add .
           git commit -m "update post - skip ci"
-          git push origin master
+          git push origin gp-pages
         else
           echo "clean"
         fi
