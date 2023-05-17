@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"title":"FOQS: Scaling a distributed priority queue\n","date":"2021-02-23T00:00:00.000Z","draft":false,"tags":["facebook","queue","distributed"],"summary":"Facebook Ordered Queueing Service (FOQS) supports the asynchronous computing workloads that run many of Facebook’s services at scale.\n","slug":"2021-02-23-870"}],"tag":"facebook"},"__N_SSG":true}
