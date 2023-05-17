@@ -45,12 +45,11 @@ def remove_issue(number):
 def export_issue(number):
     issue = repo.get_issue(number=number)
     date = issue.created_at.strftime(FMT_DATE)
-    slug = issue.title.replace('  ', ' ').replace(' ', '-').lower()
-    path = f'{POST_DEST}/{date}-{slug}.mdx'
+    path = f'{POST_DEST}/{issue.title}.mdx'
     parts = [issue.body] + [i.body for i in issue.get_comments()]
-    body = POST_DELIMITER.join(parts)
+    content = POST_DELIMITER.join(parts)
     with open(path, 'w') as f:
-        f.write(body)
+        f.write(content)
 
     post = {
         'number': number,
