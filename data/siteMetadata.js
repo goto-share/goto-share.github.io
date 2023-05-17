@@ -19,7 +19,7 @@ const siteMetadata = {
   youtube: 'https://www.youtube.com/channel/UCPiHqi-QA7aGJ591unWuaMA',
   linkedin: 'https://www.linkedin.com/in/dylanninin',
   locale: 'en-US',
-  postPerPage: 10,
+  postPerPage: 33,
   analytics: {
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
