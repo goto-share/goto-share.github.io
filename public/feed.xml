@@ -105,7 +105,7 @@
 </description>
     <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>coolshell</category>
+    <category>coolshell</category><category>security</category>
   </item>
 
   <item>
@@ -141,7 +141,7 @@
 </description>
     <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>oxeye</category><category>http</category><category>golang</category>
+    <category>http</category><category>golang</category>
   </item>
 
   <item>
@@ -153,7 +153,7 @@
 </description>
     <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>markodenic</category><category>html</category><category>tips</category>
+    <category>html</category><category>tips</category>
   </item>
 
   <item>
@@ -165,7 +165,7 @@
 </description>
     <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>educatedguesswork</category><category>vpn</category>
+    <category>vpn</category><category>security</category>
   </item>
 
   <item>
@@ -213,7 +213,7 @@
 </description>
     <pubDate>Sat, 11 Jun 2022 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>kevinzhow</category><category>swift</category><category>webassembly</category>
+    <category>swift</category><category>webassembly</category>
   </item>
 
   <item>
@@ -321,7 +321,7 @@
 </description>
     <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>1drv</category><category>bilibili</category><category>youtube</category><category>kubernetes</category>
+    <category>bilibili</category><category>youtube</category><category>kubernetes</category>
   </item>
 
   <item>
@@ -333,7 +333,7 @@
 </description>
     <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>coolshell</category><category>id</category>
+    <category>coolshell</category><category>security</category>
   </item>
 
   <item>
@@ -357,7 +357,7 @@
 </description>
     <pubDate>Fri, 10 Dec 2021 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>blackhat</category><category>veracode</category><category>0day</category><category>security</category>
+    <category>0day</category><category>security</category>
   </item>
 
   <item>
@@ -429,7 +429,7 @@
 </description>
     <pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>zlibrary</category><category>ebooks</category>
+    <category>ebooks</category>
   </item>
 
   <item>
@@ -581,7 +581,7 @@
     <title>How do SSDs Work?
 </title>
     <link>https://goto-share.github.io/blog/2021-03-07-872</link>
-    <description>Have you ever wondered how your smartphone can store countless pictures, songs, or videos?  Or, have you wondered when you download a podcast to your smartphone, where does it actually get stored?  In this video, we will open up your smartphone and take a look at the inside of the memory storage microchip.  This same microchip is also used to store data in solid-state drives, or SSDs in your computer, in tablets, and inside flash drives.  The technology is called VNAND or V-NAND, and it&#39;s incredible how engineers were able to fit such an insane amount of memory storage capacity in such a small space.  Do you want to support in-depth engineering and technology education? Support us on: https://www.patreon.com/brancheducation   Website: https://www.branch.education  On Facebook: https://www.facebook.com/BranchEducation/  On Twitter: https://twitter.com/TeddyTablante  On Insta: https://www.instagram.com/brancheducation/  Or Join us on YouTube Memberships: https://www.youtube.com/channel/UCdp4_l1vPmpN-gDbUwhaRUQ/join  Written, animated, and edited- Teddy Tablante   Twitter: @teddytablante Voice Over- Phil Lee  Timestamps:   0:00 - Intro into SSDs 2:06 - Example of Saving a Picture 4:17 - Pixel Calculations 5:19 - Single Memory Cell 7:59 - Vertical Strings and Pages 10:34 - Control Gates of VNAND 12:00 - Calculations of Example Array 13:09 - True size of an SSD microchip  14:50 - Overall chip in an SSD 16:07 - Outro 16:32 - Creator&#39;s comments 16:54 - Future Episodes  This video is part of a series that intends to thoroughly explain how SSDs, and more specifically how VNAND works.  These are the episodes in the series:  1) [18min] Overview on how SSDs / VNAND / Smartphone storage works.  2) [3min] Quick/Abridged episode of the overview  3) How charge trap flash works.  (details on a single memory cell)  4) How strings of memory cells work (details on a stack of memory cells)  5) How a massive array of memory cells are organized. (Terabit Cell Array Transistor, TCAT)  6) How is VNAND manufactured?  7) Possible episode on an analogy using a city &amp; apartments to explain VNAND.  Key Branches from this video are: Microchips, CPUs, Integrated Circuits,  Erratum:    Animation built using Blender 2.82a https://www.blender.org/  Post with Adobe Premiere Pro  Book References: Aritome, Seiichi. (2015).  NAND flash memory technologies.  IEEE Press Series on Microelectronic Systems.  Wiley.  [2nd most useful resource]    Cai, Yu et al.  (2013) Threshold Voltage Distribution in MLC NAND Flash Memory:  Characterization Analysis, and Modeling.  2013 Design, Automation &amp; Test in Europe Conference &amp; Exhibition.  IEEE.  Micheloni, Rino.  Marelli, Alessia.  Eshghi, Kam. (2018)  Inside solid state drives (SSDs) Second edition.  Springer Series in Advanced Microelectronics Volume 37. Springer.    Micheloni, Rino.  (2017) Solid-state-drives (SSDs) Modeling, Simulation tools &amp; strategies.  Springer Series in Advanced Microelectronics Volume 58.  Springer  Micheloni, Rino. Crippa, Luca. (2016) 3D flash memories. Springer.   [Chapter 4- Most useful resource]   Pierret, Robert F. (1996)  Semiconductor Device Fundamentals. Addison-Wesley Publishing Company.  Prince, Betty.  (2014) Vertical 3D Memory Technologies.  Wiley  Internet References: Crisp, Simon. (29/01/2018)  Samsung SSD860 PRO 4TB SSD Review.  Kitguru.net https://www.kitguru.net/components/ssd-drives/simon-crisp/samsung-ssd860-pro-4tb-ssd-review/all/1/ (Accessed 07/05/2020)  Mellor, Chris. (28/07/2016) QLC flash istricky stuff to make and use, so here&#39;s a primer.  TheRegister.co.uk https://www.theregister.co.uk/2016/07/28/qlc_flash_primer/ (Accessed 07/05/2020)  Samsung Website.  Samsung 1TB Details and Specifications www.samsung.com https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-2-5--sata-iii-1tb-mz-76e1t0b-am/ (Accessed 07/05/2020)  Shah, Dhiram. (27/02/2019) Samsung Begins Mass Production of Frist 512 GB eUFS3.0 for Next-Generation Mobile Devices. Fareastgizmos.com https://fareastgizmos.com/smartphone/samsung-begins-mass-production-of-first-512gb-eufs-3-0…
+    <description>In this video, we will open up your smartphone and take a look at the inside of the memory storage microchip. This same microchip is also used to store data in solid-state drives, or SSDs in your computer, in tablets, and inside flash drives. The technology is called VNAND or V-NAND, and it&#39;s incredible how engineers were able to fit such an insane amount of memory storage capacity in such a small space
 </description>
     <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
@@ -597,7 +597,7 @@
 </description>
     <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>codecapsule</category><category>ssd</category>
+    <category>ssd</category>
   </item>
 
   <item>
@@ -681,7 +681,7 @@
 </description>
     <pubDate>Tue, 19 Jan 2021 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>strimzi</category><category>kubernetes</category><category>kafka</category>
+    <category>kubernetes</category><category>kafka</category>
   </item>
 
   <item>
@@ -693,7 +693,7 @@
 </description>
     <pubDate>Tue, 19 Jan 2021 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>strimzi</category><category>kubernetes</category><category>kafka</category>
+    <category>kubernetes</category><category>kafka</category>
   </item>
 
   <item>
@@ -705,7 +705,7 @@
 </description>
     <pubDate>Sat, 16 Jan 2021 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>laconicml</category><category>youtube</category>
+    <category>youtube</category>
   </item>
 
   <item>
@@ -717,7 +717,7 @@
 </description>
     <pubDate>Sat, 16 Jan 2021 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
-    <category>mit</category><category>mooc</category>
+    <category>mooc</category>
   </item>
 
   <item>
