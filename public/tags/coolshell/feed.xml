@@ -1,0 +1,52 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
+      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <lastBuildDate>Mon, 08 May 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/coolshell/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2023-05-08-932</guid>
+    <title>是微服务架构不香还是云不香？
+</title>
+    <link>https://goto-share.github.io/blog/2023-05-08-932</link>
+    <description>这两天技术圈头条的【Amazon的流媒体平台 Prime Video 从微服架构到单体架构”】我以为 Prime Video 遇到不是技术问题，而是AWS  Step Function处理能力不足，而且收费很贵的问题。如果 可以无限扩展且白菜价，那么他们还会有动力改成单体吗？会不会反过来吹爆 Serverless？
+</description>
+    <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2023-02-12-926</guid>
+    <title>我看ChatGPT: 为啥谷歌掉了千亿美金
+</title>
+    <link>https://goto-share.github.io/blog/2023-02-12-926</link>
+    <description>这几天好些人来问我对 ChatGPT 的看法，正好周末有时间，写了这篇关于 ChatGPT 的文章。这篇文章主要是讨论了一下，基于“内容生成套路”，而不是基于正确和有价值的内容的ChatGPT，和基于正确和有价值，但不生成内容的搜索引擎连姻，会产生出什么样的化学反应？
+</description>
+    <pubDate>Sun, 12 Feb 2023 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2023-02-03-925</guid>
+    <title>聊聊 nostr 和 审查
+</title>
+    <link>https://goto-share.github.io/blog/2023-02-03-925</link>
+    <description>本文包括 nostr协议简介，如何对抗审查，如何对抗Spam和骗子，以及我对审查的理解和看法。
+</description>
+    <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>coolshell</category>
+  </item>
+
+    </channel>
+  </rss>

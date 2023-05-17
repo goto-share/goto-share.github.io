@@ -9,21 +9,9 @@
       <language>en-us</language>
       <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
       <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
-      <lastBuildDate>Thu, 11 May 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://goto-share.github.io/tags/youtube/feed.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 07 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/megaease/feed.xml" rel="self" type="application/rss+xml"/>
       
-  <item>
-    <guid>https://goto-share.github.io/blog/2023-05-11-933</guid>
-    <title>How to Create Good UI/UX - Cali Castle
-</title>
-    <link>https://goto-share.github.io/blog/2023-05-11-933</link>
-    <description>How to Create Good UI/UX - Cali Castle
-</description>
-    <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
-    <category>youtube</category>
-  </item>
-
   <item>
     <guid>https://goto-share.github.io/blog/2023-04-07-930</guid>
     <title>视屏【软件架构的演进】
@@ -34,6 +22,18 @@
     <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
     <author>dylanninin@gmail.com (@haoel)</author>
     <category>megaease</category><category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2023-02-18-928</guid>
+    <title>使用 Easegress 实现 Telegram 翻译机器人
+</title>
+    <link>https://goto-share.github.io/blog/2023-02-18-928</link>
+    <description>最近，Easegress 发布了 2.0 版本，再次大幅增强了流量编排功能，使用户无需编写任何代码，就可以通过编排多个 API 来实现一个超级 API。本文，我们会通过编排一个 Telegram 翻译机器人来演示一下这个功能。这个机器人可以自动将收到的消息翻译为中文、日文和英文，并且，除了文字消息，还支持翻译语音和图片消息。
+</description>
+    <pubDate>Sat, 18 Feb 2023 00:00:00 GMT</pubDate>
+    <author>dylanninin@gmail.com (@haoel)</author>
+    <category>megaease</category><category>telegram</category>
   </item>
 
     </channel>
