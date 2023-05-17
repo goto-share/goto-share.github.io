@@ -1,14 +1,14 @@
 const siteMetadata = {
-  title: '程序员资源分享频道',
-  author: '程序员资源分享频道',
-  headerTitle: '程序员资源分享频道',
+  title: '程序员资源分享网站',
+  author: '@haoel',
+  headerTitle: '程序员资源分享网站',
   description: `内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
 为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
   `,
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://gotoshare.dylanninin.com',
-  siteRepo: 'https://github.com/goto-share/website',
+  siteUrl: 'https://goto-share.github.io',
+  siteRepo: 'https://github.com/goto-share/goto-share.github.io',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
@@ -37,7 +37,7 @@ const siteMetadata = {
     utterancesConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://utteranc.es/
-      repo: 'goto-share/website',
+      repo: 'goto-share/goto-share.github.io',
       issueTerm: 'pathname', // supported options: pathname, url, title
       label: '', // label (optional): Comment 💬
       // theme example: github-light, github-dark, preferred-color-scheme
