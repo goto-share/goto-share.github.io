@@ -1,0 +1,172 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Tue, 18 May 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/google/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-05-18-876</guid>
+    <title>Google Cloud API design most popular blog posts
+</title>
+    <link>https://goto-share.github.io/blog/2021-05-18-876</link>
+    <description>Find our most requested blog posts on API design in one location to read now or bookmark for later.
+</description>
+    <pubDate>Tue, 18 May 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-11-11-843</guid>
+    <title>将 UDP 与网络负载均衡器搭配使用
+</title>
+    <link>https://goto-share.github.io/blog/2020-11-11-843</link>
+    <description>介绍如何将 UDP 与网络负载均衡搭配使用的教程。
+</description>
+    <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>udp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-831</guid>
+    <title>Watch &quot;Building Software Systems At Google and Lessons Learned&quot; on YouTube
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-831</link>
+    <description>Watch &quot;Building Software Systems At Google and Lessons Learned&quot; on YouTube
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>google</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-17-762</guid>
+    <title>Free books on reliability (from Google SRE)
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-17-762</link>
+    <description>Free books on reliability (from Google SRE)
+</description>
+    <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-17-763</guid>
+    <title>Inside look at modern web browser (part 1)
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-17-763</link>
+    <description>Learn how browser turn your code into functional website from high-level architecture to the specifics of the rendering pipeline.
+</description>
+    <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>web</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-725</guid>
+    <title>快速翻译了一下 Google Technical Writing
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-725</link>
+    <description>快速翻译了一下 Google Technical Writing ，放在Google Doc上，
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>writing</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-684</guid>
+    <title>The Great Suspender for Chrome Tabs
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-684</link>
+    <description>昨天同事推荐了一个chrome的插件，可以把你的不常用的Chrome Tab给kill掉，这样可以节省内存，等要用的时候，到相应的Tab页上点一下，就回来了。可以节省大量的内存，挺好用的，推荐给大家。 https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>web</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-665</guid>
+    <title>Google教程序员如何写作 
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-665</link>
+    <description>Google教程序员如何写作 
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>writing</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-575</guid>
+    <title>Digital Communications Protocols
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-575</link>
+    <description>Security &amp; Privacy,Compatibility Active,TLS,Open Client ,Open Server,On Premise,Anonymous,E2E Private,E2E Group,E2E Default,E2E Audit,FIDO1 / U2F,Desktop Web,Mobile Web,Android,Apple iOS,AOSP,Win,macOS,Linux &lt;a href=&quot;https://matrix.org/&quot;&gt;Element/Matrix&lt;/a&gt;,&lt;a href=&quot;https://www.nccgroup.tr...
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>security</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-519</guid>
+    <title>Web Fundamentals
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-519</link>
+    <description>之前有人抱怨英语轻松读加载慢，我没有太认真处理，假期好好看了看，好像问题确实很多，一点点解决中，目前在学习这个文档，也分享给大家  https://developers.google.com/web/fundamentals
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>web</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-468</guid>
+    <title>Chrome 团队计划冻结浏览器请求的 User-Agent 字段
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-468</link>
+    <description>【转自@ruanyf】Chrome 团队计划冻结浏览器请求的 User-Agent 字段，改用一个新的 API 取代。
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>web</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-390</guid>
+    <title>Killed by Google
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-390</link>
+    <description>OptimizeGoogle Optimize was a web analytics and testing tool that allowed users to run experiments aimed at increasing visitor conversion rates and overall...
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-397</guid>
+    <title>Google veterans: The company has become ‘unrecognizable’
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-397</link>
+    <description>Google veterans: The company has become ‘unrecognizable’  https://www.cnbc.com/2019/12/31/google-veterans-the-company-has-become-unrecognizable.html
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,100 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Wed, 27 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/stackoverflow/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-788</guid>
+    <title>Why does Windows64 use a different calling convention from all other OSes on x86-64?
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-788</link>
+    <description>Why does Windows64 use a different calling convention from all other OSes on x86-64?
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-798</guid>
+    <title>How to iterate over a PriorityQueue?
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-798</link>
+    <description>for (Event e : pq)  doesn&#39;t iterate in the priority order.  while(!pq.isEmpty()){   Event e = pq.poll(); }  This works but empties the queue.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-828</guid>
+    <title>The Definitive C Book Guide and List
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-828</link>
+    <description>This question attempts to collect a community-maintained list of quality books on the c programming language, targeted at various skill levels.  C is a complex programming language that is difficult...
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>c</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-661</guid>
+    <title>Java 的一个坑
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-661</link>
+    <description>Java 的一个坑
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-452</guid>
+    <title>pip install package via proxy
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-452</link>
+    <description>I tried to pip install using proxy, the proxy setting is correct because it works for npm install . what i tried is as below shown but got error message. any idea will be more than welcome!
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-373</guid>
+    <title>为什么MySQL和Redis都要使用独立进程来部署
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-373</link>
+    <description>被问到一个问题：为什么MySQL和Redis都要使用独立进程来部署，开放端口来提供服务，为什么不写在内核中？
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>mysql</category><category>redis</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-394</guid>
+    <title>Zero-copy with and without Scatter/Gather operations
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-394</link>
+    <description>其中最后的scatter-gather I/O为什么能够避免拷贝 https://stackoverflow.com/questions/9770125/zero-copy-with-and-without-scatter-gather-operations
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>perf</category>
+  </item>
+
+    </channel>
+  </rss>

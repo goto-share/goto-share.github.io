@@ -1,0 +1,172 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Wed, 27 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/python/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-793</guid>
+    <title>Python的命令行界面库
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-793</link>
+    <description>那你看下 https://www.kawabangga.com/posts/2761 这些吧，推荐 urwid
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-808</guid>
+    <title>python-online-reading
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-808</link>
+    <description>https://github.com/makerroot/python-online-reading 欢迎大伙pr
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-717</guid>
+    <title>python interviews discussions with python experts
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-717</link>
+    <description>python interviews discussions with python experts
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-723</guid>
+    <title>Introducing the TensorFlow Developer Certificate!
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-723</link>
+    <description>The TensorFlow blog contains regular news from the TensorFlow team and the community, with articles on Python, TensorFlow.js, TF Lite, TFX, and more.
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tensorflow</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-565</guid>
+    <title>Learn Python 3 the Hard Way
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-565</link>
+    <description>Learn Python 3 the Hard Way book. Read 61 reviews from the world&#39;s largest community for readers.
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-566</guid>
+    <title>Effective Python › Prevent Repetition with Assignment Expressions
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-566</link>
+    <description>Effective Python › Item 10: Prevent Repetition with Assignment Expressions
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-567</guid>
+    <title>跟着David Beazley学python
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-567</link>
+    <description>跟着David Beazley学python http://www.dabeaz.com/index.html
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-602</guid>
+    <title>Free Python course material
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-602</link>
+    <description>Free Python course materials! I put in a FOIA request to the NSA for their Python training materials and got back a 400-page printout of their COMP 3321 training course. So, I scanned and OCR&#39;d it. Here is a PDF (warning: 118 MB) https://t.co/i1Fxe6G4MJ
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>python</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-512</guid>
+    <title>Python 中文交流群
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-512</link>
+    <description>分享心得，共同进步  进群请认真阅读置顶信息，友善交流
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-524</guid>
+    <title>Welcome to Java for Python Programmers
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-524</link>
+    <description>推荐有Python开发经验人学java看这个 https://runestone.academy/runestone/books/published/java4python/index.html
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category><category>java</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-433</guid>
+    <title>30 Python best practices tips and tricks
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-433</link>
+    <description>30 Python best practices tips and tricks
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-452</guid>
+    <title>pip install package via proxy
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-452</link>
+    <description>I tried to pip install using proxy, the proxy setting is correct because it works for npm install . what i tried is as below shown but got error message. any idea will be more than welcome!
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-454</guid>
+    <title>the Boring Stuff with Python
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-454</link>
+    <description>我正在看【Automate the Boring Stuff with Python】，分享给你，一起看吧！ https://automatetheboringstuff.com/
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+    </channel>
+  </rss>

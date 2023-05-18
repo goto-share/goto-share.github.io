@@ -1,0 +1,195 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Wed, 27 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/network/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-826</guid>
+    <title>What every developer should know about TCP
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-826</link>
+    <description>Why do you need to place your servers geographically close to your users? One of the reasons is to achieve lower latencies. That makes a lot of sense when you are sending short bursts of data that should be delivered as quickly as possible. But what about large files, such as videos? Surely there is a latency penalty for receiving the first byte, but shouldn’t it be smooth sailing after that?
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category><category>tcp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-835</guid>
+    <title>Internet Protocol - IPv4 vs IPv6 as Fast As Possible
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-835</link>
+    <description>IPv4 vs IPv6... Why do we need to transition from the Internet Protocol that&#39;s served us so well for all these years? Maybe because we&#39;re completely running out of IP addresses!
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-727</guid>
+    <title>TCP load balancing with Nginx
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-727</link>
+    <description>按照这个 https://serversforhackers.com/c/tcp-load-balancing-with-nginx-ssl-pass-thru 配置tcp流量的应该没问题
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category><category>tcp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-731</guid>
+    <title>为什么 HTTPS 需要 7 次握手以及 9 倍时延
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-731</link>
+    <description>HTTP 协议（Hypertext Transfer Protocol）已经成为互联网上最常用的应用层协议，然而其本身只是用于传输超文本的网络协议，不会提供任何安全上的保证，使用明文在互联网上传输数据包使得窃听和中间人攻击成为可能，通过 HTTP 传输密码其实与在互联网上裸奔也差不多。
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>http</category><category>network</category><category>why</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-740</guid>
+    <title>推荐我维护的小程序 websocket 类库
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-740</link>
+    <description>发现最近有很多做小程序的同学，欢迎尝试我维护的 websocket 类库，socket.io 风格
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-713</guid>
+    <title>Understand Wi-Fi 4/5/6/6E/7
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-713</link>
+    <description>可以看看这篇文章,偏科普性质，能够解决大多数人疑惑
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-686</guid>
+    <title>Home Networking
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-686</link>
+    <description>Home Networking
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-617</guid>
+    <title>Wi-Fi 6 到底是什么
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-617</link>
+    <description>看到刚讨论wifi6，正好我们播客昨天发了一个对wifi6的小节目：https://dao.fm/2020/02/14/vol-202-%e7%a7%91%e6%8a%80%e9%b2%9c%e5%a3%b0%ef%bc%9awi-fi-6-%e5%88%b0%e5%ba%95%e6%98%af%e4%bb%80%e4%b9%88%ef%bc%9f/
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-654</guid>
+    <title>Computer Networking: A Top-Down Approach
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-654</link>
+    <description>入门的话这本不错，不知道有没有中文版 https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-575</guid>
+    <title>Digital Communications Protocols
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-575</link>
+    <description>Security &amp; Privacy,Compatibility Active,TLS,Open Client ,Open Server,On Premise,Anonymous,E2E Private,E2E Group,E2E Default,E2E Audit,FIDO1 / U2F,Desktop Web,Mobile Web,Android,Apple iOS,AOSP,Win,macOS,Linux &lt;a href=&quot;https://matrix.org/&quot;&gt;Element/Matrix&lt;/a&gt;,&lt;a href=&quot;https://www.nccgroup.tr...
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>security</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-521</guid>
+    <title>List of TCP and UDP port numbers
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-521</link>
+    <description>Wikimedia list article
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category><category>tcp</category><category>udp</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-523</guid>
+    <title>Why can only root listen to ports below 1024?
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-523</link>
+    
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-536</guid>
+    <title>naabu: A fast port scanner written in go
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-536</link>
+    <description>A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-487</guid>
+    <title>为什么这么设计
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-487</link>
+    <description>为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category><category>linux</category><category>network</category><category>os</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-455</guid>
+    <title>The Status of HTTP/3
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-455</link>
+    <description>HTTP/3 is the next protocol for network communication across the Web, which is meant to partially replace HTTP/1 and HTTP/2. One month before the next QUIC Working Group meeting, to be held in Zurich next February, it may be useful to recap what HTTP/3 promises and what its current client/server support looks like.
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>http</category><category>network</category>
+  </item>
+
+    </channel>
+  </rss>

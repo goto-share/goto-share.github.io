@@ -1,0 +1,184 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Mon, 23 Nov 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/book/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-11-23-846</guid>
+    <title>《程序是怎样跑起来的》
+</title>
+    <link>https://goto-share.github.io/blog/2020-11-23-846</link>
+    <description>本书从计算机的内部结构开始讲起，以图配文的形式详细讲解了二进制、内存、数据压缩、源文件和可执行文件、操作系统和应用程序的关系、汇编语言、硬件控制方法等内容，目的是让读者了解从用户双击程序图标到程序开始运行之间到底发生了什么。同时专设了“如果是你，你会怎样介绍？”专栏，以小学生、老奶奶为对象讲解程序的运行原理，颇为有趣。本书图文并茂，通俗易懂，非常适合计算机爱好者及相关从业人员阅读
+</description>
+    <pubDate>Mon, 23 Nov 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-830</guid>
+    <title>国内技术书盗版现状
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-830</link>
+    <description>我在 18 年出版了一本技术书，快两年过去了，和盗版打了很多交道。这篇文章从一个技术书作者的视角以 2018~2020 作为切片来记录一下国内技术书的盗版现状。 盗版的起源 我的书第一次上架到电子书平台是在 18 年 8 月 24 号，纸质书正式开始发售是在同年 9 月 13 号。仅仅不到一个月的时间，在 10 月初，淘宝上就开始出现了大量盗版影印书（大约有十几个，价格多在 ￥30 左右）。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-706</guid>
+    <title>25本经典的书
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-706</link>
+    <description>25本经典的书
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-654</guid>
+    <title>Computer Networking: A Top-Down Approach
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-654</link>
+    <description>入门的话这本不错，不知道有没有中文版 https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-524</guid>
+    <title>Welcome to Java for Python Programmers
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-524</link>
+    <description>推荐有Python开发经验人学java看这个 https://runestone.academy/runestone/books/published/java4python/index.html
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category><category>java</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-478</guid>
+    <title>可以看这个网站 Goodreads
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-478</link>
+    <description>可以看这个网站 https://www.goodreads.com/, You’re in the right place. Tell us what titles or genres you’ve enjoyed in the past, and we’ll give you surprisingly insightful
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-484</guid>
+    <title>Kali Linux - An Ethical Hacker&#39;s Cookbook
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-484</link>
+    <description>有顾虑的可以自己去下载。https://thehackernews.tradepub.com/free/w_pacb116/prgm.cgi
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-432</guid>
+    <title>Free Programming Books
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-432</link>
+    <description>books: Freely available programming books
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-453</guid>
+    <title>如何＂严肃＂阅读一本书？
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-453</link>
+    <description>一本书读过之后, 当再次拿起来的时候, 仿佛读新书一样;  读了, 看了, &quot;劳民伤财&quot;投入大量时间与精力, 但是记不住怎么办?  本文试图解决这个问题
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-406</guid>
+    <title>了不起的我
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-406</link>
+    <description>你要走多少路，才能成就你的了不起 第一章 开启行为的改变 --改变之路：每个人都有选择 --改变的本质：创造新经验 --心理舒适区：摆脱旧经验 --心理免疫的X光片：看清心中的恐惧
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-407</guid>
+    <title>自控力
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-407</link>
+    <description>作为一名健康心理学家，凯利·麦格尼格尔博士的工作就是帮助人们管理压力，并在生活中做出积极的改变。多年来，通过观察学生们是如何控制选择的，她意识到，人们关于自控的很多看法实际上妨碍了我们取得成功。例如，...
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-422</guid>
+    <title>ebooks for java from O&#39;Reilly
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-422</link>
+    <description>Search results for java
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-426</guid>
+    <title>开发Lealone数据库的过程中看过的书和论文以及深入研究过代码的开源项目
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-426</link>
+    <description>数据库的书以下面两本为主: 【数据库系统基础教程】 【数据库系统实现】 其他的参考书: 【数据库系统概念】 【事务处理:概念与技术】 【数据库与事务处理】 【SQL与关系数据库理论】 【PostgreSQL 数据库内核分析】 【MySQL技术内幕 InnoDB存储引擎】 【MySQL内核：InnoDB存储引擎 卷1】 【MySQL核心内幕】 RDBMS和NoSQL开源项目 【H2关系数据库源...
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>database</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-384</guid>
+    <title>Five Books
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-384</link>
+    <description>之前看到群友分享Paul graham 关于好书很少的argument，联想到这个网站，推荐每个领域的5本最好的书
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+    </channel>
+  </rss>

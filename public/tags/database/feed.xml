@@ -1,0 +1,124 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Sat, 07 Mar 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/database/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-670</guid>
+    <title>iredis: 一个更好的 redis-cli
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-670</link>
+    <description>Hi 给 Redis 用户推荐一下我最近写的一个工具，“一个更好的 redis-cli”，支持自动补全，语法高亮，response更好的渲染。
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>database</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-671</guid>
+    <title>High Performance JSON PostgreSQL vs MongoDB
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-671</link>
+    <description>High Performance JSON PostgreSQL vs MongoDB
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-636</guid>
+    <title>Berkeley DB
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-636</link>
+    <description>Berkeley DB - 维基百科，自由的百科全书
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-467</guid>
+    <title>SQLite 分布式版
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-467</link>
+    <description>SQLite 分布式版
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-487</guid>
+    <title>为什么这么设计
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-487</link>
+    <description>为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category><category>linux</category><category>network</category><category>os</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-490</guid>
+    <title>pgModeler - PostgreSQL Database Modeler
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-490</link>
+    <description>Open source data modeling tool designed for PostgreSQL. No more DDL commands written by hand. Let pgModeler do the job for you!
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-426</guid>
+    <title>开发Lealone数据库的过程中看过的书和论文以及深入研究过代码的开源项目
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-426</link>
+    <description>数据库的书以下面两本为主: 【数据库系统基础教程】 【数据库系统实现】 其他的参考书: 【数据库系统概念】 【事务处理:概念与技术】 【数据库与事务处理】 【SQL与关系数据库理论】 【PostgreSQL 数据库内核分析】 【MySQL技术内幕 InnoDB存储引擎】 【MySQL内核：InnoDB存储引擎 卷1】 【MySQL核心内幕】 RDBMS和NoSQL开源项目 【H2关系数据库源...
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>database</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-380</guid>
+    <title>斯坦福的这个数据库教程非常值得走一遍
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-380</link>
+    <description>斯坦福的这个数据库教程非常值得走一遍
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-381</guid>
+    <title>Top 13 Open Source Database Software for Your Next Project
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-381</link>
+    <description>Open source databases offer flexibility, scalability, and cost savings. They provide robust features for managing data, including relational and non-relational options, plus community of developers that contribute to their ongoing development and support. Here are some top open source databases to consider
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category>
+  </item>
+
+    </channel>
+  </rss>

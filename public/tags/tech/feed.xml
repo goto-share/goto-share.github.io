@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Tue, 13 Jul 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/tech/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-07-13-882</guid>
+    <title>如何做一个有质量的技术分享
+</title>
+    <link>https://goto-share.github.io/blog/2021-07-13-882</link>
+    <description>分享信息并不难，大多数人都能做到，就算是不善言谈性格内向的技术人员，通过博客或社交媒体，或是不正式的交流，他们都能或多或少的做到。但是如果你想要做一个有质量有高度的分享，这个就难了，所谓的有质量和有高度，我心里面的定义有两点：1）分享内容的保鲜期是很长的，2）会被大范围的传递。我们团队内每周都在做技术分享，虽然分享的主题都很有价值，但是分享的质量参差不齐，所以，想写下这篇文章 。供大家参考
+</description>
+    <pubDate>Tue, 13 Jul 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>coolshell</category><category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-739</guid>
+    <title>卷积访谈之访谈余晟
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-739</link>
+    <description>https://v.qq.com/x/page/f0830uej5nu.html 看到余晟老师的视频了
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-477</guid>
+    <title>我对中国科技行业的看法
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-477</link>
+    <description>@danwwang 是彭博社的一个技术分析师，写了一篇2019年回顾，详细谈了他对中国科技行业、中美贸易战的看法。 我觉得，他的那篇文章有很多启发，总体比较客观，中国的劣势和优势都谈到了。下面就是主要部分的翻译，插图是我配的。
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-425</guid>
+    <title>你所知道的最黑的黑科技是什么？
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-425</link>
+    <description>我也分析几个ppt学习的内容吧，都是知乎的：你所知道的最黑的黑科技是什么？ - 邵云蛟的回答 - 知乎
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+    </channel>
+  </rss>

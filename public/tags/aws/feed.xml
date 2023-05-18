@@ -1,0 +1,52 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Sat, 29 Feb 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/aws/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-621</guid>
+    <title>分布式系统相关挑战
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-621</link>
+    <description>喜欢分布式的朋友读一读AWS的这篇文章（已被官方翻译成中文）https://aws.amazon.com/cn/builders-library/challenges-with-distributed-systems/
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>aws</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-572</guid>
+    <title>使用AWS Lambda提高网站图片加载速度1X倍
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-572</link>
+    <description>网站流量中大头是图片资源，如何减少图片大小是很重要的事情。本文分享了使用AWS Lambda@Edge无服务架构通过判断浏览器UA自动转换CDN缓存的图片为Webp，将网站图片加载速度提高了1X倍以上
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>aws</category><category>web</category><category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-463</guid>
+    <title>awesome-aws
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-463</link>
+    <description>A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>aws</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,76 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Wed, 27 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/vscode/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-792</guid>
+    <title>在 VSCode 里玩 Draw.io
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-792</link>
+    <description>在 VSCode 里玩 Draw.io
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>vscode</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-816</guid>
+    <title>配置 vscode 远程开发环境
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-816</link>
+    <description>前言 使用windows的时候无法会有很多莫名其妙的配置问题(缺少vs****的dll,还需要下载vs,这会将 […]
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>vscode</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-662</guid>
+    <title>vscode-debug-visualizer: An extension for VS Code that visualizes data during debugging.
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-662</link>
+    <description>An extension for VS Code that visualizes data during debugging.
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>vscode</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-551</guid>
+    <title>VSCode 与 WebStorm 横向对比
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-551</link>
+    <description>参考一下：https://blog.rxliuli.com/p/529086d7/
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>vscode</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-553</guid>
+    <title>Here are some super secret VS Code hacks to boost your productivity
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-553</link>
+    <description>“Here are some super secret VS Code hacks to boost your productivity” by Dylan Tientcheu https://link.medium.com/z1c6kitZJ3
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>vscode</category>
+  </item>
+
+    </channel>
+  </rss>

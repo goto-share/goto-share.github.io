@@ -1,0 +1,76 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Tue, 19 Jul 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/tcp/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-07-19-917</guid>
+    <title>从一次经历谈 TIME_WAIT 的那些事
+</title>
+    <link>https://goto-share.github.io/blog/2022-07-19-917</link>
+    <description>今天来讲一讲TCP 的 TIME_WAIT 的问题。这个问题尽人皆知，不过，这次遇到的是不太一样的场景，前两天也解决了，正好写篇文章，顺便把 TIME_WAIT 的那些事都说一说。对了，这个场景，跟我开源的探活小工具 EaseProbe 有关，我先说说这个场景里的问题，然后，顺着这个场景跟大家好好说一下这个事
+</description>
+    <pubDate>Tue, 19 Jul 2022 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>coolshell</category><category>tcp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-826</guid>
+    <title>What every developer should know about TCP
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-826</link>
+    <description>Why do you need to place your servers geographically close to your users? One of the reasons is to achieve lower latencies. That makes a lot of sense when you are sending short bursts of data that should be delivered as quickly as possible. But what about large files, such as videos? Surely there is a latency penalty for receiving the first byte, but shouldn’t it be smooth sailing after that?
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category><category>tcp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-727</guid>
+    <title>TCP load balancing with Nginx
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-727</link>
+    <description>按照这个 https://serversforhackers.com/c/tcp-load-balancing-with-nginx-ssl-pass-thru 配置tcp流量的应该没问题
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category><category>tcp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-521</guid>
+    <title>List of TCP and UDP port numbers
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-521</link>
+    <description>Wikimedia list article
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category><category>tcp</category><category>udp</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-441</guid>
+    <title>学习一下这个多路TCP的技术
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-441</link>
+    <description>多路TCP已经进到Linux 5.6的内核，学习一下这个多路TCP的技术
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category><category>tcp</category><category>linux</category>
+  </item>
+
+    </channel>
+  </rss>

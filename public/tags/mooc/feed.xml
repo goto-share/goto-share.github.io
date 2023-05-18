@@ -1,0 +1,256 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Thu, 28 Jan 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/mooc/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-01-28-866</guid>
+    <title>10个小时的DataStructure的教学视频
+</title>
+    <link>https://goto-share.github.io/blog/2021-01-28-866</link>
+    <description>10个小时的DataStructure的教学视频，看了下开头，还是挺好的（可以练习印度英文听力，哈）
+</description>
+    <pubDate>Thu, 28 Jan 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>ds</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-01-16-863</guid>
+    <title>Computer System Engineering
+</title>
+    <link>https://goto-share.github.io/blog/2021-01-16-863</link>
+    <description>This class covers topics on the engineering of computer software and hardware systems. Topics include techniques for controlling complexity; strong modularity using client-server design, operating systems; performance, networks; naming; security and privacy; fault-tolerant systems, atomicity and coordination of concurrent activities, and recovery; impact of computer systems on society.
+</description>
+    <pubDate>Sat, 16 Jan 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-782</guid>
+    <title>Interactive Learning Platform for Software Engineers
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-782</link>
+    <description>Learn the latest technologies with our hands-on labs
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-810</guid>
+    <title>MySQL Beginner
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-810</link>
+    <description>MySQL Beginner
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mysql</category><category>mooc</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-17-761</guid>
+    <title>A Chinese translation of TeachYourselfCS
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-17-761</link>
+    <description>TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
+</description>
+    <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-738</guid>
+    <title>人類大腦的focus和diffuse交替切換的公开课
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-738</link>
+    <description>剛好最近我看了一個公開課，講的是人類大腦的focus和diffuse交替切換的工作機制，https://www.coursera.org/learn/learning-how-to-learn?講課的大牛有腦生理，醫學，計算機和工程等多個專業背景
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-745</guid>
+    <title>斯坦福课程《网络安全》
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-745</link>
+    <description>斯坦福课程《网络安全》。 包括：web安全原则、攻击和对策、浏览器安全模型、web应用漏洞、注入、拒绝服务、TLS攻击、隐私、指纹、同源策略、跨站脚本、身份验证、JavaScript安全、新出现的威胁、深入防御和编写安全代码的技术。 ——Weibo 网路冷眼 https://t.co/Hx10ZvfNbX
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-719</guid>
+    <title>6.S081: Operating System Engineering
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-719</link>
+    <description>发现 MIT 的许多课程的资料都是公开的，都可以自己直接跟着学，只是没有上课的视频。比如这讲 OS 的 https://pdos.csail.mit.edu/6.828/2019/schedule.html 使用 xv6 OS，会让学生 Learning by doning
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-720</guid>
+    <title>算法，第一部分
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-720</link>
+    <description>https://zh.coursera.org/learn/algorithms-part1 
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category><category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-676</guid>
+    <title>SICP 笔记
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-676</link>
+    <description>这个博主的文章都超赞！最近在看SICP，这里有他的笔记 https://eli.thegreenplace.net/tag/sicp
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-652</guid>
+    <title>可视化的数理统计入门
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-652</link>
+    <description>https://seeing-theory.brown.edu/index.html 可视化的数理统计入门，中/英文版本
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-666</guid>
+    <title>2020 MIT 6.824 分布式系统
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-666</link>
+    <description>2020 MIT 6.824 分布式系统共计20条视频，包括：Lecture 1- Introduction、Lecture 2- RPC and Threads、Lecture 3- GFS等，UP主更多精彩视频，请关注UP账号。
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>bilibili</category><category>mooc</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-667</guid>
+    <title>simtoco.com 这个站正在翻译 6.824
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-667</link>
+    <description>https://www.simtoco.com/#/home  这个站正在翻译6.824
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-598</guid>
+    <title>Learn computer science. Change the world.
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-598</link>
+    <description>先学习这个吧，如果对这些有兴趣再进行下一步的学习。
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-554</guid>
+    <title>菜鸟教程 - 学的不仅是技术，更是梦想！
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-554</link>
+    <description>菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程。..
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-472</guid>
+    <title>Database Logging Schemes
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-472</link>
+    <description>Prof. Andy Pavlo (http://www.cs.cmu.edu/~pavlo/) Slides: https://15445.courses.cs.cmu.edu/fall2019/slides/20-logging.pdf Notes: https://15445.courses.cs.cmu.edu/fall2019/notes/20-logging.pdf  15-445/645 Intro to Database Systems (Fall 2019) Carnegie Mellon University https://15445.courses.cs.cmu.edu/fall2019/
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-405</guid>
+    <title>6.824: Distributed Systems
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-405</link>
+    <description>https://pdos.csail.mit.edu/6.824/schedule.html  6.824: Distributed Systems
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-380</guid>
+    <title>斯坦福的这个数据库教程非常值得走一遍
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-380</link>
+    <description>斯坦福的这个数据库教程非常值得走一遍
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-383</guid>
+    <title>推荐免费的AI课程
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-383</link>
+    <description>推荐免费的AI课程。详细讲解了基本 的一些方法和原理。https://www.coursera.org/learn/machine-learning
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-400</guid>
+    <title>算法导论的视频
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-400</link>
+    <description>本课程教授高效率算法的设计及分析技巧，并着重在有实用价值的方法上。课程主题包含了：排序、搜寻树、堆积及散列；各个击破法、动态规划、偿还分析、图论算法、最短路径、网络流、计算几何、数字理论性算法；多项式及矩阵的运算；高速缓存技术及并行运算。
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>algorithm</category><category>mooc</category>
+  </item>
+
+    </channel>
+  </rss>

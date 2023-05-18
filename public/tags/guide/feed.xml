@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Wed, 27 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/guide/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-821</guid>
+    <title>An opinionated guide to technology frontiers
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-821</link>
+    <description>The Technology Radar is an opinionated guide to technology frontiers. Read the latest here.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-729</guid>
+    <title>Beginner&#39;s Guide to Linkers
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-729</link>
+    <description>看你自己的使用场景了，想多了解一些底层的，学习一下也没有坏处，推荐一篇入门级的文章： https://www.lurklurk.org/linkers/linkers.html
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-563</guid>
+    <title>通过.git目录学习git
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-563</link>
+    <description>通过.git目录学习git
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category><category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-439</guid>
+    <title>如何做一个“拍照判题”的程序
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-439</link>
+    <description>如何做一个“拍照判题”的程序
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+    </channel>
+  </rss>

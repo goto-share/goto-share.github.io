@@ -1,0 +1,76 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Sat, 29 Feb 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-658</guid>
+    <title>前端工程师肉番瑞典的经验分享
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-658</link>
+    <description>anobody.im/podcast/vol21/  前端工程师肉番瑞典的经验分享，希望对大家有启发
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category><category>run</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-509</guid>
+    <title>海外求职英文面试有多难
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-509</link>
+    <description>找工作肉翻解决算法和英文，还是很🉑️操作的（推荐听 https://anobody.im/podcast/vol17/ 和第一期
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category><category>run</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-491</guid>
+    <title>海外求职英文面试有多难？
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-491</link>
+    <description>指哪打哪的大神小白，从九月踏上海外求职的准备工作，历时三个多月拿到了加拿大亚马逊的 offer。期间英文听说基础一般，同时面对 996 的高压力之下，除了运气好，是什么让他如此高效地成功找到海外工作呢？找工作之前觉得最大的困难是英文，实践了之后又有什么感悟呢？他人提供再多的建议，还是要靠自己亲身实践过之后，才是最有效的方法。
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-443</guid>
+    <title>软件工程师小刘的海外求职经验
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-443</link>
+    <description>找工作肉翻的可以听下这集播客 https://anobody.im/podcast/vol1/
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-396</guid>
+    <title>The 50 Best Podcasts to Listen to Right Now
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-396</link>
+    <description>This is the third year in a row we’ve recommended podcasts to TIME readers. It’s a testament to the growth of the medium that we are able easily to fill a list with 50 new shows each year. Many of the pods on...
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category>
+  </item>
+
+    </channel>
+  </rss>

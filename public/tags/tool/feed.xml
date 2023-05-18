@@ -1,0 +1,232 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Sat, 10 Dec 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/tool/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-12-10-924</guid>
+    <title>eBPF 介绍
+</title>
+    <link>https://goto-share.github.io/blog/2022-12-10-924</link>
+    <description>很早前就想写一篇关于eBPF的文章，但是迟迟没有动手，这两天有点时间，所以就来写一篇，这文章主要还是简单的介绍eBPF 是用来干什么的，并通过几个示例来介绍是怎么玩的，这个技术非常非常之强，Linux 操作系统的观测性实在是太强大了，并在 BCC 加持下变得一览无余。这个技术不是一般的运维人员或是系统管理员可以驾驭的，这个还是要有底层系统知识并有一定开发能力的技术人员才能驾驭的了的。我在这篇文章的最后给了个彩蛋。
+</description>
+    <pubDate>Sat, 10 Dec 2022 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>coolshell</category><category>tool</category><category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-09-20-891</guid>
+    <title>程序员文摘：第四期
+</title>
+    <link>https://goto-share.github.io/blog/2021-09-20-891</link>
+    <description>程序员文摘：第四期
+</description>
+    <pubDate>Mon, 20 Sep 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-09-12-890</guid>
+    <title>程序员文摘
+</title>
+    <link>https://goto-share.github.io/blog/2021-09-12-890</link>
+    <description>程序员文摘
+</description>
+    <pubDate>Sun, 12 Sep 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-08-29-884</guid>
+    <title>Public API Lists
+</title>
+    <link>https://goto-share.github.io/blog/2021-08-29-884</link>
+    <description>1️⃣ Public API Lists
+</description>
+    <pubDate>Sun, 29 Aug 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-722</guid>
+    <title>CLUI: Building a Graphical Command Line
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-722</link>
+    <description>&gt; “Command line interfaces. Once that was all we had. Then they disappeared, replaced by what we thought was a great advance: GUIs. GUIs…
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-670</guid>
+    <title>iredis: 一个更好的 redis-cli
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-670</link>
+    <description>Hi 给 Redis 用户推荐一下我最近写的一个工具，“一个更好的 redis-cli”，支持自动补全，语法高亮，response更好的渲染。
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>database</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-623</guid>
+    <title>DevOps Bookmarks
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-623</link>
+    <description>Discover the latest devops tools and frameworks
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-563</guid>
+    <title>通过.git目录学习git
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-563</link>
+    <description>通过.git目录学习git
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category><category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-496</guid>
+    <title>All – Tiny Helpers
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-496</link>
+    <description>A collection of free single-purpose online tools for web developers...
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category><category>web</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-501</guid>
+    <title>分享一个国外Saas服务分类检索网站
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-501</link>
+    <description>分享一个国外Saas服务分类检索网站：https://free-for.dev/#/
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-514</guid>
+    <title>triple byte
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-514</link>
+    <description>可以用这个😂
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-540</guid>
+    <title>分享一个远程控制软件 向日葵
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-540</link>
+    <description>给大家分享一个远程控制软件 向日葵   https://sunlogin.oray.com/personal/
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-560</guid>
+    <title>PiNAS - the Raspberry Pi NAS
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-560</link>
+    <description>PiNAS - the Raspberry Pi NAS: Intro: This instructable describes the build of a very compact Raspberry Pi powered two bay network attached storage (NAS). Features:     Super small    Easy to build    Simple setup    Cheap    Perfect for learning about network, file system, secur…
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-469</guid>
+    <title>Zulip: Open-source team chat with topic-based threading
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-469</link>
+    <description>https://zulipchat.com/hello/ 这个挺有趣啊，是不是自己搭一个嘿嘿
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-492</guid>
+    <title>分享一个看大厂薪资水平的网站
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-492</link>
+    <description>分享一个看大厂薪资水平的网站， https://www.levels.fyi/
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-427</guid>
+    <title>Remarkable编辑器，支持MathJax
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-427</link>
+    <description>Remarkable编辑器，支持MathJax
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-451</guid>
+    <title>手机归属地查询接口
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-451</link>
+    <description>前阵子刚携号转网，这里同步一个可用性比较高的号码运营商和归属地查询的 API，
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category><category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-417</guid>
+    <title>tmux-fingers
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-417</link>
+    <description>tmux-fingers：很不错的 tmux 插件，可以使用类似 Vimium/Vimperator 的 hints 方式来复制和粘贴，提升操作效率的好工具。(https://t.co/6EMYD2P81o) #tmux https://t.co/pksy9s5rRU
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>tool</category>
+  </item>
+
+    </channel>
+  </rss>

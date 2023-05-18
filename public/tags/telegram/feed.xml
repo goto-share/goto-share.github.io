@@ -1,0 +1,172 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Sat, 18 Feb 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/telegram/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2023-02-18-928</guid>
+    <title>使用 Easegress 实现 Telegram 翻译机器人
+</title>
+    <link>https://goto-share.github.io/blog/2023-02-18-928</link>
+    <description>最近，Easegress 发布了 2.0 版本，再次大幅增强了流量编排功能，使用户无需编写任何代码，就可以通过编排多个 API 来实现一个超级 API。本文，我们会通过编排一个 Telegram 翻译机器人来演示一下这个功能。这个机器人可以自动将收到的消息翻译为中文、日文和英文，并且，除了文字消息，还支持翻译语音和图片消息。
+</description>
+    <pubDate>Sat, 18 Feb 2023 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>megaease</category><category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-10-29-923</guid>
+    <title>相关编程语言或技术中文讨论群组
+</title>
+    <link>https://goto-share.github.io/blog/2022-10-29-923</link>
+    <description>相关编程语言或技术中文讨论群组
+</description>
+    <pubDate>Sat, 29 Oct 2022 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-750</guid>
+    <title>C++ 中文交流群
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-750</link>
+    <description>Check out C++ 中文交流: https://t.me/cpluspluszh
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-574</guid>
+    <title>https://t.me/faangbbs
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-574</link>
+    <description>https://t.me/faangbbs
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>app</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-494</guid>
+    <title>Developers Community on Telegram
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-494</link>
+    <description>Developers Community on Telegram
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-507</guid>
+    <title>推薦一個推友。他的推里有好多肉翻貼
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-507</link>
+    <description>推薦一個推友。他的推里有好多肉翻貼
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>twitter</category><category>run</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-511</guid>
+    <title>JavaScript/Node.js 台灣
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-511</link>
+    <description>臉書 JavaScript TW 社團的 Telegram 群組 https://fb.com/groups/javascript.tw/ 討論主題為 JavaScript/ECMAScript 及其衍生物
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-512</guid>
+    <title>Python 中文交流群
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-512</link>
+    <description>分享心得，共同进步  进群请认真阅读置顶信息，友善交流
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-518</guid>
+    <title>每日 AWESOME 观察
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-518</link>
+    <description>每日 AWESOME 观察, 有频道 https://t.me/awesomeopensource
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-451</guid>
+    <title>手机归属地查询接口
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-451</link>
+    <description>前阵子刚携号转网，这里同步一个可用性比较高的号码运营商和归属地查询的 API，
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category><category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-415</guid>
+    <title>可以参考开源telegram服务端
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-415</link>
+    <description>可以参考开源telegram服务端
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-385</guid>
+    <title>新年第一更，Telegram 的 14+ 个新功能
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-385</link>
+    <description>早上醒来，青小蛙就收到了带着圣诞帽的 Telegram 更新消息，开发者们为了打造一款更好的聊天工具，各种小细节，真是费心了。
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-393</guid>
+    <title>Interesting articles about Rust
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-393</link>
+    <description>Interesting articles about Rust. Update irregularly. Maintained by @fanzeyi.  Twitter: https://twitter.com/RustReading Archive: https://reading.rs/  Profile picture by poorly drawn lines
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>rust</category>
+  </item>
+
+    </channel>
+  </rss>

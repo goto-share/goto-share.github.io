@@ -1,0 +1,160 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Wed, 16 Mar 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/medium/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-03-16-907</guid>
+    <title>Memory management in Go
+</title>
+    <link>https://goto-share.github.io/blog/2022-03-16-907</link>
+    <description>How memory works in Go and some tips to get the best out of your memory.
+</description>
+    <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>memory</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-02-14-868</guid>
+    <title>25 JavaScript Tricks You Need To Know About
+</title>
+    <link>https://goto-share.github.io/blog/2021-02-14-868</link>
+    <description>Including some useful bits of code and utilities
+</description>
+    <pubDate>Sun, 14 Feb 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-02-14-869</guid>
+    <title>25 JavaScript Tricks You Need To Know About (Part 2)
+</title>
+    <link>https://goto-share.github.io/blog/2021-02-14-869</link>
+    <description>Universal any item getter
+</description>
+    <pubDate>Sun, 14 Feb 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-772</guid>
+    <title>GitHub Repos That Every Developer Should Know About
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-772</link>
+    <description>A handpicked list of repos that’ll help you become a better all-round developer
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-637</guid>
+    <title>GOOGLE Drive 相互複製 對拷
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-637</link>
+    <description>GOOGLE Drive 相互複製 對拷
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-506</guid>
+    <title>这个Kui真是神器啊
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-506</link>
+    <description>Kui is the CLI with a GUI twist. At its heart, Kui is a plain old terminal, with a command line-driven approach to interacting with your…
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-553</guid>
+    <title>Here are some super secret VS Code hacks to boost your productivity
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-553</link>
+    <description>“Here are some super secret VS Code hacks to boost your productivity” by Dylan Tientcheu https://link.medium.com/z1c6kitZJ3
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>vscode</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-558</guid>
+    <title>These Projects will make you the SuperHero of Python City
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-558</link>
+    <description>You give us 8 minutes, we’ll give you 10 Cool Python Projects
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-464</guid>
+    <title>Go: Goroutine and Preemption
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-464</link>
+    <description>ℹ️ This article is based on Go 1.13.
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-466</guid>
+    <title>Go vs C#, part 1: Goroutines vs Async-Await
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-466</link>
+    <description>Two remaining parts are here:
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-485</guid>
+    <title>7 tips on how to write kick-ass high performance Golang microservices
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-485</link>
+    <description>How-to introduction to Go microservice design and development. This article will lead you directly to the top…
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-460</guid>
+    <title>How is computer programming different today than 20 years ago?
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-460</link>
+    <description>I saw a question on Quora asking this and I started to write an answer. But it got so long that I converted into a post here.
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category>
+  </item>
+
+    </channel>
+  </rss>

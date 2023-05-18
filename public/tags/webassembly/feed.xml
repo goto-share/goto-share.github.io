@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Sat, 11 Jun 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/webassembly/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-06-11-916</guid>
+    <title>Write WebAssembly in Swift and use it in Swift App
+</title>
+    <link>https://goto-share.github.io/blog/2022-06-11-916</link>
+    <description>Background. I&#39;ve been developing a new app for a while, one of the coolest ideas is to let the user write their own script to extend the app&#39;s ability. But what kind of scripting language should I support? Why not support them all? So the decision is to adapt WebAssembly
+</description>
+    <pubDate>Sat, 11 Jun 2022 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>swift</category><category>webassembly</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-09-11-889</guid>
+    <title>技术分享：用 Easegress + WebAssembly 做秒杀
+</title>
+    <link>https://goto-share.github.io/blog/2021-09-11-889</link>
+    <description>技术分享：用 Easegress + WebAssembly 做秒杀
+</description>
+    <pubDate>Sat, 11 Sep 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>webassembly</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-05-20-878</guid>
+    <title>技术分享：Sledge: Serverless + WASM Runtime
+</title>
+    <link>https://goto-share.github.io/blog/2021-05-20-878</link>
+    <description>An Introduction about -  What is WebAssembly -  How does WebAssembly impact Serverless/FaaS technology.  -  Sledge - multiple functions in one process.
+</description>
+    <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>serverless</category><category>webassembly</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-829</guid>
+    <title>Assembly’s Perspective of C
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-829</link>
+    <description>If you are living under a rock, quarantined against COVID-19, here’s quite a long, and somewhat technical, post for your consumption. This post will talk about how C and assembly dance together–the tango? waltz? who knows?
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>webassembly</category>
+  </item>
+
+    </channel>
+  </rss>

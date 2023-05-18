@@ -1,0 +1,340 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Thu, 27 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/twitter/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2023-04-27-931</guid>
+    <title>吴恩达的新课: ChatGPT Prompt Engineering for Developers
+</title>
+    <link>https://goto-share.github.io/blog/2023-04-27-931</link>
+    <description>吴恩达的新课: 1/ Thrilled to announce: Our new course ChatGPT Prompt Engineering for Developers, created together with @OpenAI, is available now for free!
+</description>
+    <pubDate>Thu, 27 Apr 2023 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>chatgpt</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-08-15-918</guid>
+    <title>Redis Explained
+</title>
+    <link>https://goto-share.github.io/blog/2022-08-15-918</link>
+    <description>is an amazing article/tech note about everything there is to know about Redis.
+</description>
+    <pubDate>Mon, 15 Aug 2022 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>redis</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-04-02-912</guid>
+    <title>在线正则表达式可视化工具
+</title>
+    <link>https://goto-share.github.io/blog/2022-04-02-912</link>
+    <description>在线正则表达式可视化工具 regex-vis 👉abskoop.com/17399/
+</description>
+    <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>regex</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-03-28-911</guid>
+    <title>对于各种中间件的 mTLS 的配置上的 tips
+</title>
+    <link>https://goto-share.github.io/blog/2022-03-28-911</link>
+    <description>公司群里的微分享：对于各种中间件的 mTLS 的配置上的 tips……
+</description>
+    <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>tips</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-777</guid>
+    <title>关于Rust语言编程范式
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-777</link>
+    <description>上周六做了个关于Rust语言编程范式的直播，然后大家问了我很多编程语言的问题，我就即兴地写了一个PPT，事后我又精修了一下这个PPT，现在分享出来（免攻击声明：纯粹是我个人主观观点，欢迎喷观点，但不要对我进行人身攻击）
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>rust</category><category>haoel</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-811</guid>
+    <title>Microsoft is bringing Linux GUI apps to Windows 10
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-811</link>
+    <description>Microsoft is bringing Linux GUI apps to Windows 10 https://t.co/wnBe8deYQl
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>windows</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-819</guid>
+    <title>程序员技术资源分享群内容整理
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-819</link>
+    <description>@tualatrix 我用 Notion 整理了一下 @haoel 耗子叔社群的编程资源：https://t.co/G6X3fRy9vg ，展示效果不错。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-17-757</guid>
+    <title>也有另一种 context menu
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-17-757</link>
+    <description>ℹ️ I wanted great mouse &amp; trackpad support in Broadcasts so that it feels perfect on the new iPad Pro with Magic Keyboard. The Command menu helps you perform tasks quickly with the trackpad, and tooltips annotate all the core UI elements nicely https://t.co/FFwc8Z7qX0 https://t.co/TgdRwdYfYU
+</description>
+    <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-741</guid>
+    <title>Google Drive 神仙级程序GoIndex
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-741</link>
+    <description>推荐一个下载Google Drive 里的文件的神仙级程序GoIndex 。 这个部署在 CloudFlare Workers的小程序。 可以将 Google Drive 文件以目录形式列出，并直连下载。 流量走 CloudFlare ，网速由 CloudFlare 决定。 https://t.co/xXk5Tvc3MA
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-745</guid>
+    <title>斯坦福课程《网络安全》
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-745</link>
+    <description>斯坦福课程《网络安全》。 包括：web安全原则、攻击和对策、浏览器安全模型、web应用漏洞、注入、拒绝服务、TLS攻击、隐私、指纹、同源策略、跨站脚本、身份验证、JavaScript安全、新出现的威胁、深入防御和编写安全代码的技术。 ——Weibo 网路冷眼 https://t.co/Hx10ZvfNbX
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-748</guid>
+    <title>使用火焰图进行Java性能分析
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-748</link>
+    <description>这周末会在华为开发者大会分享使用火焰图进行Java性能分析，介绍perf，BPF，bcc和bpftrace的背景及使用，以及如何用它们生成Java火焰图，算是比较实用的知识。已经完成的文档，正在写PPT https://t.co/yLGKeb8Tpf
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-709</guid>
+    <title>发现一个CSS代码神器
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-709</link>
+    <description>发现一个CSS代码神器，可以简单轻松地实现新拟态效果，可以任意更改颜色，形状可以在圆形、圆角矩形和方形之间切换，形状与背景的距离、阴影的强度和模糊效果等也可随意更改。 地址：https://t.co/bCEbBhX4xz
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>web</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-613</guid>
+    <title>zach lieberman
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-613</link>
+    <description>C++ for kids
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-615</guid>
+    <title>关于shadowsocks redirect攻击的个人理解
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-615</link>
+    <description>关于shadowsocks redirect攻击的个人理解，做了一张简陋的图解。 这个攻击由@edwardzpeng 提出，发布于https://t.co/maD5Md95SL 本人非相关专业，有错请指出。
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-641</guid>
+    <title>a comprehensive roadmap to help you build your first AI-infused application
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-641</link>
+    <description>微软又来送书了。This e-book provides a comprehensive roadmap to help you build your first AI-infused application on the #MicrosoftAI Platform.
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-642</guid>
+    <title>Kubernetes in Action,
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-642</link>
+    <description>Kubernetes in Action, Second Edition is now available through the Manning Early Access Program! https://t.co/gdXuZYs4nC
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>ebook</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-643</guid>
+    <title>给大家介绍一下我的最新发明：Emoji Mask
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-643</link>
+    <description>戴着口罩与人交谈时，你是否感觉表达受到了限制、沟通产生了隔阂… 哎，都怪口罩遮住了你的表情！该怎么办呢？ 向大家隆重介绍我的新发明：Emoji Mask，可以显示表情的口罩。
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-656</guid>
+    <title>欧盟委员会工作人员全部要求切换到 Signal
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-656</link>
+    <description>欧盟委员会工作人员全部要求切换到 Signal https://twitter.com/Liberationtech/status/1232289176512606208?s=20
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-602</guid>
+    <title>Free Python course material
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-602</link>
+    <description>Free Python course materials! I put in a FOIA request to the NSA for their Python training materials and got back a 400-page printout of their COMP 3321 training course. So, I scanned and OCR&#39;d it. Here is a PDF (warning: 118 MB) https://t.co/i1Fxe6G4MJ
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>python</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-603</guid>
+    <title>有人实现过单声道麦克风录音的 Float32Array 转换为 wav 文件（或者 blob）么？
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-603</link>
+    <description>有人实现过单声道麦克风录音的 Float32Array 转换为 wav 文件（或者 blob）么？
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-507</guid>
+    <title>推薦一個推友。他的推里有好多肉翻貼
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-507</link>
+    <description>推薦一個推友。他的推里有好多肉翻貼
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>twitter</category><category>run</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-488</guid>
+    <title>Don&#39;t get stuck in the I am an X developer.
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-488</link>
+    <description>You aren&#39;t a Go, or Rust, or Java, or Python, or JavaScript developer (unless you are writing those languages). In reality you are a developer who uses language X to solve Y problems. You can learn new languages and paradigms. Don&#39;t get stuck in the I am an X developer.
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-434</guid>
+    <title>联想的折叠屏电脑
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-434</link>
+    <description>联想的折叠屏电脑
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-440</guid>
+    <title>最新的go 1.14提升了defer性能
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-440</link>
+    <description>最新的go 1.14提升了defer性能
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-444</guid>
+    <title>sometimes, we need low-tech
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-444</link>
+    <description>sometimes, we need low-tech https://twitter.com/MargaretKLewis/status/1215912509783207936
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-417</guid>
+    <title>tmux-fingers
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-417</link>
+    <description>tmux-fingers：很不错的 tmux 插件，可以使用类似 Vimium/Vimperator 的 hints 方式来复制和粘贴，提升操作效率的好工具。(https://t.co/6EMYD2P81o) #tmux https://t.co/pksy9s5rRU
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-382</guid>
+    <title>Tuomas Salo
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-382</link>
+    <description>Not everything was perfect in 1995, but I think we&#39;ve lost something on the way. Some remarks: 1) Underlined letters indicate keyboard shortcuts. How handy! 2) Design clearly says: &quot;We are buttons!&quot;. It&#39;s easy to find the wanted button, because they have some color. 1/3
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+    </channel>
+  </rss>

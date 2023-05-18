@@ -1,0 +1,112 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Sun, 05 Sep 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/ebook/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-09-05-888</guid>
+    <title>Zlibrary
+</title>
+    <link>https://goto-share.github.io/blog/2021-09-05-888</link>
+    <description>0️⃣【#电子书】 Zlibrary（ https://1lib.us/ ）是个电子书网站，可以搜到很多很多电子书，不管是中文还是英文原版。
+</description>
+    <pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-775</guid>
+    <title>labuladong 的算法网站
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-775</link>
+    <description>labuladong 的算法网站, https://labuladong.gitbook.io/algo/
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ebook</category><category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-779</guid>
+    <title>四百多本书的免费下载
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-779</link>
+    <description>出版商 Springer 放出了四百多本书的免费下载链接，主要是计算机科学、数学、物理学、工程学、商业管理方面的书。 有兴趣的可以看看。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-17-762</guid>
+    <title>Free books on reliability (from Google SRE)
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-17-762</link>
+    <description>Free books on reliability (from Google SRE)
+</description>
+    <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-679</guid>
+    <title>搜书神器
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-679</link>
+    <description>搜书神器  http://gen.lib.rus.ec/
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-641</guid>
+    <title>a comprehensive roadmap to help you build your first AI-infused application
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-641</link>
+    <description>微软又来送书了。This e-book provides a comprehensive roadmap to help you build your first AI-infused application on the #MicrosoftAI Platform.
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-642</guid>
+    <title>Kubernetes in Action,
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-642</link>
+    <description>Kubernetes in Action, Second Edition is now available through the Manning Early Access Program! https://t.co/gdXuZYs4nC
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>ebook</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-585</guid>
+    <title>程序员修炼之道-从小工到专家
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-585</link>
+    <description>第二版的程序员修炼之道-从小工到专家， oreilly 里面有电子书了😀
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ebook</category>
+  </item>
+
+    </channel>
+  </rss>

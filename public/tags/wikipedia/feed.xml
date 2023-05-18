@@ -1,0 +1,100 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Wed, 27 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/wikipedia/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-789</guid>
+    <title>黑暗网站
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-789</link>
+    <description>黑暗网站（英語：Dark web）多简称为暗网，是存在于黑暗网络、覆盖网络上的万维网内容，只能用特殊軟體、特殊授權、或對電腦做特殊設定才能访问。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-705</guid>
+    <title>Image interlacing
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-705</link>
+    <description>Image interlacing. See: https://en.m.wikipedia.org/wiki/Interlacing_(bitmaps)
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-636</guid>
+    <title>Berkeley DB
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-636</link>
+    <description>Berkeley DB - 维基百科，自由的百科全书
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-664</guid>
+    <title>Email spoofing
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-664</link>
+    <description>creating an email spam or phishing messages with a forged sender identity or address
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-521</guid>
+    <title>List of TCP and UDP port numbers
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-521</link>
+    <description>Wikimedia list article
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category><category>tcp</category><category>udp</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-441</guid>
+    <title>学习一下这个多路TCP的技术
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-441</link>
+    <description>多路TCP已经进到Linux 5.6的内核，学习一下这个多路TCP的技术
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category><category>tcp</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-378</guid>
+    <title>Year 2038 problem - Wikipedia
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-378</link>
+    <description>The year 2038 problem (also known as Y2038,[1] Y2K38, Y2K38 superbug or the Epochalypse[2][3]) is a time formatting bug in computer systems with representing times after 03:14:07 UTC on 19 January 2038. An...
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category>
+  </item>
+
+    </channel>
+  </rss>

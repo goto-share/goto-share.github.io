@@ -1,0 +1,196 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Fri, 03 Feb 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/security/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2023-02-03-925</guid>
+    <title>聊聊 nostr 和 审查
+</title>
+    <link>https://goto-share.github.io/blog/2023-02-03-925</link>
+    <description>本文包括 nostr协议简介，如何对抗审查，如何对抗Spam和骗子，以及我对审查的理解和看法。
+</description>
+    <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>coolshell</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-10-18-920</guid>
+    <title>How to hide your IP address
+</title>
+    <link>https://goto-share.github.io/blog/2022-10-18-920</link>
+    <description>A field guide to VPNs, proxies, and traffic relaying
+</description>
+    <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-03-28-911</guid>
+    <title>对于各种中间件的 mTLS 的配置上的 tips
+</title>
+    <link>https://goto-share.github.io/blog/2022-03-28-911</link>
+    <description>公司群里的微分享：对于各种中间件的 mTLS 的配置上的 tips……
+</description>
+    <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>tips</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-01-07-904</guid>
+    <title>网络数字身份认证术
+</title>
+    <link>https://goto-share.github.io/blog/2022-01-07-904</link>
+    <description>这篇文章是《HTTP API 认证授权术》的姊妹篇，在那篇文章中，主要介绍了 HTTP API 认证和授权技术中用到的 HTTP Basic, Digest Access, HMAC, OAuth, JWT 等各种方式，主要是 API 上用到的一些技术，这篇文章主要想说的是另一个话题——身份认证。也就是说，怎么确认这个数据就是这个人发出来的？
+</description>
+    <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>coolshell</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-12-10-901</guid>
+    <title>Apache Log4j 的 0 day 漏洞原理
+</title>
+    <link>https://goto-share.github.io/blog/2021-12-10-901</link>
+    <description>Apache Log4j 的 0 day 远程代码执行，是经典的 JNDI注入攻击，通过加载远程类完成，下面两篇文章大家都学习一下吧其漏洞原理。
+</description>
+    <pubDate>Fri, 10 Dec 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-11-19-900</guid>
+    <title>源代码特洛伊木马攻击
+</title>
+    <link>https://goto-share.github.io/blog/2021-11-19-900</link>
+    <description>最近，我们在 Github 的 Code Review 中看到 Github 开始出现下面这个 Warning 信息—— “This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below.”也就是说我们的代码中有一些 bidirectional unicode 的文本，中文直译作 “双向文本”，意思是一些语言是从左到右的，而另一些则是是从右到左的（如：阿拉伯语），如果同一个文件里，即有从左向右的文本也有从右向左文本两种的混搭，那么，就叫bi-direction。术语通常缩写为“ BiDi ”或“ bidi ”。使用双向文本对于中国人来说并不陌生，因为中文又可以从左到右，也可以从右到左，还可以从上到下。
+</description>
+    <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>coolshell</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-818</guid>
+    <title>记录一次authorized_keys被加锁引起的木马攻防战
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-818</link>
+    <description>发现一台服务器，ssh免密登陆不好使，用密码登陆后发现authorized_keys文件下有一条不知道的证书，估计是被黑了。删除证书时发现无法删除，提示 Operationnotpermitted
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-746</guid>
+    <title>隐私一览无余！微博泄露事件卧底调查报告
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-746</link>
+    <description>本次数据泄露据说是由微博而来，在小道消息的引导下，我们找到了购买隐私数据其中一个根据地：电报（Telegram），通过电报按图索骥、购买服务，摸清了灰产的整个服务架构。
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-681</guid>
+    <title>數碼安全指引
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-681</link>
+    <description>數碼安全指引
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-694</guid>
+    <title>Chrome 80.0中将SameSite的默认值设为Lax,对现有的Cookie使用有什么影响?
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-694</link>
+    <description>我是在去年 5 月份得知 Chrome 的这一改动，并一直关注着，在去年 12 月份，也就是 80 进 beta 版的时候…
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>web</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-615</guid>
+    <title>关于shadowsocks redirect攻击的个人理解
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-615</link>
+    <description>关于shadowsocks redirect攻击的个人理解，做了一张简陋的图解。 这个攻击由@edwardzpeng 提出，发布于https://t.co/maD5Md95SL 本人非相关专业，有错请指出。
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-575</guid>
+    <title>Digital Communications Protocols
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-575</link>
+    <description>Security &amp; Privacy,Compatibility Active,TLS,Open Client ,Open Server,On Premise,Anonymous,E2E Private,E2E Group,E2E Default,E2E Audit,FIDO1 / U2F,Desktop Web,Mobile Web,Android,Apple iOS,AOSP,Win,macOS,Linux &lt;a href=&quot;https://matrix.org/&quot;&gt;Element/Matrix&lt;/a&gt;,&lt;a href=&quot;https://www.nccgroup.tr...
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>security</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-431</guid>
+    <title>Secure iOS App dev
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-431</link>
+    <description>Collection of the most common vulnerabilities found in iOS applications
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>ios</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-456</guid>
+    <title>The Deadlock Empire
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-456</link>
+    <description>Slay dragons, learn concurrency! Play the cunning Scheduler, exploit flawed  programs and defeat the armies of the Parallel Wizard.
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-386</guid>
+    <title>推荐下这个rust写的bitwarden的方案
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-386</link>
+    <description>不知道群里有没有用1Password或者其他密码管理方案的，推荐下这个rust写的bitwarden的方案，自建 密码在自己手里+能免费解锁premium的功能，带的docker image支持各种架构，有吃灰服务器的扔上去跑一个还不错：https://github.com/dani-garcia/bitwarden_rs
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>rust</category><category>security</category>
+  </item>
+
+    </channel>
+  </rss>
