@@ -1,0 +1,76 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Wed, 27 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/c/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-827</guid>
+    <title>Linux程序设计
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-827</link>
+    <description>本书讲述了Linux 系统及其他UNIX 风格的操作系统上的程序开发，主要内容包括标准Linux C 语言函数库和由不同的Linux 或UNIX 标准指定的各种工具的使用方法，大多数标准Linux 开发工具的使用方法，通过DBM 和MySQL 数据库系统存储Linux 中的数据，为X 视窗系统建立图形化用户界面等。本书通过先介绍程序设计理论，再以适当的例子和清晰的解释来阐明它的方式，帮助读者迅速掌握相关的知识。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>c</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-828</guid>
+    <title>The Definitive C Book Guide and List
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-828</link>
+    <description>This question attempts to collect a community-maintained list of quality books on the c programming language, targeted at various skill levels.  C is a complex programming language that is difficult...
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>c</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-724</guid>
+    <title>lldb cheatsheet
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-724</link>
+    <description>每次在mac上debug c/c++程序都记不住lldb的命令，需要一个cheatsheet，最好跟gdb对照
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>llvm</category><category>mac</category><category>c</category><category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-547</guid>
+    <title>Let&#39;s Destroy C
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-547</link>
+    <description>看看这篇文章, Let&#39;s Destroy C。然后看看CNoEvil项目。
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>c</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-423</guid>
+    <title>awesome-c
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-423</link>
+    <description>A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>c</category>
+  </item>
+
+    </channel>
+  </rss>

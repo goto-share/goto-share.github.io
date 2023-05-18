@@ -1,0 +1,184 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Mon, 23 Nov 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/pdf/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-11-23-846</guid>
+    <title>《程序是怎样跑起来的》
+</title>
+    <link>https://goto-share.github.io/blog/2020-11-23-846</link>
+    <description>本书从计算机的内部结构开始讲起，以图配文的形式详细讲解了二进制、内存、数据压缩、源文件和可执行文件、操作系统和应用程序的关系、汇编语言、硬件控制方法等内容，目的是让读者了解从用户双击程序图标到程序开始运行之间到底发生了什么。同时专设了“如果是你，你会怎样介绍？”专栏，以小学生、老奶奶为对象讲解程序的运行原理，颇为有趣。本书图文并茂，通俗易懂，非常适合计算机爱好者及相关从业人员阅读
+</description>
+    <pubDate>Mon, 23 Nov 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-11-22-845</guid>
+    <title>GopherChina 2020  - Go programming patterns.
+</title>
+    <link>https://goto-share.github.io/blog/2020-11-22-845</link>
+    <description>GopherChina 2020  - Go programming patterns. I hope it&#39;s useful for you to improve your coding skills and you will like it.
+</description>
+    <pubDate>Sun, 22 Nov 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-823</guid>
+    <title>Aircraft, Design, synthesis and analysis
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-823</link>
+    <description>Aircraft, Design, synthesis and analysis
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-717</guid>
+    <title>python interviews discussions with python experts
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-717</link>
+    <description>python interviews discussions with python experts
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-671</guid>
+    <title>High Performance JSON PostgreSQL vs MongoDB
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-671</link>
+    <description>High Performance JSON PostgreSQL vs MongoDB
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-646</guid>
+    <title>Computer Architecture Lecture Video Playlist
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-646</link>
+    <description>Computer Architecture Lecture Video Playlist
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-655</guid>
+    <title>刚好我前段时间做的拥塞控制的学习笔记，不一定正确，给你看一下
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-655</link>
+    <description>刚好我前段时间做的拥塞控制的学习笔记，不一定正确，给你看一下
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-659</guid>
+    <title>一篇关于kafka的论文
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-659</link>
+    <description>http://notes.stephenholiday.com/Kafka.pdf 一篇关于kafka的论文，大家感兴趣的可以看看
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kafka</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-668</guid>
+    <title>关于服务可用性定义问题
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-668</link>
+    <description>之前皓哥在直播中提到的服务可用定义问题，这边又一篇Google关于如何定义可用性的论文：https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-562</guid>
+    <title>Kubernetes Learning Path
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-562</link>
+    <description>Kubernetes Learning Path
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-571</guid>
+    <title>CPU 自制入门
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-571</link>
+    <description>我去，这本书NB，自己造CPU😂
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-583</guid>
+    <title>CPU Memory
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-583</link>
+    <description>CPU Memory
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-602</guid>
+    <title>Free Python course material
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-602</link>
+    <description>Free Python course materials! I put in a FOIA request to the NSA for their Python training materials and got back a 400-page printout of their COMP 3321 training course. So, I scanned and OCR&#39;d it. Here is a PDF (warning: 118 MB) https://t.co/i1Fxe6G4MJ
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>python</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-541</guid>
+    <title>advice on the use of masks 2019 ncov
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-541</link>
+    <description>advice on the use of masks 2019 ncov
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category>
+  </item>
+
+    </channel>
+  </rss>

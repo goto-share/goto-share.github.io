@@ -1,0 +1,40 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Wed, 18 Nov 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/apple/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-11-18-844</guid>
+    <title>M1芯片内存访问顺序的一致性
+</title>
+    <link>https://goto-share.github.io/blog/2020-11-18-844</link>
+    <description>Apple的M1芯片可能会给你的多线程序带来一些bug，因为ARM芯片不像X86的芯片会保证内存访问顺的一致性。（当然，如果高级语方处理了则不会有问题）
+</description>
+    <pubDate>Wed, 18 Nov 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>apple</category><category>memory</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-797</guid>
+    <title>开发了一个英文阅读辅助app
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-797</link>
+    <description>这两天学swiftui，开发了一个英文阅读辅助app，iOS内测版:https://testflight.apple.com/join/cU9qI5rn 每天自动推送两篇经济学人文章，一篇英文版的，一篇双语版的，想提高一下英文阅读的可以下载试用一下
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>apple</category><category>swift</category>
+  </item>
+
+    </channel>
+  </rss>

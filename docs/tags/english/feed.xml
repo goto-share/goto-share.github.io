@@ -1,0 +1,100 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Wed, 01 Apr 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/english/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-736</guid>
+    <title>freeCodeCamp 文章翻译计划
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-736</link>
+    <description>Contribute to freeCodeCamp/chinese development by creating an account on GitHub.
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-576</guid>
+    <title>Learn English with Bob the Canadian
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-576</link>
+    <description>Learn English with Bob the Canadian
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category><category>app</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-579</guid>
+    <title>English with Lucy
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-579</link>
+    <description>English with Lucy
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-581</guid>
+    <title>再谈如何学习英语
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-581</link>
+    <description>没看过我的英语学习视频的，可以先补课 https://www.youtube.com/watch?v=_l8Rn6tPs6o&amp;list=PLNEGQlCPzlkJVzbjuQOu0CZGKyn29CnT3
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-582</guid>
+    <title>Learn English in 30 Minutes
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-582</link>
+    <description>Learn English in 30 Minutes - ALL the English Basics You Need
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-509</guid>
+    <title>海外求职英文面试有多难
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-509</link>
+    <description>找工作肉翻解决算法和英文，还是很🉑️操作的（推荐听 https://anobody.im/podcast/vol17/ 和第一期
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category><category>run</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-424</guid>
+    <title>英语学习的真实方法及误区分析
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-424</link>
+    <description>分享其理論堅持學習了半年有餘，覺得還是比較靠譜，希望對你有用。https://www.cnblogs.com/zhoujg/archive/2011/03/01/1968366.html
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>english</category>
+  </item>
+
+    </channel>
+  </rss>

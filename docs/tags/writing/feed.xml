@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Wed, 01 Apr 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/writing/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-725</guid>
+    <title>快速翻译了一下 Google Technical Writing
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-725</link>
+    <description>快速翻译了一下 Google Technical Writing ，放在Google Doc上，
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>writing</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-728</guid>
+    <title>零成本搭建现代博客之SEO优化篇
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-728</link>
+    <description>如何能让搜索引擎给我们带来免费而源源不断的SEO流量？如何给新建的站做基本的SEO？如何分析老站的流量现状通过一些优化方法来提高SEO流量？如何做关键词研究？如何做网站竞品研究？如何做面向SEO搜索意图的内容创作？本文告诉你答案
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>writing</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-689</guid>
+    <title>《软件创富----共享软件创业之道》读后感
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-689</link>
+    <description>《软件创富----共享软件创业之道》读后感
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>writing</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-665</guid>
+    <title>Google教程序员如何写作 
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-665</link>
+    <description>Google教程序员如何写作 
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>writing</category>
+  </item>
+
+    </channel>
+  </rss>

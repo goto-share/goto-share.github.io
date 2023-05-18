@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Sat, 07 Mar 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/ios/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-674</guid>
+    <title>A Hands-On Guide to Audio Programming for Mac and iOS
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-674</link>
+    <description>Learning Core Audio: A Hands-On Guide to Audio Programming for Mac and iOS | Chris Adamson, Kevin Avila | download | B–OK. Download books for free. Find books
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mac</category><category>ios</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-594</guid>
+    <title>iOS模拟软件推荐-适用于Windows/Mac电脑
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-594</link>
+    <description>有些用户想在电脑端体验iOS应用，于是iOS模拟器应运而生。iOS模拟器并不是新兴产品，但大部分用户只是用他们来体验游戏，其实他的用途远不止于此。有些模拟器试用于windows电脑，有些可以在Mac上运行iOS应用程序。除开在更大的屏幕上玩游戏，使用iOS模拟器还有其他原因，比如大多数开发人员喜欢使用模拟器进行应用程序测试和展示。以下列举了一些十分优秀的iOS模拟器：
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ios</category><category>windows</category><category>mac</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-431</guid>
+    <title>Secure iOS App dev
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-431</link>
+    <description>Collection of the most common vulnerabilities found in iOS applications
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>ios</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-436</guid>
+    <title>Gio UI
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-436</link>
+    <description>Gio is an open source library for creating portable, immediate mode GUI programs for Android, iOS, Linux, Windows, macOS.
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ui</category><category>android</category><category>ios</category><category>linux</category><category>windows</category><category>mac</category>
+  </item>
+
+    </channel>
+  </rss>

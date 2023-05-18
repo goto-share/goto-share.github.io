@@ -1,0 +1,232 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Sat, 03 Jul 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/java/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-07-03-880</guid>
+    <title>怎么写一个JavaAgent
+</title>
+    <link>https://goto-share.github.io/blog/2021-07-03-880</link>
+    <description>怎么写一个JavaAgent
+</description>
+    <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-766</guid>
+    <title>Spring on Kubernetes Workshop
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-766</link>
+    <description>大佬牛逼 spring on k8s https://hackmd.io/@ryanjbaxter/spring-on-k8s-workshop
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kubernetes</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-824</guid>
+    <title>Building Microservices with Spring Cloud
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-824</link>
+    <description>Youtube 上有很多 webinar 其实也很有意思 比如我喜欢看 Josh Long 的 看他现场编码 能学到一些带着 Spring 原生气息的编程小技巧 比如这个 https://www.youtube.com/watch?v=ZyK5QrKCbwM
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-825</guid>
+    <title>浅析Java的线程调度策略
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-825</link>
+    <description>作者：杨兴强原文来源：开点工作室（ID：kaidiancs） 一．从一个例子开始 看着Java线程执行起来的那种任性和随意，我们不免会问：是谁在主导Java线程的执行？它按照...
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-748</guid>
+    <title>使用火焰图进行Java性能分析
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-748</link>
+    <description>这周末会在华为开发者大会分享使用火焰图进行Java性能分析，介绍perf，BPF，bcc和bpftrace的背景及使用，以及如何用它们生成Java火焰图，算是比较实用的知识。已经完成的文档，正在写PPT https://t.co/yLGKeb8Tpf
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-749</guid>
+    <title>java performance analysis with flame graphs
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-749</link>
+    <description>Stay hungry. Stay foolish. Contribute to mz1999/blog development by creating an account on GitHub.
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-616</guid>
+    <title>Understanding Garbage Collectors
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-616</link>
+    <description>How the default garbage collectors work
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-660</guid>
+    <title>Spring Boot 系列实战合集
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-660</link>
+    <description>Spring Boot 系列实战合集. Contribute to hansonwang99/Spring-Boot-In-Action development by creating an account on GitHub.
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-661</guid>
+    <title>Java 的一个坑
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-661</link>
+    <description>Java 的一个坑
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-568</guid>
+    <title>JVM Ecosystem Report 2020
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-568</link>
+    <description>Welcome to our annual JVM ecosystem report! This report presents the results of the largest annual survey on the JVM ecosystem, showing results from the
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-608</guid>
+    <title>找到一个项目 mall 电商系统 可以学下了
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-608</link>
+    <description>mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-609</guid>
+    <title>【Spring Boot 实战】论坛项目【第一季】
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-609</link>
+    <description>【Spring Boot 实战】论坛项目【第一季】, 有问题可以进群提问，QQ 群：761351106论坛演示地址https://www.mawen.co
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>bilibili</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-524</guid>
+    <title>Welcome to Java for Python Programmers
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-524</link>
+    <description>推荐有Python开发经验人学java看这个 https://runestone.academy/runestone/books/published/java4python/index.html
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category><category>java</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-486</guid>
+    <title>The 2023 Java Developer RoadMap
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-486</link>
+    <description>A blog about Java, Programming, Algorithms, Data Structure, SQL, Linux, Database, Interview questions, and my personal experience.
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-420</guid>
+    <title>Complete Java Software Developer Masterclass (for Java 10)
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-420</link>
+    <description>Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-422</guid>
+    <title>ebooks for java from O&#39;Reilly
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-422</link>
+    <description>Search results for java
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-376</guid>
+    <title>分享一个集合了Java几乎所有内容的博客
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-376</link>
+    <description>分享一个集合了Java几乎所有内容的博客，条理清楚，没啥废话 https://howtodoinjava.com/
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-391</guid>
+    <title>Understanding Garbage Collectors
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-391</link>
+    <description>How the default garbage collectors work
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+    </channel>
+  </rss>

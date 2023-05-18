@@ -1,0 +1,208 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Wed, 27 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/linux/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-790</guid>
+    <title>Managing services for non-root users with systemd
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-790</link>
+    <description>Systemd allows non-root users to manage their own services in the same way the root user does for the system.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-811</guid>
+    <title>Microsoft is bringing Linux GUI apps to Windows 10
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-811</link>
+    <description>Microsoft is bringing Linux GUI apps to Windows 10 https://t.co/wnBe8deYQl
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>windows</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-827</guid>
+    <title>Linux程序设计
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-827</link>
+    <description>本书讲述了Linux 系统及其他UNIX 风格的操作系统上的程序开发，主要内容包括标准Linux C 语言函数库和由不同的Linux 或UNIX 标准指定的各种工具的使用方法，大多数标准Linux 开发工具的使用方法，通过DBM 和MySQL 数据库系统存储Linux 中的数据，为X 视窗系统建立图形化用户界面等。本书通过先介绍程序设计理论，再以适当的例子和清晰的解释来阐明它的方式，帮助读者迅速掌握相关的知识。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>c</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-726</guid>
+    <title>Learning and Writing Shell Scripts
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-726</link>
+    <description>很容易的，网上一搜一大把解释： http://linuxcommand.org/lc3_wss0080.php
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-734</guid>
+    <title>Linux Kernel Teaching
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-734</link>
+    <description>This is a collection of lectures and labs Linux kernel topics. The lectures focus on theoretical and Linux kernel exploration.
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-669</guid>
+    <title>Understanding Shutdown, Poweroff, Halt and Reboot Commands in Linux
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-669</link>
+    <description>In this article, we will explain to you the difference between shutdown, poweroff, halt and reboot Linux commands.
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-628</guid>
+    <title>jserv讲linux核心的课程
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-628</link>
+    <description>https://youtu.be/9VlOpKWdIVU jserv讲linux核心的课程，挺有趣的
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-584</guid>
+    <title>Start Learning Linux in Minutes
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-584</link>
+    <description>Welcome to this exclusive edition of TecMint, this course module is designed for those newbies in Linux, Linux Administrator, Windows Administrator, who wants to do the best of Linux capabilities in IT organizations.
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-552</guid>
+    <title>调度系统设计精要
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-552</link>
+    <description>全文 2 万字，深入调度器的设计原理，源码级分析 Linux、Go 和 Kubernetes 调度器的演变过程。
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>architecture</category><category>linux</category><category>golang</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-487</guid>
+    <title>为什么这么设计
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-487</link>
+    <description>为什么这么设计（Why’s THE Design）是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇文章中都会提出一个具体的问题并从不同的角度讨论这种设计的优缺点、对具体实现造成的影响。
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category><category>linux</category><category>network</category><category>os</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-429</guid>
+    <title>Linus同学又来教大家编程了
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-429</link>
+    <description>Linus同学又来教大家编程了
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-436</guid>
+    <title>Gio UI
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-436</link>
+    <description>Gio is an open source library for creating portable, immediate mode GUI programs for Android, iOS, Linux, Windows, macOS.
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ui</category><category>android</category><category>ios</category><category>linux</category><category>windows</category><category>mac</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-441</guid>
+    <title>学习一下这个多路TCP的技术
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-441</link>
+    <description>多路TCP已经进到Linux 5.6的内核，学习一下这个多路TCP的技术
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category><category>tcp</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-450</guid>
+    <title>Speeding up my ZSH load time
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-450</link>
+    <description>This is the story on how I speed up my terminal load time. Some time ago I shared my dotfiles to the world. I was never really happy with the shell load time, t
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category><category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-461</guid>
+    <title>Linux/Unix 命令行功夫
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-461</link>
+    <description>有趣、实用及好玩的命令行工具
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-377</guid>
+    <title>Measuring Mutexes, Spinlocks and how Bad the Linux Scheduler Really is
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-377</link>
+    <description>一点底层：https://probablydance.com/2019/12/30/measuring-mutexes-spinlocks-and-how-bad-the-linux-scheduler-really-is/
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category>
+  </item>
+
+    </channel>
+  </rss>
