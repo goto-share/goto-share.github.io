@@ -7,8 +7,8 @@
 为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
   </description>
       <language>en-us</language>
-      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
-      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
       <lastBuildDate>Mon, 08 Mar 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/martinfowler/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -20,8 +20,32 @@
     <description>A catalog of patterns to better understand, communicate, and teach the design of distributed systems
 </description>
     <pubDate>Mon, 08 Mar 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>martinfowler</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-10-28-841</guid>
+    <title>Patterns of Distributed Systems
+</title>
+    <link>https://goto-share.github.io/blog/2020-10-28-841</link>
+    <description>https://martinfowler.com/articles/patterns-of-distributed-systems/
+</description>
+    <pubDate>Wed, 28 Oct 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>martinfowler</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-635</guid>
+    <title>Event Sourcing
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-635</link>
+    <description>这个不是很清楚。正在看 https://martinfowler.com/eaaDev/EventSourcing.html 刚好提到 Event Replay，Event Replay: If we find a past event was incorrect, we can compute the consequences by reversing it and later events and then replaying the new event and later events. (Or indeed by throwing away the application state and replaying all events with the correct event in sequence.) The same technique can handle events received in the wrong sequence - a common problem with systems that communicate with asynchronous messaging.
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>martinfowler</category>
   </item>
 
     </channel>

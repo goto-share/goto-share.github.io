@@ -7,8 +7,8 @@
 为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
   </description>
       <language>en-us</language>
-      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
-      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
       <lastBuildDate>Tue, 26 Apr 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/github/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -20,7 +20,7 @@
     <description>《Designing Data-Intensive Application》DDIA中文翻译. Contribute to Vonng/ddia development by creating an account on GitHub.
 </description>
     <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>github</category><category>bigdata</category>
   </item>
 
@@ -32,7 +32,7 @@
     <description>最近有空，写了个探活其它服务的小程序，支持HTTP，TCP，Shell，Native Client的探活，HTTP看返回码，TCP看连不连得上，Shell 看运行结果，然后对于状态变化进行“边缘触发”通知，发通知到Email, Slack, Discord，可以每天/每周/每月发送一个各服务的SLA报告。图中是Discrod的通知示例。
 </description>
     <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>github</category><category>megaease</category><category>golang</category>
   </item>
 
@@ -44,7 +44,7 @@
     <description>一个和手势识别有关的gist
 </description>
     <pubDate>Mon, 15 Mar 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>github</category>
   </item>
 
@@ -56,8 +56,966 @@
     <description>代码防腐实用技术. Contribute to taowen/modularization-examples development by creating an account on GitHub.
 </description>
     <pubDate>Fri, 12 Feb 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
-    <category>github</category><category>coding</category>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-07-10-840</guid>
+    <title>A handy guide to financial support for open source
+</title>
+    <link>https://goto-share.github.io/blog/2020-07-10-840</link>
+    <description>A handy guide to financial support for open source - GitHub - nayafia/lemonade-stand: A handy guide to financial support for open source
+</description>
+    <pubDate>Fri, 10 Jul 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-768</guid>
+    <title></title>
+    <link>https://goto-share.github.io/blog/2020-05-27-768</link>
+    
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-769</guid>
+    <title>Proxy Grafana Webhook alert to WeChat Work.
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-769</link>
+    <description>Proxy Grafana Webhook alert to WeChat Work.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>monitor</category><category>weixin</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-770</guid>
+    <title>Generate plantuml diagrams from go source files or directories
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-770</link>
+    <description>Generate plantuml diagrams from go source files or directories - GitHub - bykof/go-plantuml: Generate plantuml diagrams from go source files or directories
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-771</guid>
+    <title>mclone - 麻麻再也不用担心拉取GitHub代码慢了
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-771</link>
+    <description>mclone - 麻麻再也不用担心拉取GitHub代码慢了. Contribute to nulastudio/mclone development by creating an account on GitHub.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-772</guid>
+    <title>GitHub Repos That Every Developer Should Know About
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-772</link>
+    <description>A handpicked list of repos that’ll help you become a better all-round developer
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-784</guid>
+    <title>浏览器分词搜索有什么推荐的么？
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-784</link>
+    <description>浏览器分词搜索有什么推荐的么？
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>nlp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-791</guid>
+    <title>英国政府的新冠病毒模型代码写的可真烂……
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-791</link>
+    <description>英国政府的新冠病毒模型。代码写的可真烂……
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-792</guid>
+    <title>在 VSCode 里玩 Draw.io
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-792</link>
+    <description>在 VSCode 里玩 Draw.io
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>vscode</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-794</guid>
+    <title>pingtop
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-794</link>
+    <description>我之前用 urwid 写过一个 类似top的软件
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-799</guid>
+    <title>dockerized: 用 docker 搭一些平时使用的服务
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-799</link>
+    <description>来，自荐下我的个人项目，用 docker 搭一些平时使用的服务，如果觉得可以，欢迎 star 哦
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>docker</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-804</guid>
+    <title>Open source fork of the Google Authenticator Android app
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-804</link>
+    <description>Open source fork of the Google Authenticator Android app - GitHub - google/google-authenticator-android: Open source fork of the Google Authenticator Android app
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>android</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-805</guid>
+    <title>Totp: google otp
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-805</link>
+    <description>totp, hotp,  source fork of the Google Authenticator Android app - GitHub - biutech/Totp: totp, hotp,  source fork of the Google Authenticator Android app
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>android</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-808</guid>
+    <title>python-online-reading
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-808</link>
+    <description>https://github.com/makerroot/python-online-reading 欢迎大伙pr
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-813</guid>
+    <title>微软正式推出 Windows 包管理工具
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-813</link>
+    <description>微软正式推出 Windows 包管理工具： Windows Package Manager。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>windows</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-815</guid>
+    <title>Windows Package Manager CLI
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-815</link>
+    <description>Windows Package Manager CLI (aka winget). Contribute to microsoft/winget-cli development by creating an account on GitHub.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>windows</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-832</guid>
+    <title>A curated list of awesome Deno
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-832</link>
+    <description>A curated list of awesome Deno frameworks, libraries, software and resources.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>nodejs</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-834</guid>
+    <title>A native Rust robots.txt parser
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-834</link>
+    <description>A native Rust port of Google&#39;s robots.txt parser and matcher C++ library.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>rust</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-836</guid>
+    <title>The Big List of Naughty Strings
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-836</link>
+    <description>The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-837</guid>
+    <title>笔记应用 joplin
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-837</link>
+    <description>an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-17-761</guid>
+    <title>A Chinese translation of TeachYourselfCS
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-17-761</link>
+    <description>TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
+</description>
+    <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-734</guid>
+    <title>Linux Kernel Teaching
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-734</link>
+    <description>This is a collection of lectures and labs Linux kernel topics. The lectures focus on theoretical and Linux kernel exploration.
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-736</guid>
+    <title>freeCodeCamp 文章翻译计划
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-736</link>
+    <description>Contribute to freeCodeCamp/chinese development by creating an account on GitHub.
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-740</guid>
+    <title>推荐我维护的小程序 websocket 类库
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-740</link>
+    <description>发现最近有很多做小程序的同学，欢迎尝试我维护的 websocket 类库，socket.io 风格
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-743</guid>
+    <title>rime/squirrel: 【鼠鬚管】Rime for macOS
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-743</link>
+    <description>【鼠鬚管】Rime for macOS. Contribute to rime/squirrel development by creating an account on GitHub.
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>mac</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-749</guid>
+    <title>java performance analysis with flame graphs
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-749</link>
+    <description>Stay hungry. Stay foolish. Contribute to mz1999/blog development by creating an account on GitHub.
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-752</guid>
+    <title>kubectl-debug
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-752</link>
+    <description>https://github.com/aylei/kubectl-debug 可以参考这个项目，做 container 内应用的调试
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-711</guid>
+    <title>quark: Stay happy while offline
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-711</link>
+    <description>Stay happy while offline | World&#39;s first offline search engine.
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-712</guid>
+    <title>richhickey.md
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-712</link>
+    <description>richhickey.md. GitHub Gist: instantly share code, notes, and snippets.
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-721</guid>
+    <title>use json files to mock apis for front-end development
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-721</link>
+    <description>web前端的话可以用 https://github.com/caolvchong/mock-api 之类
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>web</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-670</guid>
+    <title>iredis: 一个更好的 redis-cli
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-670</link>
+    <description>Hi 给 Redis 用户推荐一下我最近写的一个工具，“一个更好的 redis-cli”，支持自动补全，语法高亮，response更好的渲染。
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>database</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-672</guid>
+    <title>零成本搭建现代博客之搭建篇
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-672</link>
+    <description>本文介绍了如何零成本搭建一个自由独立的写作平台-基于GitHub的个人技术博客搭建指南
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-687</guid>
+    <title>monaco-editor: A browser based code editor
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-687</link>
+    <description>A browser based code editor. Contribute to microsoft/monaco-editor development by creating an account on GitHub.
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-707</guid>
+    <title>Goroutine Leak 检测器
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-707</link>
+    <description>Goroutine Leak 检测器，Uber出品。
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-612</guid>
+    <title>分享两个kubernetes的在线交互式学习的地方
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-612</link>
+    <description>分享两个kubernetes的在线交互式学习的地方
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-618</guid>
+    <title>准备找前端工作, 正在这个路子
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-618</link>
+    <description>准备找前端工作, 正在这个路子走: https://github.com/kamranahmedse/developer-roadmap
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-620</guid>
+    <title>这个Quad Sort有点意思啊
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-620</link>
+    <description>这个Quad Sort有点意思啊，少比较一次，比Quick Sort快……
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-626</guid>
+    <title>命令行入门级文章
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-626</link>
+    <description>命令行入门级文章
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-627</guid>
+    <title>Awesome Database Learning
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-627</link>
+    <description>A list of learning materials to understand databases internals - pingcap/awesome-database-learning
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-633</guid>
+    <title>GoReplay
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-633</link>
+    <description>https://github.com/buger/goreplay 这玩意儿就很有市场。
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-649</guid>
+    <title>liuli-cli，一个 JavaScript/TypeScript SDK CLI 工具
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-649</link>
+    <description>写了个小工具稍微宣发一下：liuli-cli，一个 JavaScript/TypeScript SDK CLI 工具，帮助前端库的开发者快速生成一个开箱即用 SDK，避免在每个项目都复制一堆的配置文件或都去踩一些坑。
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-650</guid>
+    <title>最近用 JAVA 实现了一个简单的可以自己跑自己的 JVM . 
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-650</link>
+    <description>最近用 JAVA 实现了一个简单的可以自己跑自己的 JVM . 
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-660</guid>
+    <title>Spring Boot 系列实战合集
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-660</link>
+    <description>Spring Boot 系列实战合集. Contribute to hansonwang99/Spring-Boot-In-Action development by creating an account on GitHub.
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-662</guid>
+    <title>vscode-debug-visualizer: An extension for VS Code that visualizes data during debugging.
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-662</link>
+    <description>An extension for VS Code that visualizes data during debugging.
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>vscode</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-569</guid>
+    <title>monkey 写测试贼好用。
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-569</link>
+    <description>https://github.com/bouk/monkey 今天被推荐了一个巨强无比的Go module。写测试贼好用。
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-597</guid>
+    <title>Excelize 今天刚发布了 2.1.0 版本
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-597</link>
+    <description>大家好，Excelize 是 Go 语言编写的 Excel 文档基础库，今天刚发布了 2.1.0 版本，包括了很多新增功能和性能优化，希望帮助到有需要的朋友～
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-600</guid>
+    <title>app-ideas: A Collection of application ideas
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-600</link>
+    <description>A Collection of application ideas which can be used to improve your coding skills.
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-603</guid>
+    <title>有人实现过单声道麦克风录音的 Float32Array 转换为 wav 文件（或者 blob）么？
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-603</link>
+    <description>有人实现过单声道麦克风录音的 Float32Array 转换为 wav 文件（或者 blob）么？
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-608</guid>
+    <title>找到一个项目 mall 电商系统 可以学下了
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-608</link>
+    <description>mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-611</guid>
+    <title>introduction to node with express
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-611</link>
+    <description>introduction to node with express
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>nodejs</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-493</guid>
+    <title>大单体仓库怎么玩微服务
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-493</link>
+    <description>大单体仓库怎么玩微服务
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-495</guid>
+    <title>git-when-merged: Determine when a particular commit was merged into a git branch
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-495</link>
+    <description>Determine when a particular commit was merged into a git branch
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-498</guid>
+    <title>An Ultimate GopherLabs Hands-on Labs
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-498</link>
+    <description>Go - Beginners Intermediate Advanced
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-502</guid>
+    <title>Path to a Software Architect
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-502</link>
+    <description>Path to a Software Architect. Contribute to justinamiller/SoftwareArchitect development by creating an account on GitHub.
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-503</guid>
+    <title>habitat-sim: A flexible, high-performance 3D simulator for Embodied AI research.
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-503</link>
+    <description>A flexible, high-performance 3D simulator for Embodied AI research.
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-505</guid>
+    <title>gofmt
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-505</link>
+    <description>Contribute to bigpigeon/gofmt development by creating an account on GitHub.
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-510</guid>
+    <title>g0v repositories
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-510</link>
+    <description>https://github.com/g0v?tab=repositories
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-518</guid>
+    <title>每日 AWESOME 观察
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-518</link>
+    <description>每日 AWESOME 观察, 有频道 https://t.me/awesomeopensource
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-526</guid>
+    <title>lazysizes: High performance and SEO friendly lazy loader
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-526</link>
+    <description>用 https://github.com/aFarkas/lazysizes  把英语轻松读文章里面涉及到的图片都做了lazyloading，预期又可以大大提高打开效率，有兴趣的用户可以测试一下，欢迎反馈 https://tiny4.org/enreader
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-536</guid>
+    <title>naabu: A fast port scanner written in go
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-536</link>
+    <description>A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-538</guid>
+    <title>public-apis: A collective list of free APIs
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-538</link>
+    <description>A collective list of free APIs. Contribute to public-apis/public-apis development by creating an account on GitHub.
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-547</guid>
+    <title>Let&#39;s Destroy C
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-547</link>
+    <description>看看这篇文章, Let&#39;s Destroy C。然后看看CNoEvil项目。
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>c</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-463</guid>
+    <title>awesome-aws
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-463</link>
+    <description>A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>aws</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-467</guid>
+    <title>SQLite 分布式版
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-467</link>
+    <description>SQLite 分布式版
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-479</guid>
+    <title>A book series on JavaScript
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-479</link>
+    <description>是这个么 https://github.com/getify/You-Dont-Know-JS
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-480</guid>
+    <title>系统设计入门
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-480</link>
+    <description>系统设计入门，归纳的很不错
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-431</guid>
+    <title>Secure iOS App dev
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-431</link>
+    <description>Collection of the most common vulnerabilities found in iOS applications
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>ios</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-432</guid>
+    <title>Free Programming Books
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-432</link>
+    <description>books: Freely available programming books
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-448</guid>
+    <title>一个关于健身的repo
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-448</link>
+    <description>https://github.com/evmn/Workouts
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>health</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-456</guid>
+    <title>The Deadlock Empire
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-456</link>
+    <description>Slay dragons, learn concurrency! Play the cunning Scheduler, exploit flawed  programs and defeat the armies of the Parallel Wizard.
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-457</guid>
+    <title>rancher/k3c
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-457</link>
+    <description>Lightweight local container engine for container development - rancher/k3c
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-458</guid>
+    <title>Highlights from Git 2.25
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-458</link>
+    <description>Take a look at some of the new features in the latest Git release.
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-404</guid>
+    <title>A Distributed Systems Reading List
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-404</link>
+    <description>I often argue that the toughest thing about distributed systems is changing the way you think. The below is a collection of material I&#39;ve found useful for motivating these changes.
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-415</guid>
+    <title>可以参考开源telegram服务端
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-415</link>
+    <description>可以参考开源telegram服务端
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-419</guid>
+    <title>multi-v2ray: v2ray/xray多用户管理部署程序
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-419</link>
+    <description>v2ray/xray多用户管理部署程序. Contribute to Jrohy/multi-v2ray development by creating an account on GitHub.
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-423</guid>
+    <title>awesome-c
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-423</link>
+    <description>A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>c</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-426</guid>
+    <title>开发Lealone数据库的过程中看过的书和论文以及深入研究过代码的开源项目
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-426</link>
+    <description>数据库的书以下面两本为主: 【数据库系统基础教程】 【数据库系统实现】 其他的参考书: 【数据库系统概念】 【事务处理:概念与技术】 【数据库与事务处理】 【SQL与关系数据库理论】 【PostgreSQL 数据库内核分析】 【MySQL技术内幕 InnoDB存储引擎】 【MySQL内核：InnoDB存储引擎 卷1】 【MySQL核心内幕】 RDBMS和NoSQL开源项目 【H2关系数据库源...
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>database</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-386</guid>
+    <title>推荐下这个rust写的bitwarden的方案
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-386</link>
+    <description>不知道群里有没有用1Password或者其他密码管理方案的，推荐下这个rust写的bitwarden的方案，自建 密码在自己手里+能免费解锁premium的功能，带的docker image支持各种架构，有吃灰服务器的扔上去跑一个还不错：https://github.com/dani-garcia/bitwarden_rs
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>rust</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-395</guid>
+    <title>计算机有多快？玩个小游戏
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-395</link>
+    <description>计算机有多快？玩个小游戏 https://computers-are-fast.github.io/
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-398</guid>
+    <title>vector: A high-performance observability data pipeline.
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-398</link>
+    <description>What is Vector? Vector is a high-performance, end-to-end (agent &amp;amp; aggregator) observability data pipeline that puts you...
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
   </item>
 
     </channel>

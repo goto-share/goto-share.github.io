@@ -7,8 +7,8 @@
 为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
   </description>
       <language>en-us</language>
-      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
-      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
       <lastBuildDate>Thu, 11 May 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/youtube/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -20,7 +20,7 @@
     <description>How to Create Good UI/UX - Cali Castle
 </description>
     <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category>
   </item>
 
@@ -32,7 +32,7 @@
     <description>两年前，我找视频制作公司花了半年做了个二十年来【软件架构的演进】的视频（ https://youtu.be/6X74pEJ58-E ），从单体架构到SOA，再到微服务，再到云原生架构。今天终于把这个视频做成了一个平台：MegaEase Cloud - 国内 http://cloud.megaease.cn  /  国外 http://cloud.megaease.com，欢迎试用和反馈！
 </description>
     <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>megaease</category><category>youtube</category><category>architecture</category>
   </item>
 
@@ -44,7 +44,7 @@
     <description>这是今晚的公司内部一个关于个人成长的分享【非计算机专业的人如何转行程序员】- 宿琛是一个90后的程序员，他以前是学习金融的非程序员，后来爱上了写程序，但是在他读硕士的时候并没有学会编程，而且，工作的加班让他无法潜心学习，于是他开始了为期一年离职学习，在疫情期间通过学习美国大学的网课真正的成为了一个有深厚基础知识的程序员，这里是他的整个经历的分享。相信可以影响到更多的人。 
 </description>
     <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>bilibili</category><category>youtube</category><category>growth</category>
   </item>
 
@@ -56,7 +56,7 @@
     <description>技术分享：Kube-OVN 容器性能优化之旅（刘梦馨）。容器网络性能优化之旅 - 容器网络性能测试以及 Profile 方法 - 网络性能瓶颈分析及优化过程 - 后续可能的优化方法和方向
 </description>
     <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>bilibili</category><category>youtube</category><category>kubernetes</category>
   </item>
 
@@ -68,7 +68,7 @@
     <description>你学习咋没像玩游戏那样呢？ 那学习为什么不像游戏那样好玩？
 </description>
     <pubDate>Sun, 03 Oct 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category><category>growth</category>
   </item>
 
@@ -80,8 +80,8 @@
     <description>技术分享：用 Easegress + WebAssembly 做秒杀
 </description>
     <pubDate>Sat, 11 Sep 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
-    <category>youtube</category><category>easegress</category><category>webassembly</category>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>webassembly</category>
   </item>
 
   <item>
@@ -92,8 +92,8 @@
     <description>怎么写一个JavaAgent
 </description>
     <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
-    <category>youtube</category><category>agent</category>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>java</category>
   </item>
 
   <item>
@@ -104,7 +104,7 @@
     <description>分布式锁管理
 </description>
     <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category><category>distributed</category><category>haoel</category>
   </item>
 
@@ -116,7 +116,7 @@
     <description>An Introduction about -  What is WebAssembly -  How does WebAssembly impact Serverless/FaaS technology.  -  Sledge - multiple functions in one process.
 </description>
     <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category><category>serverless</category><category>webassembly</category>
   </item>
 
@@ -128,7 +128,7 @@
     <description>主要分享Kubernetes的网络模型 分享人：赵锟 ( https://github.com/zhao-kun )
 </description>
     <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category><category>kubernetes</category>
   </item>
 
@@ -140,7 +140,7 @@
     <description>In this video, we will open up your smartphone and take a look at the inside of the memory storage microchip. This same microchip is also used to store data in solid-state drives, or SSDs in your computer, in tablets, and inside flash drives. The technology is called VNAND or V-NAND, and it&#39;s incredible how engineers were able to fit such an insane amount of memory storage capacity in such a small space
 </description>
     <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category><category>ssd</category>
   </item>
 
@@ -152,8 +152,8 @@
     <description>技术分享：Prometheus是怎么存储数据的
 </description>
     <pubDate>Tue, 23 Feb 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
-    <category>youtube</category><category>prometheus</category>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>monitor</category>
   </item>
 
   <item>
@@ -164,7 +164,7 @@
     <description>10个小时的DataStructure的教学视频，看了下开头，还是挺好的（可以练习印度英文听力，哈）
 </description>
     <pubDate>Thu, 28 Jan 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category><category>ds</category><category>mooc</category>
   </item>
 
@@ -176,7 +176,559 @@
     <description>This is The Entire Computer Science Curriculum in 1000 YouTube Videos. The curriculum is going to be organized in 40 courses in total, further organized in 4 academic years...
 </description>
     <pubDate>Sat, 16 Jan 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-10-29-842</guid>
+    <title>Top 10 Best VS Code Extensions
+</title>
+    <link>https://goto-share.github.io/blog/2020-10-29-842</link>
+    <description>👉 Become A VS Code SuperHero Today: https://vsCodeHero.com 🚢 Deploy for FREE on Vercel: https://vercel.com/ambassadors/codestackr.
+</description>
+    <pubDate>Thu, 29 Oct 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-765</guid>
+    <title>Youtube Video Unavailable
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-765</link>
+    <description>Youtube Video Unavailable
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-785</guid>
+    <title>找日本it工作的7種途徑
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-785</link>
+    <description>大家好，我是麥芽糖 歡迎收看我的頻道，這個視頻我跟大家說壹說 來日本找程序員工作的7種途徑 揭露壹個騙子培訓機構 我的頻道是和大家壹起討論日本it資訊，以及日本生活指南的壹個頻道。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-787</guid>
+    <title>How Important are Algorithms and Data Structures in Backend Engineering?
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-787</link>
+    <description>Algorithms &amp; Data Structures are critical to Backend Engineering however it really depends on what kind of application and infrastructure you are building.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>algorithm</category><category>ds</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-822</guid>
+    <title>EdX KTHx ID2203 Reliable Distributed Algorithms
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-822</link>
+    <description>These videos are part of the edx.org course on reliable distributed algorithm by edX KTHx. Part 1 and Part 2 A new round of the two courses starts October 2017.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-824</guid>
+    <title>Building Microservices with Spring Cloud
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-824</link>
+    <description>Youtube 上有很多 webinar 其实也很有意思 比如我喜欢看 Josh Long 的 看他现场编码 能学到一些带着 Spring 原生气息的编程小技巧 比如这个 https://www.youtube.com/watch?v=ZyK5QrKCbwM
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-831</guid>
+    <title>Watch &quot;Building Software Systems At Google and Lessons Learned&quot; on YouTube
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-831</link>
+    <description>Watch &quot;Building Software Systems At Google and Lessons Learned&quot; on YouTube
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>google</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-835</guid>
+    <title>Internet Protocol - IPv4 vs IPv6 as Fast As Possible
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-835</link>
+    <description>IPv4 vs IPv6... Why do we need to transition from the Internet Protocol that&#39;s served us so well for all these years? Maybe because we&#39;re completely running out of IP addresses!
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-838</guid>
+    <title>一个介绍 PyTorch 的playlist
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-838</link>
+    <description>发现一个介绍 PyTorch 的playlist，动画效果属实不错，缺点是废话有点多。。建议1.25或1.5倍速
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-17-754</guid>
+    <title>Scaling Infrastructure Engineering at Slack
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-17-754</link>
+    <description>QCon New York International Software Conference returns this June 13-15. Technical leaders who are driving innovation and change in software will share the latest trends and techniques from their real-world projects to help you solve common challenges.   More than 800 software professionals will join together and learn about the emerging trends they should pay attention to in 2023, how to adopt them, how to avoid pitfalls, and how to embrace the best practices. Join the experience and get implementable ideas to shape your projects that last beyond the conference.  Attend in-person or online on June 13-15, 2023. Register now: http://bit.ly/3wq3yBs  --------------------------------------------------------------------------------- Video with transcript included: http://bit.ly/328xWii   Julia Grace was asked to build Slack’s first infrastructure engineering organization in August 2016. The company was two years old and they were approaching the scalability limits of the original infrastructure. Things were starting to break in strange and unpredictable ways. She discusses the architectural and organizational challenges, mistakes and war stories of 2.5 years that followed.  This presentation was recorded at QCon New York 2019: http://bit.ly/2KFk7SO  #Performance #Infrastucture #Scalability
+</description>
+    <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-17-755</guid>
+    <title>推荐个遗传算法系列
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-17-755</link>
+    <description>Welcome to part 1 of a new series of videos focused on Evolutionary Computing, and more specifically, Genetic Algorithms. In this tutorial, I introduce the concept of a genetic algorithm, how it can be used to approach &quot;search&quot; problems and how it relates to brute force algorithms.
+</description>
+    <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-17-759</guid>
+    <title>Microservices
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-17-759</link>
+    <description>it&#39;s because of the way our backend works   // merch: https://merch.krazam.tv  // https://www.instagram.com/krazam.tv   // https://twitter.com/krazamtv
+</description>
+    <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>microservices</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-735</guid>
+    <title>Neural networks
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-735</link>
+    <description>Learn the basics of neural networks and backpropagation, one of the most important algorithms for the modern world.
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-742</guid>
+    <title>How not to Die Hard with Math
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-742</link>
+    <description>The Mathologer shares his favourite superingenious method for surviving the type of deadly bucket filling challenge that Bruce Willis and Samuel Jackson face in Die Hard 3.  Enjoy!
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-715</guid>
+    <title>作为一个自由职业者，我总结了6条必备技能。
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-715</link>
+    <description>作为一个自由职业者，我总结了6条必备技能。欢迎大家拍砖
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-716</guid>
+    <title>Exponential growth and epidemics
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-716</link>
+    <description>A primer on exponential and logistic growth Help fund future projects: https://www.patreon.com/3blue1brown An equally valuable form of support is to simply share some of the videos. Special thanks to these supporters: http://3b1b.co/covid-thanks Home page: https://www.3blue1brown.com   Excellent visualization of this kind of growth from Minutephysics and Aatish Bhatia: https://www.youtube.com/watch?v=54XLXg4fYsc  Data source: https://www.worldometers.info/coronavirus/coronavirus-cases/#case-tot-outchina  Some have (quite rightfully) commented on how you shouldn&#39;t look at the R^2 of linear regressions on cumulative data since even if the changes from one day to the next are completely random, the totals they add up to wouldn&#39;t be independent of each other.  Since the derivative of an exponential should also be an exponential, we could instead run the same test on the logarithms of the differences from day to day, which in this case gives R^2 = 0.91.  While this video uses COVID-19 as a motivating example, the main goal is simply a math lesson on exponentials and logistic curves.  If you&#39;re looking for a video more focused on COVID-19 itself, I&#39;d recommend taking a look at this one from Osmosis: https://youtu.be/cFB_C2ieW5I  Extrapolation xkcd: https://xkcd.com/605/  ------------------    These animations are largely made using manim, a scrappy open source python library:  https://github.com/3b1b/manim    If you want to check it out, I feel compelled to warn you that it&#39;s not the most well-documented tool, and it has many other quirks you might expect in a library someone wrote with only their own use in mind.    Music by Vincent Rubinetti.  Download the music on Bandcamp:  https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown    Stream the music on Spotify:  https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u    If you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then &quot;add subtitles/cc&quot;.  I really appreciate those who do this, as it helps make the lessons accessible to more people.    ------------------    3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe: http://3b1b.co/subscribe    Various social media stuffs:  Website: https://www.3blue1brown.com  Twitter: https://twitter.com/3blue1brown  Reddit: https://www.reddit.com/r/3blue1brown  Instagram: https://www.instagram.com/3blue1brown_animations/  Patreon: https://patreon.com/3blue1brown  Facebook: https://www.facebook.com/3blue1brown
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-619</guid>
+    <title>Bret Victor - Inventing on Principle
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-619</link>
+    <description>Bret Victor - Inventing on Principle
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-624</guid>
+    <title>Give me 15 minutes I&#39;ll change your view of GDB
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-624</link>
+    <description>CppCon 2015: Greg Law - Give me 15 minutes I&#39;ll change your view of GDB
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-628</guid>
+    <title>jserv讲linux核心的课程
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-628</link>
+    <description>https://youtu.be/9VlOpKWdIVU jserv讲linux核心的课程，挺有趣的
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-632</guid>
+    <title>查理芒格关于误判心理学的演讲
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-632</link>
+    <description>#Talk 查理芒格关于误判心理学的演讲
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-645</guid>
+    <title>Vue.js: The Documentary
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-645</link>
+    <description>by honeypot.io | What began as a side project of a Google developer now shares the JS leaderboard with #Reactjs and #Angularjs... Evan You tells the story of how he fought against the odds to bring #Vuejs to life.  Coming to a screen near you on Feb 24th!
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-646</guid>
+    <title>Computer Architecture Lecture Video Playlist
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-646</link>
+    <description>Computer Architecture Lecture Video Playlist
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-576</guid>
+    <title>Learn English with Bob the Canadian
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-576</link>
+    <description>Learn English with Bob the Canadian
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category><category>app</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-579</guid>
+    <title>English with Lucy
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-579</link>
+    <description>English with Lucy
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-580</guid>
+    <title>youtube video isn&#39;t available anymor
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-580</link>
+    <description>This video isn&#39;t available anymore
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-581</guid>
+    <title>再谈如何学习英语
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-581</link>
+    <description>没看过我的英语学习视频的，可以先补课 https://www.youtube.com/watch?v=_l8Rn6tPs6o&amp;list=PLNEGQlCPzlkJVzbjuQOu0CZGKyn29CnT3
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-582</guid>
+    <title>Learn English in 30 Minutes
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-582</link>
+    <description>Learn English in 30 Minutes - ALL the English Basics You Need
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-596</guid>
+    <title>图形化方式解释数学概念
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-596</link>
+    <description>3Blue1Brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective.
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-601</guid>
+    <title>《為什麼要睡覺》
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-601</link>
+    <description>今天的讀的書《為什麼要睡覺》，心得要來分享一本探討睡眠的書，原文書名是 #WhyWeSleep，讀了以後嚇到我！書中知識不只提醒人睡覺的好處，更警告你如果沒有充足的睡眠，人生會有多慘！
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>health</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-610</guid>
+    <title>Every Melody Has Been Copyrighted
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-610</link>
+    <description>这个视频中讨论的东西好牛逼啊, 一个程序员+音乐家把所有的音乐旋律暴力跑完了，C调的12个8分音符，8^12，即687亿旋律，6天搞完，然后注册版权（最后开放在allthemusic.info网站）。另外，他们还讨论了，如果音乐只是一个数学的排列组合，作曲家只不过是对其中的某个排列组合声明了版权，是不是有点过分了？
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-515</guid>
+    <title>花花酱: 两岸科技术语的差别
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-515</link>
+    <description>花花酱 两岸科技术语的差别 - CS大讲堂 EP14
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-532</guid>
+    <title>成功学有用吗？幸存者偏差，一个活着就该明白的事！李永乐老师聊聊大牌球星的身价
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-532</link>
+    <description>成功学有用吗？幸存者偏差，一个活着就该明白的事！李永乐老师聊聊大牌球星的身价
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-534</guid>
+    <title>作弊對其他同學不公平？教授告訴你不該作弊的真正原因
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-534</link>
+    <description>作弊對其他同學不公平？教授告訴你不該作弊的真正原因 (中文字幕)
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-537</guid>
+    <title>Google Coding Interview With A Competitive Programmer
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-537</link>
+    <description>In this video, I conduct a mock Google coding interview with a competitive programmer, Errichto. As a Google Software Engineer, I interviewed dozens of candidates. This is exactly the type of coding interview that you would get at Google or any other big tech company.  Check out the video we made on Errichto&#39;s channel: https://www.youtube.com/watch?v=Y8VeyLG3NhY  Prepping for coding interviews? Practice with 77 video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert: https://www.algoexpert.io (use &quot;clem&quot; promo code for a discount!)
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-557</guid>
+    <title>sicp作者早期培训视频，双语字幕
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-557</link>
+    <description>[SICP]计算机程序的构造和解释 中英双语字幕 - YouTube
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-472</guid>
+    <title>Database Logging Schemes
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-472</link>
+    <description>Prof. Andy Pavlo (http://www.cs.cmu.edu/~pavlo/) Slides: https://15445.courses.cs.cmu.edu/fall2019/slides/20-logging.pdf Notes: https://15445.courses.cs.cmu.edu/fall2019/notes/20-logging.pdf  15-445/645 Intro to Database Systems (Fall 2019) Carnegie Mellon University https://15445.courses.cs.cmu.edu/fall2019/
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-481</guid>
+    <title>Careers Behind the Code: Becoming the ASP.NET Architect with David Fowler
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-481</link>
+    <description>In this episode, David Fowler, the Partner Architect for the ASP.NET team walks you through landing his first job, moving from a dev to an architect role and...
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-442</guid>
+    <title>谷歌Adsense国内收款如此简单
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-442</link>
+    <description>正好前几天看到这个视频，国内零手续费收款，作者写的非常详细：https://www.youtube.com/watch?v=qgU5PVxKcNw
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-446</guid>
+    <title>youtube video unavailable
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-446</link>
+    <description>youtube video unavailable
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-449</guid>
+    <title>別再轉脖子了
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-449</link>
+    <description>並不是說轉脖子就一定會癱瘓，只是對於脖子構造不好，反而容易造成損傷，而最極端案例就是新聞中的癱瘓
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>health</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-462</guid>
+    <title>本人的YouTube频道: 麦兜搞IT
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-462</link>
+    <description>本人的YouTube频道借宝地广告一波，欢迎感兴趣的同学订阅，目前正在制作一系列Ansible入门的教程。
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-416</guid>
+    <title>How To Read (Code)
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-416</link>
+    <description>When you learn a new language, like French or German or even English, you first learn how to read. Then you learn how to write. When you learn a new *programming* language, you first learn how to write. And that’s it.
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-418</guid>
+    <title>房贷合同要变了！LPR利率和固定利率哪个合算？会影响房价走势吗?
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-418</link>
+    <description>今年八月份，央行出台文件规定今后贷款不再锚定基准利率，改为LPR利率，这是一种由18家商业银行报价形成的市场化的利率标准。12月28日，央行再出文件规定存量房屋贷款也要重新签订合同，改为LPR利率或者固定利率。LPR利率到底是什么？它是如何计算的？哪一种方式对贷款者更有利？点开视频看看吧！  大家有什么想看的内容，可以在下方留言！ ———————————————————————————————————— 火热视频推荐：  外星人如何发现地球？李永乐老师【2019诺贝尔物理学奖解读】 https://youtu.be/dAPJaryxQkA  缺氧时人体会有什么变化？癌症治疗又有新方法！【2019诺贝尔医学奖解读】 https://youtu.be/r9nBZAJk6Cc  东风17导弹能在太空打水漂吗？钱学森弹道和乘波体飞行器是什么？ https://youtu.be/fOzR-PO-lQ8  【经济泡沫1/4】一朵花换一栋楼？ https://youtu.be/PXseMoyGKzY  外星人存在吗？人类为什么看不到外星文明？ https://youtu.be/Mwa0_nE9H7A ————————————————————————————————————
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-375</guid>
+    <title>看看这个视频，你会更了解计算机的时间（但有可能你会跟不上）
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-375</link>
+    <description>看看这个视频，你会更了解计算机的时间（但有可能你会跟不上）
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-388</guid>
+    <title>Talk: Preventing the Collapse of Civilization
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-388</link>
+    <description>Talk: Preventing the Collapse of Civilization
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-401</guid>
+    <title>Why I&#39;m so good at coding.
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-401</link>
+    <description>Ex-Google/ex-Facebook TechLead exposes why he&#39;s so good at programming.  Thanks to our sponsor Skillshare, an online learning community - get your FREE 2 month trial at http://skl.sh/techlead7.  Join me in DeFi Pro and make passive income with crypto. http://defipro.dev/ Join ex-Google/ex-Facebook engineers for my coding interview training: https://techinterviewpro.com/ 💻 100+ Videos of programming interview problems explained: https://coderpro.com/ 📷 Learn how to build a $1,000,000+ business on YouTube: http://youtubebackstage.com/ 💻 Sign up for my FREE daily coding interview practice: http://dailyinterviewpro.com/  🛒 All my computer/camera gear: https://www.amazon.com/shop/techlead/list/UVRWWQKBFRR ⌨️ My favorite keyboards: http://iqunix.store/techlead  🎉 Party up: https://instagram.com/techleadhd/ https://twitter.com/techleadhd/  Disclosure: Some links are affiliate links to products. I may receive a small commission for purchases made through these links.  #techlead
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category>
   </item>
 

@@ -7,21 +7,21 @@
 为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
   </description>
       <language>en-us</language>
-      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
-      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
       <lastBuildDate>Thu, 12 Aug 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/weixin/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://goto-share.github.io/blog/2021-08-12-883</guid>
-    <title>deleted
+    <title>Weixin Article Unavailable
 </title>
     <link>https://goto-share.github.io/blog/2021-08-12-883</link>
-    <description>deleted
+    <description>Weixin Article Unavailable
 </description>
     <pubDate>Thu, 12 Aug 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
-    <category>weixin</category><category>deleted</category>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>unavailable</category>
   </item>
 
   <item>
@@ -32,8 +32,200 @@
     <description>微服务是一把双刃剑，在让我们提升开发效率的同时，也会让运维难度加大，尤其是 Serverless，其微服务器的粒度更小，随着数量的增长，缺乏配套设施的架构会变得一发不可收拾，而治理和运维的难度也随之呈现级数性增长。本次分享主要讨论如何对 Serverless 进行更有效的服务治理。本文由MegaEase 创始人、腾讯云TVP 陈皓在 Techo TVP 开发者峰会 ServerlessDays China 2021上的演讲《Serverless 的服务治理》整理而成，向大家分享。
 </description>
     <pubDate>Tue, 29 Jun 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>weixin</category><category>serverless</category><category>haoel</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-769</guid>
+    <title>Proxy Grafana Webhook alert to WeChat Work.
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-769</link>
+    <description>Proxy Grafana Webhook alert to WeChat Work.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>monitor</category><category>weixin</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-776</guid>
+    <title>从简单规则到系统物理学
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-776</link>
+    <description>著名物理学家、《一种新科学》作者、Mathematica 设计师 Stephen Wolfram 于近日发表了近四万字的博文，在文中他详细的阐出了一套能够阐述宇宙基本物理理论的模型框架。 集智俱乐部组织翻译了全文。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-786</guid>
+    <title>三年之久的 etcd 3 数据不一致 bug 分析
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-786</link>
+    <description>近日被挖掘出一个存在 3 年之久的数据不一致 bug——client 写入后无法在异常节点读取到数据，即数据丢失。本文介绍了我们是如何从问题分析、大胆猜测、严谨验证、排除、工程化复现，从 Raft 到 BoltDB，从源码定制再到 Chaos Monkey，一步步定位并解决 etcd 数据不一致 bug 的详细流程，并将解决方案提交给社区，移植到 etcd 3.4/3.3 生产环境分支。希望通过本文，能够揭开 etcd 的神秘面纱，让大家对 etcd 的原理和问题定位有一个较为深入的了解。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>etcd</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-801</guid>
+    <title>前端开发的瓶颈与未来之路
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-801</link>
+    <description>花了两天时间写了一篇关于前端方面文章，希望各路大佬批评指正：https://mp.weixin.qq.com/s/MW8FRkAtSGQXrxvZZnh1zw
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-730</guid>
+    <title>技术人如何更好地把控发展趋势？
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-730</link>
+    <description>技术不断迭代，掌握一门其中一门技术就可以悠闲到老么？盲目搬砖就能以量变换取质变么？世界的快速发展，本质是什么？如何鉴别出有潜力的技术？如何突破自身学习和能力的瓶颈，更好做到自我管理？本文是左耳朵耗子老师在「云加社区沙龙online」的分享整理，详细阐述了技术人应如何面对焦虑，把控技术，更好适应未来技术发展的冲击。
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>haoel</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-689</guid>
+    <title>《软件创富----共享软件创业之道》读后感
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-689</link>
+    <description>《软件创富----共享软件创业之道》读后感
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>writing</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-614</guid>
+    <title>你或许知道的几种开展咨询业务的常见姿势
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-614</link>
+    <description>我发现，市面上做咨询的姿势基本上就常见的几种， 即：教育式咨询引导式咨询启发式咨询具体怎么理解呢？且听我慢慢
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-630</guid>
+    <title>一行代码引发的恐惧
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-630</link>
+    <description>多谢分享。我看微信在做重构的时候也是采用了这种模式，但是没找到这种验证方式具体叫什么
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-631</guid>
+    <title>“流量回放” 在系统重构中的测试实践
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-631</link>
+    <description>按“流量重放”这个关键词，可以找到以下这篇《“流量回放” 在系统重构中的测试实践》
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-640</guid>
+    <title>值得程序员反复品味的编码智慧
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-640</link>
+    <description>值得程序员反复品味的编码智慧
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-648</guid>
+    <title>除了 MIT 6.824，还有哪些高质量的「分布式系统」学习资料？
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-648</link>
+    <description>保持好奇心，保持学习的习惯。
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-657</guid>
+    <title>写给技术人的人性课
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-657</link>
+    <description>做产品的人都知道有句话叫“合理的部分是理性，不合理的部分是人性”， 嗯， 这个世界不是完全靠理性就能理解的，遇到不理性的事情，可以换到人性的视角再看看。
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-530</guid>
+    <title>weixin article unavailable
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-530</link>
+    <description>weixin article unavailable
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-533</guid>
+    <title>面对未来的不确定性，我们应该如何反脆弱
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-533</link>
+    <description>世界有世界的安排，所以人总是脆弱的。但是人如果能够积极应对，不管境遇如何，都努力前行，都学习如何分散对冲风险，人也能反击脆弱。
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-552</guid>
+    <title>调度系统设计精要
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-552</link>
+    <description>全文 2 万字，深入调度器的设计原理，源码级分析 Linux、Go 和 Kubernetes 调度器的演变过程。
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>architecture</category><category>linux</category><category>golang</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-412</guid>
+    <title>99行代码实现《冰雪奇缘》
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-412</link>
+    <description>清华姚班毕业生开发新特效编程语言，99行代码实现《冰雪奇缘》，网友：大神碉堡！创世的快乐
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category>
   </item>
 
     </channel>

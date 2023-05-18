@@ -7,8 +7,8 @@
 为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
   </description>
       <language>en-us</language>
-      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
-      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
       <lastBuildDate>Fri, 07 Jan 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/kubernetes/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -20,7 +20,7 @@
     <description>技术分享：Kube-OVN 容器性能优化之旅（刘梦馨）。容器网络性能优化之旅 - 容器网络性能测试以及 Profile 方法 - 网络性能瓶颈分析及优化过程 - 后续可能的优化方法和方向
 </description>
     <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>bilibili</category><category>youtube</category><category>kubernetes</category>
   </item>
 
@@ -32,7 +32,7 @@
     <description>主要分享Kubernetes的网络模型 分享人：赵锟 ( https://github.com/zhao-kun )
 </description>
     <pubDate>Wed, 19 May 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category><category>kubernetes</category>
   </item>
 
@@ -44,7 +44,7 @@
     <description>Strimzi provides a way to run an Apache Kafka cluster on Kubernetes in various deployment configurations.
 </description>
     <pubDate>Tue, 19 Jan 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>kubernetes</category><category>kafka</category>
   </item>
 
@@ -56,8 +56,152 @@
     <description>Strimzi provides a way to run an Apache Kafka cluster on Kubernetes in various deployment configurations.
 </description>
     <pubDate>Tue, 19 Jan 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>kubernetes</category><category>kafka</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-766</guid>
+    <title>Spring on Kubernetes Workshop
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-766</link>
+    <description>大佬牛逼 spring on k8s https://hackmd.io/@ryanjbaxter/spring-on-k8s-workshop
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kubernetes</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-806</guid>
+    <title>Kubernetes Learning Path
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-806</link>
+    <description>Kubernetes is taking the app development world by storm. By 2022, more than 75% of global organizations will be running containerized applications in production.* Kubernetes is shaping the fut...
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-833</guid>
+    <title>使用kubesql查询kubernetes资源
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-833</link>
+    <description>kubectl虽然查询单个的kubernetes资源或者列表都已经比较方便，但是进行更为多个资源的联合查询（比如pod和node），以及查询结果的二次处理方面却是kubectl无法胜任的。所以一直以来，我都有想法将kubernetes作为数据库进行查询
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-17-753</guid>
+    <title>kubernetes 官方有 debug 命令了
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-17-753</link>
+    <description>1.18 官方有debug命令了，不需要外部工具。https://kubernetes.io/docs/tasks/debug-application-cluster/debug-running-pod/#ephemeral-container 不过还在alpha阶段
+</description>
+    <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-752</guid>
+    <title>kubectl-debug
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-752</link>
+    <description>https://github.com/aylei/kubectl-debug 可以参考这个项目，做 container 内应用的调试
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-612</guid>
+    <title>分享两个kubernetes的在线交互式学习的地方
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-612</link>
+    <description>分享两个kubernetes的在线交互式学习的地方
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-642</guid>
+    <title>Kubernetes in Action,
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-642</link>
+    <description>Kubernetes in Action, Second Edition is now available through the Manning Early Access Program! https://t.co/gdXuZYs4nC
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>ebook</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-562</guid>
+    <title>Kubernetes Learning Path
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-562</link>
+    <description>Kubernetes Learning Path
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-506</guid>
+    <title>这个Kui真是神器啊
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-506</link>
+    <description>Kui is the CLI with a GUI twist. At its heart, Kui is a plain old terminal, with a command line-driven approach to interacting with your…
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-539</guid>
+    <title>Understanding Kubernetes Limits and Requests
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-539</link>
+    <description>Understanding Kubernetes Limits and RequestsHave you set up Limits and Requests in your Kubernetes Pods ❓You need first to understand what are the implications.❗️Check this guide for CPU and memory rightsizinghttps://sysdig.com/blog/kubernetes-limits-requests/
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-552</guid>
+    <title>调度系统设计精要
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-552</link>
+    <description>全文 2 万字，深入调度器的设计原理，源码级分析 Linux、Go 和 Kubernetes 调度器的演变过程。
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>architecture</category><category>linux</category><category>golang</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-482</guid>
+    <title>What is Kubernetes?
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-482</link>
+    <description>Kubernetes is a container management system meant to be deployed on Docker-capable clustered environments. In this guide, we will discuss some of the basic …
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kubernetes</category>
   </item>
 
     </channel>

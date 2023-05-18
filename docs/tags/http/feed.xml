@@ -7,8 +7,8 @@
 为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
   </description>
       <language>en-us</language>
-      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
-      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
       <lastBuildDate>Fri, 21 Oct 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/http/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -20,7 +20,7 @@
     <description>Oxeye’s security research team has found a security vulnerability in Golang-based applications. Under certain conditions, it lets a threat actor bypass validations based on HTTP request parameters due to the use of unsafe URL parsing.
 </description>
     <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>http</category><category>golang</category>
   </item>
 
@@ -32,8 +32,56 @@
     <description>还是写篇文章讨论一下这个事。文章包括如下部分: - 为什么要用不同的HTTP动词？- REST API进行复杂查询 - 几个主要问题的回应
 </description>
     <pubDate>Sun, 13 Feb 2022 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
-    <category>coolshell</category><category>restful</category><category>http</category>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>coolshell</category><category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-803</guid>
+    <title>如何在HTTP头里找工作
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-803</link>
+    <description>如何在HTTP头里找工作
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-731</guid>
+    <title>为什么 HTTPS 需要 7 次握手以及 9 倍时延
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-731</link>
+    <description>HTTP 协议（Hypertext Transfer Protocol）已经成为互联网上最常用的应用层协议，然而其本身只是用于传输超文本的网络协议，不会提供任何安全上的保证，使用明文在互联网上传输数据包使得窃听和中间人攻击成为可能，通过 HTTP 传输密码其实与在互联网上裸奔也差不多。
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>http</category><category>network</category><category>why</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-455</guid>
+    <title>The Status of HTTP/3
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-455</link>
+    <description>HTTP/3 is the next protocol for network communication across the Web, which is meant to partially replace HTTP/1 and HTTP/2. One month before the next QUIC Working Group meeting, to be held in Zurich next February, it may be useful to recap what HTTP/3 promises and what its current client/server support looks like.
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>http</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-402</guid>
+    <title>Performance testing HTTP/1.1 vs HTTP/2 vs HTTP/2 + Server Push for REST APIs
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-402</link>
+    <description>When building web services, a common wisdom is to try to reduce the number of HTTP requests to improve performance. There are a variety of benefits to this, including less total bytes being sent, but the...
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>perf</category><category>web</category><category>http</category>
   </item>
 
     </channel>

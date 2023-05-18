@@ -7,8 +7,8 @@
 为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
   </description>
       <language>en-us</language>
-      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
-      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
       <lastBuildDate>Sun, 14 Feb 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/javascript/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -20,7 +20,7 @@
     <description>Including some useful bits of code and utilities
 </description>
     <pubDate>Sun, 14 Feb 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>medium</category><category>javascript</category>
   </item>
 
@@ -32,8 +32,80 @@
     <description>Universal any item getter
 </description>
     <pubDate>Sun, 14 Feb 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>medium</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-625</guid>
+    <title>TypeScript 迁移体验
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-625</link>
+    <description>JavaScript =&gt; TypeScript 迁移体验前言 如果你使用 JavaScript 没出现什么问题，那吾辈就不推荐你迁移到 TypeScript！JavaScript 不能无缝迁移到 TypeScript！
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-645</guid>
+    <title>Vue.js: The Documentary
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-645</link>
+    <description>by honeypot.io | What began as a side project of a Google developer now shares the JS leaderboard with #Reactjs and #Angularjs... Evan You tells the story of how he fought against the odds to bring #Vuejs to life.  Coming to a screen near you on Feb 24th!
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-649</guid>
+    <title>liuli-cli，一个 JavaScript/TypeScript SDK CLI 工具
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-649</link>
+    <description>写了个小工具稍微宣发一下：liuli-cli，一个 JavaScript/TypeScript SDK CLI 工具，帮助前端库的开发者快速生成一个开箱即用 SDK，避免在每个项目都复制一堆的配置文件或都去踩一些坑。
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-511</guid>
+    <title>JavaScript/Node.js 台灣
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-511</link>
+    <description>臉書 JavaScript TW 社團的 Telegram 群組 https://fb.com/groups/javascript.tw/ 討論主題為 JavaScript/ECMAScript 及其衍生物
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-479</guid>
+    <title>A book series on JavaScript
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-479</link>
+    <description>是这个么 https://github.com/getify/You-Dont-Know-JS
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-374</guid>
+    <title>Common Javascript Promise mistakes every beginner should know and avoid
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-374</link>
+    <description>I wish I knew about all these mistakes while learning javascript and promises.
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>javascript</category>
   </item>
 
     </channel>

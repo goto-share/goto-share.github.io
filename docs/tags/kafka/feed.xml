@@ -7,8 +7,8 @@
 为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
   </description>
       <language>en-us</language>
-      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
-      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
       <lastBuildDate>Tue, 19 Jan 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/kafka/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -20,7 +20,7 @@
     <description>Strimzi provides a way to run an Apache Kafka cluster on Kubernetes in various deployment configurations.
 </description>
     <pubDate>Tue, 19 Jan 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>kubernetes</category><category>kafka</category>
   </item>
 
@@ -32,8 +32,56 @@
     <description>Strimzi provides a way to run an Apache Kafka cluster on Kubernetes in various deployment configurations.
 </description>
     <pubDate>Tue, 19 Jan 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>kubernetes</category><category>kafka</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-22-849</guid>
+    <title>Disaster recovery for multi-region Kafka at Uber | Uber Blog
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-22-849</link>
+    <description>Uber has one of the largest deployments of Apache Kafka in the world, processing trillions of messages and multiple petabytes of data per day. As Figure 1 shows, today we position Apache Kafka as a cornerstone to Uber’s technology stack and build a complex ecosystem on top of it to empower a large number of different workflows. These include a pub/sub message bus to pass event data from the rider and driver apps, enabling a streaming analytics platform (e.g. Apache Samza, Apache Flink), streaming database changelogs to the downstream subscribers, and ingesting all sorts of data into Uber’s Apache Hadoop data lake.
+</description>
+    <pubDate>Tue, 22 Dec 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kafka</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-12-11-848</guid>
+    <title>Apache Kafka: The Definitive Guide | Confluent
+</title>
+    <link>https://goto-share.github.io/blog/2020-12-11-848</link>
+    <description>Learn how to take full advantage of Apache Kafka, understand how Kafka works and how it’s designed with this comprehensive book.
+</description>
+    <pubDate>Fri, 11 Dec 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kafka</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-629</guid>
+    <title>Benchmarking Apache Kafka: 2 Million Writes Per Second
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-629</link>
+    <description>我忘了上下文是什么，我估计应该是这篇（官网上的文档）-《三台破机器扛2百万tps 》：https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kafka</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-659</guid>
+    <title>一篇关于kafka的论文
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-659</link>
+    <description>http://notes.stephenholiday.com/Kafka.pdf 一篇关于kafka的论文，大家感兴趣的可以看看
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kafka</category><category>pdf</category>
   </item>
 
     </channel>

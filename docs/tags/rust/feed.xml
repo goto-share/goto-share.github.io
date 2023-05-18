@@ -7,8 +7,8 @@
 为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
   </description>
       <language>en-us</language>
-      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
-      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
       <lastBuildDate>Sat, 11 Jun 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/rust/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -20,8 +20,128 @@
     <description>对学习一种日益广泛使用且越来越热门的新编程语言感兴趣吗？ 从此处开始！ 打下使用 Rust 构建快速、高效的程序所需的知识基础。
 </description>
     <pubDate>Sat, 11 Jun 2022 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>microsoft</category><category>rust</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-777</guid>
+    <title>关于Rust语言编程范式
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-777</link>
+    <description>上周六做了个关于Rust语言编程范式的直播，然后大家问了我很多编程语言的问题，我就即兴地写了一个PPT，事后我又精修了一下这个PPT，现在分享出来（免攻击声明：纯粹是我个人主观观点，欢迎喷观点，但不要对我进行人身攻击）
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>rust</category><category>haoel</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-834</guid>
+    <title>A native Rust robots.txt parser
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-834</link>
+    <description>A native Rust port of Google&#39;s robots.txt parser and matcher C++ library.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>rust</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-17-758</guid>
+    <title>Rust的编程范式
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-17-758</link>
+    <description>这篇文章主要对比C++探讨Rust的三大概念：所有权，生命周期和Trait ……另外，这篇文章太长了，不了解C++勿入，容易晕……
+</description>
+    <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>coolshell</category><category>rust</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-747</guid>
+    <title>Rust Lifetime Visualization Ideas
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-747</link>
+    <description>Rust Lifetime Visualization Ideas • The Adamant Programming Language Blog
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>rust</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-708</guid>
+    <title>半小时学rust
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-708</link>
+    <description>半小时学rust，大量的examples。半小时肯定不只，1小时差不多，对rust可以有个整体了解。
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>rust</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-573</guid>
+    <title>Why Discord is switching from Go to Rust
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-573</link>
+    <description>Rust is becoming a first class language in a variety of domains. At Discord, we’ve seen success with Rust on the client side and server…
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category><category>rust</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-513</guid>
+    <title>Rust Language Cheat Sheet
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-513</link>
+    <description>A single-page Rust resource for people who like high information density.
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>rust</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-430</guid>
+    <title>Translating Quake 3 into Rust
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-430</link>
+    <description>翻译可能是学习一门新语言比较好的方式，编程语言也一样……
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>rust</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-386</guid>
+    <title>推荐下这个rust写的bitwarden的方案
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-386</link>
+    <description>不知道群里有没有用1Password或者其他密码管理方案的，推荐下这个rust写的bitwarden的方案，自建 密码在自己手里+能免费解锁premium的功能，带的docker image支持各种架构，有吃灰服务器的扔上去跑一个还不错：https://github.com/dani-garcia/bitwarden_rs
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>rust</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-04-393</guid>
+    <title>Interesting articles about Rust
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-04-393</link>
+    <description>Interesting articles about Rust. Update irregularly. Maintained by @fanzeyi.  Twitter: https://twitter.com/RustReading Archive: https://reading.rs/  Profile picture by poorly drawn lines
+</description>
+    <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>rust</category>
   </item>
 
     </channel>

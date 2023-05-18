@@ -7,8 +7,8 @@
 为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
   </description>
       <language>en-us</language>
-      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
-      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
       <lastBuildDate>Fri, 07 Apr 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/architecture/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -20,7 +20,7 @@
     <description>两年前，我找视频制作公司花了半年做了个二十年来【软件架构的演进】的视频（ https://youtu.be/6X74pEJ58-E ），从单体架构到SOA，再到微服务，再到云原生架构。今天终于把这个视频做成了一个平台：MegaEase Cloud - 国内 http://cloud.megaease.cn  /  国外 http://cloud.megaease.com，欢迎试用和反馈！
 </description>
     <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>megaease</category><category>youtube</category><category>architecture</category>
   </item>
 
@@ -32,8 +32,68 @@
     <description>工作 20 年来看到了很多公司的很多的系统架构，相关的经历也越来越多，所以，逐渐形成了自己的逻辑和方法论。写下这篇文章，除了总结个人的经验和想法，供人参考和借鉴。同时，也是针对于现有市面上众多不合理的架构和方案，也作一种“纠正”
 </description>
     <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>coolshell</category><category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-802</guid>
+    <title>在阿里我们如何管理测试环境
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-802</link>
+    <description>阿里的许多实践看似简单，背后却蕴涵着许多思考，譬如测试环境的管理。互联网产品的服务通常是由Web应用、中间件、数据库和许多后台业务程序组成的，一套运行环境就是一个自成一体的小生态。
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-07-683</guid>
+    <title>强力推荐蔡学镛:《架构思维》 的专栏
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-07-683</link>
+    <description>关注了蔡学镛老师的微博、Twitter，他去年在 iThome 上开了关于《架构思维》 的专栏，强力推荐：https://www.ithome.com.tw/tags/%E6%9E%B6%E6%A7%8B%E6%80%9D%E7%B6%AD%EF%BD%9C%E8%94%A1%E5%AD%B8%E9%8F%9E 
+</description>
+    <pubDate>Sat, 07 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-552</guid>
+    <title>调度系统设计精要
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-552</link>
+    <description>全文 2 万字，深入调度器的设计原理，源码级分析 Linux、Go 和 Kubernetes 调度器的演变过程。
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>architecture</category><category>linux</category><category>golang</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-559</guid>
+    <title>The Twelve-Factor App
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-559</link>
+    <description>A methodology for building modern, scalable, maintainable software-as-a-service apps.
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-21-476</guid>
+    <title>高速大量業務的應用架構關鍵
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-21-476</link>
+    <description>微服務加上Event Sourcing儲存方式，有助實現「高速」的需求，再搭配記憶體計算、請求緩衝和當機接替，就可以打造出不怕爆量的應用架構
+</description>
+    <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>architecture</category>
   </item>
 
     </channel>

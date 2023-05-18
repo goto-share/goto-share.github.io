@@ -7,8 +7,8 @@
 为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
   </description>
       <language>en-us</language>
-      <managingEditor>dylanninin@gmail.com (@haoel)</managingEditor>
-      <webMaster>dylanninin@gmail.com (@haoel)</webMaster>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
       <lastBuildDate>Sat, 03 Jul 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/haoel/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -20,7 +20,7 @@
     <description>分布式锁管理
 </description>
     <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category><category>distributed</category><category>haoel</category>
   </item>
 
@@ -32,8 +32,44 @@
     <description>微服务是一把双刃剑，在让我们提升开发效率的同时，也会让运维难度加大，尤其是 Serverless，其微服务器的粒度更小，随着数量的增长，缺乏配套设施的架构会变得一发不可收拾，而治理和运维的难度也随之呈现级数性增长。本次分享主要讨论如何对 Serverless 进行更有效的服务治理。本文由MegaEase 创始人、腾讯云TVP 陈皓在 Techo TVP 开发者峰会 ServerlessDays China 2021上的演讲《Serverless 的服务治理》整理而成，向大家分享。
 </description>
     <pubDate>Tue, 29 Jun 2021 00:00:00 GMT</pubDate>
-    <author>dylanninin@gmail.com (@haoel)</author>
+    <author>程序员资源分享网站 (@haoel)</author>
     <category>weixin</category><category>serverless</category><category>haoel</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-777</guid>
+    <title>关于Rust语言编程范式
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-777</link>
+    <description>上周六做了个关于Rust语言编程范式的直播，然后大家问了我很多编程语言的问题，我就即兴地写了一个PPT，事后我又精修了一下这个PPT，现在分享出来（免攻击声明：纯粹是我个人主观观点，欢迎喷观点，但不要对我进行人身攻击）
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>rust</category><category>haoel</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-01-730</guid>
+    <title>技术人如何更好地把控发展趋势？
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-01-730</link>
+    <description>技术不断迭代，掌握一门其中一门技术就可以悠闲到老么？盲目搬砖就能以量变换取质变么？世界的快速发展，本质是什么？如何鉴别出有潜力的技术？如何突破自身学习和能力的瓶颈，更好做到自我管理？本文是左耳朵耗子老师在「云加社区沙龙online」的分享整理，详细阐述了技术人应如何面对焦虑，把控技术，更好适应未来技术发展的冲击。
+</description>
+    <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>haoel</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-14-587</guid>
+    <title>不要以记忆的方式学习
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-14-587</link>
+    <description>皓哥我多次看到您提到“不要以记忆的方式学习。也不要学在表面上。”，后半句我领会的就是要用理解，学一个技术点要能对这个技术产生的前因和后果，解决的啥问题，又可能挖了什么坑，还有与之相关技术的相关性，形成立体的对比和联系；前半句“不要以记忆的方式学习”，可能写代码太少，或是缺了什么知识点，我一直没get到重点，疑惑：那么多代码记是记不住，但是那么多种语言，某种语言没有每天写，有时候就忘记了。
+</description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>haoel</category>
   </item>
 
     </channel>
