@@ -1,0 +1,32 @@
+---
+title: |
+    Max Safe Integers
+date: 2020-03-07
+draft: false
+tags: [tips]
+summary: |
+    var p = {"xx_id": 9706059696214025} 这个数有什么特殊么
+---
+
+## Content
+
+`var p = {"xx_id": 9706059696214025}` 这个数有什么特殊么
+
+长整型精度问题。。。
+
+@anonymous
+> 2^53-1
+
+@haoel
+> Javascript的经典问题
+> 你试试：9007199254740993
+> Number.MAX_SAFE_INTEGER
+
+```javascript
+    > Number.MAX_SAFE_INTEGER + 1 === Number.MAX_SAFE_INTEGER + 2
+    true
+    > Number.isSafeInteger(9706059696214025)
+    false
+```
+
+> 大数还是用BigInt

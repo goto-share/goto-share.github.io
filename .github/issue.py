@@ -15,15 +15,14 @@ repo = gh.get_repo(os.environ.get('GH_REPO'))
 
 
 def export_issues():
-    issues = repo.get_issues(state='open')
+    # TODO: 仅处理刚刚关闭的 issue，而非所有 issue
+    issues = repo.get_issues(state='closed')
     counter = 0
     for issue in issues:
         date = issue.created_at.strftime(FMT_DATE)
         if date < POST_FILTER_DATE:
             break
-        if '2020-' not in issue.title:
-            break
-        tags = [i.name for i in issue.labels]
+        tags = {i.name for i in issue.labels}
         if POST_FILTER_LABEL not in tags:
             print(f'skip issue-{issue.number}: {issue.title}')
             remove_issue(issue.number)
@@ -65,4 +64,5 @@ def export_issue(number):
 
 
 if __name__ == '__main__':
-    export_issues()
+    # export_issues()
+    pass
