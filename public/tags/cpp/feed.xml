@@ -84,5 +84,53 @@
     <category>cpp</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-189</guid>
+    <title>libcds: A C++ library of Concurrent Data Structures
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-189</link>
+    <description>A C++ library of Concurrent Data Structures. Contribute to khizmax/libcds development by creating an account on GitHub.
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>cpp</category><category>ds</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-173</guid>
+    <title>为什么下面程序递归计算斐波那契数列java比c++要快
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-173</link>
+    <description>前面已有的回答一个都没答到点上啊。（就跟其他答主提到的一样，题主的电脑似乎有点慢…）其实这个例子反映出来的跟Java与C++语言上的差异没有任何关系，只是反映出了在这个特定例子上某个编译器（及JIT编译器）的优化的差异。本文后面用到的编译器生成的代码的样子我都记录下来放在这个传送门了
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category><category>cpp</category><category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-112</guid>
+    <title>https://fuchsia.googlesource.com/fuchsia/+/HEAD/zircon/system/ulib/fit
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-112</link>
+    <description>https://fuchsia.googlesource.com/fuchsia/+/HEAD/zircon/system/ulib/fit
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-37</guid>
+    <title>CppCon 2019: Chandler Carruth “There Are No Zero-cost Abstractions”
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-37</link>
+    <description>http://CppCon.org — Discussion &amp; Comments: https://www.reddit.com/r/cpp/ — Presentation Slides, PDFs, Source Code and other presenter materials are available at: https://github.com/CppCon/CppCon2019
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>cpp</category>
+  </item>
+
     </channel>
   </rss>

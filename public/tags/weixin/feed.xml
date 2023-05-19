@@ -228,5 +228,41 @@
     <category>weixin</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-185</guid>
+    <title>干货！大话EXT4文件系统完整版
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-185</link>
+    <description>转发： https://mp.weixin.qq.com/s/HRqDt8j84ZkjhtpF-QpAyw 干货！大话EXT4文件系统完整版
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-117</guid>
+    <title>史上最全！计算机科学领域顶会最佳论文大合集
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-117</link>
+    <description>涵盖人工智能、自然语言处理、人机交互、计算机视觉、软件工程、机器学习、数据挖掘、操作系统等方向。
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>paper</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-126</guid>
+    <title>什么样的人会被谣言操纵？也许是每个人
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-126</link>
+    <description>也许最常见的误解是虚假信息仅仅是简单的错误信息。如果真是如此的话，平台可以简单地给信息添加“真”和“假”标签，这是一种经常被提出来的策略。但虚假信息往往将真实信息与虚假信息层层叠加在一起——一个准确的事实被放在了一个误导人的语境下，一张真实的照片故意被贴错了标签。关键不是要确定一个特定的帖子或推特的真实性，而是要了解它是如何被放置在一个更大型的虚假信息传播活动之中的。
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category>
+  </item>
+
     </channel>
   </rss>

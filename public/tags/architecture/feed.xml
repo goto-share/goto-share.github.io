@@ -96,5 +96,53 @@
     <category>architecture</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-370</guid>
+    <title>The Software Architecture Chronicles
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-370</link>
+    <description>This post is the first of a series of posts about Software Architecture. In them, I write about what I&#39;ve learned on Software Architecture, how I think of it, and how I use that knowledge.
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-187</guid>
+    <title>How to Learn Software Design and Architecture
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-187</link>
+    <description>Software Design and Architecture is pretty much its own field of study within the realm of computing, like DevOps or UX Design. Here&#39;s a map describing the breadth of software design and architecture, from clean code to microkernels.
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category><category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-167</guid>
+    <title>how discord stores billions of messages
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-167</link>
+    <description>COLLECTIONProduct &amp;amp; FeaturesAnnouncements, new features, and general info about the Discord app.View CollectionCOLLECTIONCommunityStories, spotlights, and behind the scenes from the heart and soul of...
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-168</guid>
+    <title>软件架构编年史
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-168</link>
+    <description>软件架构编年史
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>architecture</category><category>guide</category>
+  </item>
+
     </channel>
   </rss>

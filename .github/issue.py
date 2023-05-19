@@ -16,7 +16,7 @@ repo = gh.get_repo(os.environ.get('GH_REPO'))
 
 def export_issues():
     # TODO: 仅处理刚刚关闭的 issue，而非所有 issue
-    issues = repo.get_issues(state='closed')
+    issues = repo.get_issues(state='open')
     counter = 0
     for issue in issues:
         date = issue.created_at.strftime(FMT_DATE)
@@ -49,6 +49,9 @@ def export_issue(number):
     path = f'{POST_DEST}/{issue.title}.mdx'
     parts = [issue.body] + [i.body for i in issue.get_comments()]
     content = POST_DELIMITER.join(parts)
+    if not content.startswith('---'):
+        content = '---\n' + content
+
     with open(path, 'w') as f:
         f.write(content)
 
@@ -64,5 +67,5 @@ def export_issue(number):
 
 
 if __name__ == '__main__':
-    # export_issues()
-    pass
+    export_issues()
+    # pass

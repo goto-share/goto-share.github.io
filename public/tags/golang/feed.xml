@@ -444,5 +444,113 @@
     <category>twitter</category><category>golang</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-206</guid>
+    <title>Go: Work-Stealing in Go Scheduler
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-206</link>
+    <description>This article is based on Go 1.13.
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-208</guid>
+    <title>Going Serverless with OpenFaaS and Golang - The Ultimate Setup and Workflow
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-208</link>
+    <description>Serverless applications have been cool and hype for a while now and some interesting and useful platforms/tools/frameworks are emerging now....
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category><category>serverless</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-133</guid>
+    <title>https://golang.cafe/ 给准备肉翻的你们来点动力
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-133</link>
+    <description>https://golang.cafe/ 给准备肉翻的你们来点动力
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-21</guid>
+    <title>Using Go instead of bash for scripts
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-21</link>
+    <description>Using-Go-instead-of-bash-for-scripts https://presstige.io/p/Using-Go-instead-of-bash-for-scripts-6b51885c1f6940aeb40476000d0eb0fc
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-22</guid>
+    <title>no new variables on left side of `:=`
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-22</link>
+    <description>What&#39;s happening here?   package main  import &quot;fmt&quot;  func main() {      myArray  :=[...]int{12,14,26}  ;          fmt.Println(myArray)      myArray  :=[...]int{11,12,14} //error pointing on this li...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-23</guid>
+    <title>Go compiler internals: adding a new statement to Go - Part 1
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-23</link>
+    <description>Go compiler internals: adding a new statement to Go - Part 1 - Eli Bendersky&#39;s website
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-24</guid>
+    <title>Go compiler internals: adding a new statement to Go - Part 2
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-24</link>
+    <description>Go compiler internals: adding a new statement to Go - Part 2 - Eli Bendersky&#39;s website
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-27</guid>
+    <title>The Uber Go Style Guide
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-27</link>
+    <description>Uber Go Style Guide  Introduction Guidelines  Pointers to Interfaces Verify Interface Compliance Receivers and Interfaces Zero-value Mutexes are Valid Copy Slices and Maps at Boundaries Defer to Clean Up...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-30</guid>
+    <title>Go: Understand the Design of Sync.Pool
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-30</link>
+    <description>Illustration created for “A Journey With Go”, made from the original Go Gopher, created by Renee French.ℹ️ This article is based on Go 1.12 and 1.13 and explains the evolution of sync/pool.go between those...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>golang</category>
+  </item>
+
     </channel>
   </rss>

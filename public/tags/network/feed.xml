@@ -191,5 +191,17 @@
     <category>http</category><category>network</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-163</guid>
+    <title>对了 tcp/ip 详解的原版是不是也应该贴一份？
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-163</link>
+    <description>对了 tcp/ip 详解的原版是不是也应该贴一份？
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>network</category><category>tcp</category>
+  </item>
+
     </channel>
   </rss>

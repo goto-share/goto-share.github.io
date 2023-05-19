@@ -204,5 +204,65 @@
     <category>linux</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-202</guid>
+    <title>My learnings on Linux BPF container performance engineering
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-202</link>
+    <description>Starting with DockerOver the past few years I’ve worked a lot with container workloads. It all starts with a need to run containers whether its a batch job, a microservice or some scripts. Learning about...
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>linux</category><category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-185</guid>
+    <title>干货！大话EXT4文件系统完整版
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-185</link>
+    <description>转发： https://mp.weixin.qq.com/s/HRqDt8j84ZkjhtpF-QpAyw 干货！大话EXT4文件系统完整版
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-175</guid>
+    <title>RTFM https://www.kernel.org/doc/
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-175</link>
+    <description>RTFM https://www.kernel.org/doc/
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-13</guid>
+    <title>【入门级文章】 - htop explained
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-13</link>
+    <description>【入门级文章】这篇htop文章读完，你就知道怎么看linux系统的运行状况了
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-14</guid>
+    <title>【入门级文章】 - pure bible
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-14</link>
+    <description>【入门级文章】 关于POSIX的sh 和 Liunx的bash 的 pure bible
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category>
+  </item>
+
     </channel>
   </rss>

@@ -36,5 +36,41 @@
     <category>youtube</category><category>serverless</category><category>webassembly</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-208</guid>
+    <title>Going Serverless with OpenFaaS and Golang - The Ultimate Setup and Workflow
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-208</link>
+    <description>Serverless applications have been cool and hype for a while now and some interesting and useful platforms/tools/frameworks are emerging now....
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category><category>serverless</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-197</guid>
+    <title>看到一篇介绍 serverless 架构的文章，觉得写得比较客观，分享一下
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-197</link>
+    <description>看到一篇介绍 serverless 架构的文章，觉得写得比较客观，分享一下
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>serverless</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-198</guid>
+    <title>Cloud Programming Simplified: A Berkeley View on Serverless Computing - RISE Lab
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-198</link>
+    <description>David Patterson and Ion Stoica The publication of “Above the Clouds: A Berkeley View of Cloud Computing” on February 10, 2009 cleared up the considerable confusion about the new notion of “Cloud Computing.” The paper defined what Cloud Computing was, where it came from, why some were excited by it, what were its technical advantages, and what were the obstacles and research opportunities for it to become even more popular.  More than 17,000 citations to this paper and an abridged version in CACM—with more than 1000 in the past year—document that it continues to shape the discussions and the evolution of Cloud Computing. “Cloud Programming Simplified: A Berkeley View on Serverless Computing” with some of the same authors commemorates the…
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>serverless</category>
+  </item>
+
     </channel>
   </rss>

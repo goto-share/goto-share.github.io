@@ -96,5 +96,29 @@
     <category>ui</category><category>android</category><category>ios</category><category>linux</category><category>windows</category><category>mac</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-207</guid>
+    <title>An A-Z Index of the Apple macOS command line (macOS bash)
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-207</link>
+    <description>An A-Z Index of the Apple macOS command line (macOS bash)
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mac</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-123</guid>
+    <title>给大家推荐一个 macOS 图床客户端 app 
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-123</link>
+    <description>给大家推荐一个 macOS 图床客户端 app 
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>mac</category><category>app</category>
+  </item>
+
     </channel>
   </rss>

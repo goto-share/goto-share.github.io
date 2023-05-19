@@ -60,5 +60,28 @@
     <category>ds</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-188</guid>
+    <title>Implementing Lock Free Queues
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-188</link>
+    
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>algorithm</category><category>ds</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-189</guid>
+    <title>libcds: A C++ library of Concurrent Data Structures
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-189</link>
+    <description>A C++ library of Concurrent Data Structures. Contribute to khizmax/libcds development by creating an account on GitHub.
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>cpp</category><category>ds</category>
+  </item>
+
     </channel>
   </rss>

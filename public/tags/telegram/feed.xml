@@ -168,5 +168,65 @@
     <category>telegram</category><category>rust</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-203</guid>
+    <title>分享一个资源收集频道
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-203</link>
+    <description>分享一个资源收集频道 “程序、设计、工具资源收集 - Collections of materials to review with or just some cool websites.”
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-128</guid>
+    <title>写了一个 telegram bot 模板
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-128</link>
+    <description>写了一个 telegram bot 模板，可以简单配置运行一个bot，可以图灵api集成： https://github.com/0RaymondJiang0/tonycat
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-76</guid>
+    <title>Check out NodeRSSBot
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-76</link>
+    <description>Check out NodeRSSBot: https://t.me/NodeRSS_bot
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-52</guid>
+    <title>English Language Advanced
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-52</link>
+    <description>English Language Advanced
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-4</guid>
+    <title>程序员技术资源分享聊天群
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-4</link>
+    <description>程序员技术资源分享聊天群： 
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category>
+  </item>
+
     </channel>
   </rss>

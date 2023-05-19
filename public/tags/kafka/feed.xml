@@ -84,5 +84,17 @@
     <category>kafka</category><category>pdf</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-26</guid>
+    <title>How LinkedIn customizes Apache Kafka for 7 trillion messages per day
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-26</link>
+    <description>October 8, 2019     Co-authors: Jon Lee and Wesley Wu Apache Kafka is a core part of our infrastructure at LinkedIn. It was originally developed in-house as a stream processing platform and was subsequently...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kafka</category>
+  </item>
+
     </channel>
   </rss>

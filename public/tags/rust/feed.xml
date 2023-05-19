@@ -144,5 +144,29 @@
     <category>telegram</category><category>rust</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-28</guid>
+    <title>Writing an HTTP server in Rust (Part I)
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-28</link>
+    <description>Now available in Chinese (yes, you read that right)So… You want to write an HTTP server. Well, you’re in luck, The Internet Engineering Task Force (IETF) is here to help us. Whenever they’re not fighting with...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>rust</category><category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-3</guid>
+    <title>用Rust的可以看一下这个
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-3</link>
+    <description>用Rust的可以看一下这个
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>rust</category>
+  </item>
+
     </channel>
   </rss>

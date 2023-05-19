@@ -180,5 +180,77 @@
     <category>mooc</category><category>distributed</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-119</guid>
+    <title>Designing Distributed Systems
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-119</link>
+    <description>Distributed systems enable different areas of a business to build specific applications to support their needs and drive insight and innovation. While great for the business, this new normal can re...
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-129</guid>
+    <title>微软出的免费书: Designing Distributed Systems
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-129</link>
+    <description>微软出的免费书: Designing Distributed Systems
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-98</guid>
+    <title>Distributed systems for fun and profit
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-98</link>
+    <description>Distributed systems for fun and profit
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-86</guid>
+    <title>PingCAP 博客
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-86</link>
+    <description>产品技术解读TiKV 新架构：Partitioned Raft KV 原理解析在上一篇文章中，我们介绍了 Partitioned Raft KV 这一新实验特性带来的性能和可伸缩性大幅提升。本文我们将为大家介绍这一功能的实现原理。案例实践基于 TiDB + Flink...
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-25-57</guid>
+    <title>这可能是最全的redis分布式锁介绍
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-25-57</link>
+    <description>最近几天整理的一篇博客，介绍了分布式锁的实现和DDIA作者和Redis作者对于Reids
+</description>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>distributed</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-54</guid>
+    <title>k8s co-founder Brendan Burns 的经典书籍——Design Distributed System
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-54</link>
+    <description>k8s co-founder Brendan Burns 的经典书籍——Design Distributed System
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>distributed</category><category>pdf</category>
+  </item>
+
     </channel>
   </rss>

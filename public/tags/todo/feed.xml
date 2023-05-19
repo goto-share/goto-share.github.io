@@ -1,0 +1,88 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Sun, 24 Nov 2019 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/todo/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-43</guid>
+    <title>如何堵住喷子的嘴
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-43</link>
+    <description>如何堵住喷子的嘴
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>todo</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-17</guid>
+    <title>5G NR_The Next Generation Wireless Access Technology
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-17</link>
+    <description>对 5G 技术感兴趣且有一定通信知识基础的可以看看这本书哦。
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>todo</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-10</guid>
+    <title>抽象：设计的艺术 S01E02 1080P 官方中字
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-10</link>
+    <description>抽象：设计的艺术 S01E02 1080P 官方中字
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>todo</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-11</guid>
+    <title>抽象：设计的艺术 S01E04 1080P 官方中字
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-11</link>
+    <description>抽象：设计的艺术 S01E04 1080P 官方中字
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>todo</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-12</guid>
+    <title>抽象：设计的艺术 S01E03 1080P 官方中字
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-12</link>
+    <description>抽象：设计的艺术 S01E03 1080P 官方中字
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>todo</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-8</guid>
+    <title>抽象：设计的艺术 S01E01 1080P 官方中字
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-8</link>
+    <description>抽象：设计的艺术 第一季 Abstract: The Art of Design S01
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>todo</category>
+  </item>
+
+    </channel>
+  </rss>

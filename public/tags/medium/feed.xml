@@ -156,5 +156,125 @@
     <category>medium</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-202</guid>
+    <title>My learnings on Linux BPF container performance engineering
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-202</link>
+    <description>Starting with DockerOver the past few years I’ve worked a lot with container workloads. It all starts with a need to run containers whether its a batch job, a microservice or some scripts. Learning about...
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>linux</category><category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-206</guid>
+    <title>Go: Work-Stealing in Go Scheduler
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-206</link>
+    <description>This article is based on Go 1.13.
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-192</guid>
+    <title>disable medium paywall and make it be quiet
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-192</link>
+    <description>Actions Automate any workflow      Packages Host and manage packages      Security Find and fix vulnerabilities      Codespaces Instant dev environments      Copilot Write better code with AI      Code review...
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>medium</category><category>tool</category><category>chrome</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-196</guid>
+    <title>The Top 10 Most Common Mistakes I’ve Seen in Go Projects
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-196</link>
+    <description>This post is my top list of the most common mistakes I’ve seen in Go projects.
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-164</guid>
+    <title>我读了两篇
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-164</link>
+    <description>我读了两篇 一篇是netflix的 https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39 一篇如下：（从stackoverflow拷来的代码是有问题的） https://programming.guide/worlds-most-copied-so-snippet.html
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>stackoverflow</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-174</guid>
+    <title>Best 12 tools to create amazing screenshots for your mobile apps (2018)
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-174</link>
+    <description>Save time and increase your apps conversion rate
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-85</guid>
+    <title>Netflix的技术博客
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-85</link>
+    <description>Read writing from Netflix Technology Blog on Medium. Learn more about how Netflix designs, builds, and operates our systems and engineering organizations.
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-73</guid>
+    <title>一组与Database存储相关的文章
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-73</link>
+    <description>一组与Database存储相关的文章
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-30</guid>
+    <title>Go: Understand the Design of Sync.Pool
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-30</link>
+    <description>Illustration created for “A Journey With Go”, made from the original Go Gopher, created by Renee French.ℹ️ This article is based on Go 1.12 and 1.13 and explains the evolution of sync/pool.go between those...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-31</guid>
+    <title>How Netflix microservices tackle dataset pub-sub
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-31</link>
+    <description>How Netflix microservices tackle dataset pub-sub
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>microservices</category>
+  </item>
+
     </channel>
   </rss>

@@ -108,5 +108,41 @@
     <category>javascript</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-130</guid>
+    <title>The Modern JavaScript Tutorial
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-130</link>
+    <description>Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-70</guid>
+    <title>《重构》JavaScript 实践
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-70</link>
+    <description>《重构》JavaScript 实践
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-42</guid>
+    <title>The Coding Dojo Handbook
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-42</link>
+    <description>开始练习kata，emily 是个敏捷教练，提供了不少经典习题可以做，推荐出来~ 配套书是：The Coding Dojo Handbook，也是她写的
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>javascript</category><category>ebook</category>
+  </item>
+
     </channel>
   </rss>

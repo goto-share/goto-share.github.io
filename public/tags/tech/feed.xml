@@ -60,5 +60,77 @@
     <category>tech</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-114</guid>
+    <title>Refactoring and Design Patterns
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-114</link>
+    <description>Refactoring is a controllable process of improving code without creating new functionality. Design Patterns are typical solutions to the commonly occurring problems in software design.
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-97</guid>
+    <title>编程珠玑番外篇-O 中间语言和虚拟机漫谈
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-97</link>
+    <description>编程珠玑番外篇-O 中间语言和虚拟机漫谈
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-80</guid>
+    <title>The best tech talks for developers
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-80</link>
+    <description>The best tech talks for developers
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category><category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-87</guid>
+    <title>A Brief History of Scaling LinkedIn
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-87</link>
+    <description>LinkedIn started in 2003 with the goal of connecting to your network for better job opportunities. It had only 2,700 members the first week. Fast forward many years, and LinkedIn’s product portfolio, member base, and server load has grown tremendously. Today, LinkedIn operates globally with more tha
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-29</guid>
+    <title>11 Of The Best Engineering Blogs To Inspire You
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-29</link>
+    <description>Have you ever wanted to read about what goes on in the backend of Pinterest, Google, Uber and your other favorite tech companies?  A great thing about the modern engineering world is that many companies are...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-6</guid>
+    <title>关于CPU的Cache 可以读读这篇文章
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-6</link>
+    <description>关于CPU的Cache 可以读读这篇文章，文章中的一些链接也不错
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
     </channel>
   </rss>

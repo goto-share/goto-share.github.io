@@ -60,5 +60,53 @@
     <category>guide</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-187</guid>
+    <title>How to Learn Software Design and Architecture
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-187</link>
+    <description>Software Design and Architecture is pretty much its own field of study within the realm of computing, like DevOps or UX Design. Here&#39;s a map describing the breadth of software design and architecture, from clean code to microkernels.
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category><category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-168</guid>
+    <title>软件架构编年史
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-168</link>
+    <description>软件架构编年史
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>architecture</category><category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-158</guid>
+    <title>版本管理工具历史
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-158</link>
+    <description>版本管理工具历史
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-77</guid>
+    <title>gnu parallel tutorial
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-77</link>
+    <description>最近用eci跑workflow，重新学习了下 gnu parallel，发现官方的tutorial写的实在太好了，分享下
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
     </channel>
   </rss>

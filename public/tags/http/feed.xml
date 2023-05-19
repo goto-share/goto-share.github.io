@@ -84,5 +84,29 @@
     <category>perf</category><category>web</category><category>http</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-89</guid>
+    <title>分页设计最佳实践
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-89</link>
+    <description>https://developer.github.com/v3/#pagination  github 的分页设计用到了 hypermedia 
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-28</guid>
+    <title>Writing an HTTP server in Rust (Part I)
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-28</link>
+    <description>Now available in Chinese (yes, you read that right)So… You want to write an HTTP server. Well, you’re in luck, The Internet Engineering Task Force (IETF) is here to help us. Whenever they’re not fighting with...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>rust</category><category>http</category>
+  </item>
+
     </channel>
   </rss>

@@ -48,5 +48,17 @@
     <category>github</category><category>aws</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-184</guid>
+    <title>AWS’ CodeGuru uses machine learning to automate code reviews
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-184</link>
+    <description>AWS today announced CodeGuru, a new machine learning-based service that automates code reviews based on the data the company has gathered from doing code reviews internally. Developers write the code and simply add CodeGuru to the pull requests. It supports GitHub and CodeCommit, for the time being. CodeGuru uses its knowledge of reviews from Amazon […]
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>aws</category><category>tool</category>
+  </item>
+
     </channel>
   </rss>

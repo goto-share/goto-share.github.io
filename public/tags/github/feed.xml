@@ -1018,5 +1018,233 @@
     <category>github</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-200</guid>
+    <title>Firecracker
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-200</link>
+    <description>Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services.
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-190</guid>
+    <title>分享一个我的关于健身的repo
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-190</link>
+    <description>分享一个我的关于健身的repo，今天更新了饮食有关的内容，不过大部分内容都是引用youtube视频中的观点。
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>health</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-192</guid>
+    <title>disable medium paywall and make it be quiet
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-192</link>
+    <description>Actions Automate any workflow      Packages Host and manage packages      Security Find and fix vulnerabilities      Codespaces Instant dev environments      Copilot Write better code with AI      Code review...
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>medium</category><category>tool</category><category>chrome</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-189</guid>
+    <title>libcds: A C++ library of Concurrent Data Structures
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-189</link>
+    <description>A C++ library of Concurrent Data Structures. Contribute to khizmax/libcds development by creating an account on GitHub.
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>cpp</category><category>ds</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-171</guid>
+    <title>插入一下分享个资源，技术面试手册
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-171</link>
+    <description>插入一下分享个资源，技术面试手册：https://yangshun.github.io/tech-interview-handbook/introduction
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>growth</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-182</guid>
+    <title>一套完整的学习手册帮助自己准备 Google 的面试
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-182</link>
+    <description>[译] Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试 https://github.com/xitu/google-interview-university/blob/zh-hans/translations/README-cn.md
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>google</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-145</guid>
+    <title>Git merge 
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-145</link>
+    <description>Git merge 
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-121</guid>
+    <title>ChinaIPWhiteListPac: PAC script of China main land IP list
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-121</link>
+    <description>PAC script of China main land IP list. Contribute to sodapanda/ChinaIPWhiteListPac development by creating an account on GitHub.
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-123</guid>
+    <title>给大家推荐一个 macOS 图床客户端 app 
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-123</link>
+    <description>给大家推荐一个 macOS 图床客户端 app 
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>mac</category><category>app</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-128</guid>
+    <title>写了一个 telegram bot 模板
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-128</link>
+    <description>写了一个 telegram bot 模板，可以简单配置运行一个bot，可以图灵api集成： https://github.com/0RaymondJiang0/tonycat
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-101</guid>
+    <title>gitbatch Managing multiple git repositories is easier than ever.
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-101</link>
+    <description>https://github.com/isacikgoz/gitbatch Managing multiple git repositories is easier than ever.
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-89</guid>
+    <title>分页设计最佳实践
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-89</link>
+    <description>https://developer.github.com/v3/#pagination  github 的分页设计用到了 hypermedia 
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-70</guid>
+    <title>《重构》JavaScript 实践
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-70</link>
+    <description>《重构》JavaScript 实践
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-61</guid>
+    <title>这篇K8s网丢包调查的文章真是篇Debug雄文，相当厉害
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-61</link>
+    <description>这篇K8s网丢包调查的文章真是篇Debug雄文，相当厉害，推荐给大家，这篇文章有很多高级技术，我在这里导读一下（从这篇文章你会收获如下的东西）
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-64</guid>
+    <title>「Java学习+面试指南」
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-64</link>
+    <description>「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ - GitHub - Snailclimb/JavaGuide: 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-41</guid>
+    <title>https://github.com/emilybache/GildedRose-Refactoring-Kata
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-41</link>
+    <description>https://github.com/emilybache/GildedRose-Refactoring-Kata
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-49</guid>
+    <title>非常不错的视频技术教程
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-49</link>
+    <description>非常不错的视频技术教程
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-19</guid>
+    <title>All Algorithms implemented in Python
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-19</link>
+    <description>All algorithms implemented in Python - for education  Implementations are for learning purposes only. They may be less efficient than the implementations in the...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-27</guid>
+    <title>The Uber Go Style Guide
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-27</link>
+    <description>Uber Go Style Guide  Introduction Guidelines  Pointers to Interfaces Verify Interface Compliance Receivers and Interfaces Zero-value Mutexes are Valid Copy Slices and Maps at Boundaries Defer to Clean Up...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
     </channel>
   </rss>

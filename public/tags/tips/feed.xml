@@ -288,5 +288,137 @@
     <category>tips</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-196</guid>
+    <title>The Top 10 Most Common Mistakes I’ve Seen in Go Projects
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-196</link>
+    <description>This post is my top list of the most common mistakes I’ve seen in Go projects.
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-159</guid>
+    <title>Resumes &amp; cover letters design templates | Microsoft Create
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-159</link>
+    <description>Display your best qualities with professional, customizable resumes and cover letters. No matter your line of work, you&#39;ll find resume and cover letter templates that&#39;ll help you land the job.
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-169</guid>
+    <title>麦肯锡不外流的简报格式与说明技巧
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-169</link>
+    <description>麦肯锡不外流的简报格式与说明技巧
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-171</guid>
+    <title>插入一下分享个资源，技术面试手册
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-171</link>
+    <description>插入一下分享个资源，技术面试手册：https://yangshun.github.io/tech-interview-handbook/introduction
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>growth</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-182</guid>
+    <title>一套完整的学习手册帮助自己准备 Google 的面试
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-182</link>
+    <description>[译] Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试 https://github.com/xitu/google-interview-university/blob/zh-hans/translations/README-cn.md
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>google</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-183</guid>
+    <title>每个程序员都应该知道的延迟数据
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-183</link>
+    <description>https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html 每个程序员都应该知道的延迟数据，硬盘的一次访问现在只需要3ms了，此外网络的速度也越来越快
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-135</guid>
+    <title>我来泄露一下：Google评分卡
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-135</link>
+    <description>我来泄露一下：Google评分卡
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-141</guid>
+    <title>想起了一篇文章，叫做 Why Worse Is Better
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-141</link>
+    <description>想起了一篇文章，叫做 Why Worse Is Better
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-156</guid>
+    <title>有一个chrome应用叫stumble upon
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-156</link>
+    <description>1. 有一个chrome应用叫stumble upon，装上以后，它会给你随机选择一些高质量网站，可能是你从来没有见过的东西。 2. 你可以把维基百科（Wikipedia）设成自己的默认页，并且选择“随机浏览”模式（random wiki），这样每次打开浏览器就可以随机弹出一个wiki页面。 3. 你可以去wolfram alpha上面点“给我惊喜”（surprise me），它会弹出一些有趣的知识。 4. 你可以装一个应用叫“一亿本书”（100 million books，在Chrome里面安装），它会随机推荐一些书，直接链接到亚马逊书店，你可以看评论，非常有趣。
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-99</guid>
+    <title>高校生使用教育网的一点姿势
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-99</link>
+    <description>高校生使用教育网的一点姿势
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-94</guid>
+    <title>Job negotiation for programmers: the basic principles
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-94</link>
+    <description>You need to negotiate at a new job: for your salary, or benefits, or my personal favorite, a shorter workweek. You’re not sure what to do, or how to approach it, or what to say when the company says “how much do you want?” or “here’s our offer—what do you say?” Here’s the thing: that final conversation about salary might be the most nerve-wracking part, but the negotiation process starts much much earlier. Which means you can enter that final conversation having positioned yourself for success—and feeling less stressed about it too. The way you can do that is following certain basic principles, which I’ll be covering in this article. I’m going to be focusing on salary negotiation as an example, but the same principles will apply when negotiating for a shorter workweek. In particular, I’ll be talking about: An example from early in my career when I negotiated very very badly. The right way to negotiate, based on four principles: Employment is a negotiated relationship. Knowledge is power. Negotiate from a position of strength. Use the right tactics.
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>growth</category><category>tips</category>
+  </item>
+
     </channel>
   </rss>

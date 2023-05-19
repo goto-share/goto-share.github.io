@@ -168,5 +168,53 @@
     <category>python</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-140</guid>
+    <title>Why Reddit switched to Python (2005)
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-140</link>
+    <description>Why Reddit switched to Python (2005) | Hacker News
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-110</guid>
+    <title>上一个Python的 https://realpython.com/
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-110</link>
+    <description>上一个Python的 https://realpython.com/
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-25-58</guid>
+    <title>Async IO in Python: A Complete Walkthrough – Real Python
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-25-58</link>
+    <description>This tutorial will give you a firm grasp of Python’s approach to async IO, which is a concurrent programming design that has received dedicated support in Python, evolving rapidly from Python 3.4 through 3.7 (and probably beyond).
+</description>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-19</guid>
+    <title>All Algorithms implemented in Python
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-19</link>
+    <description>All algorithms implemented in Python - for education  Implementations are for learning purposes only. They may be less efficient than the implementations in the...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>python</category>
+  </item>
+
     </channel>
   </rss>

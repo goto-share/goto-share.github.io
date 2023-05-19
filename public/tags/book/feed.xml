@@ -180,5 +180,77 @@
     <category>book</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-161</guid>
+    <title>莫枢大神发的书
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-161</link>
+    <description>莫枢大神发的书
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-148</guid>
+    <title>Google SRE 新书预览
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-148</link>
+    <description>Google SRE 新书预览
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-106</guid>
+    <title>线性代数，推荐任广千的《线性代数的几何意义》
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-106</link>
+    <description>线性代数，推荐任广千的《线性代数的几何意义》，让你明白矩阵乘法为什么那样计算，本质是什么。什么是矩阵分解，更深入理解线性代数。
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-98</guid>
+    <title>Distributed systems for fun and profit
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-98</link>
+    <description>Distributed systems for fun and profit
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-65</guid>
+    <title>这篇文章里提到的书都是很不错的，可以看看
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-65</link>
+    <description>这篇文章里提到的书都是很不错的，可以看看
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-74</guid>
+    <title>database internals
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-74</link>
+    <description>推荐一本书 《database internals》数据库内部剖析，这本书和《Designing Data-Intensive Application》 比较类似，不过它围绕的是如果构建一个分布式数据库，各种存储引擎比较，分布式系统的问题、一致性模型、选举和错误识别、如果选择共识算法。作者是Cassandra的作者
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>book</category>
+  </item>
+
     </channel>
   </rss>
