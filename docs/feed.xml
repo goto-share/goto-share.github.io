@@ -45,7 +45,7 @@
 </description>
     <pubDate>Thu, 27 Apr 2023 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>twitter</category><category>chatgpt</category>
+    <category>twitter</category><category>ai</category>
   </item>
 
   <item>
@@ -93,7 +93,7 @@
 </description>
     <pubDate>Sun, 12 Feb 2023 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>coolshell</category><category>chatgpt</category>
+    <category>coolshell</category><category>ai</category>
   </item>
 
   <item>
@@ -201,7 +201,7 @@
 </description>
     <pubDate>Sat, 11 Jun 2022 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>microsoft</category><category>rust</category>
+    <category>rust</category>
   </item>
 
   <item>
@@ -237,7 +237,7 @@
 </description>
     <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>github</category><category>bigdata</category>
+    <category>github</category><category>database</category>
   </item>
 
   <item>
@@ -285,7 +285,7 @@
 </description>
     <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>medium</category><category>memory</category><category>golang</category>
+    <category>medium</category><category>golang</category>
   </item>
 
   <item>
@@ -573,7 +573,7 @@
 </description>
     <pubDate>Mon, 08 Mar 2021 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>martinfowler</category><category>distributed</category>
+    <category>distributed</category>
   </item>
 
   <item>
@@ -585,7 +585,7 @@
 </description>
     <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>youtube</category><category>ssd</category>
+    <category>youtube</category>
   </item>
 
   <item>
@@ -597,7 +597,7 @@
 </description>
     <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>ssd</category>
+    <category>guide</category>
   </item>
 
   <item>
@@ -933,7 +933,7 @@
 </description>
     <pubDate>Wed, 18 Nov 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>apple</category><category>memory</category>
+    <category>mac</category><category>misc</category>
   </item>
 
   <item>
@@ -969,7 +969,7 @@
 </description>
     <pubDate>Wed, 28 Oct 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>martinfowler</category><category>distributed</category>
+    <category>distributed</category>
   </item>
 
   <item>
@@ -1099,7 +1099,7 @@
 </description>
     <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>patterns</category>
+    <category>tool</category>
   </item>
 
   <item>
@@ -1111,7 +1111,7 @@
 </description>
     <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>patterns</category>
+    <category>guide</category>
   </item>
 
   <item>
@@ -1195,7 +1195,7 @@
 </description>
     <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>media</category>
+    <category>algorithm</category>
   </item>
 
   <item>
@@ -1387,7 +1387,7 @@
 </description>
     <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>apple</category><category>swift</category>
+    <category>app</category><category>swift</category>
   </item>
 
   <item>
@@ -1891,7 +1891,7 @@
 </description>
     <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>microsoft</category>
+    <category>windows</category><category>linux</category>
   </item>
 
   <item>
@@ -1975,7 +1975,7 @@
 </description>
     <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>youtube</category><category>microservices</category>
+    <category>youtube</category><category>microservice</category>
   </item>
 
   <item>
@@ -2515,7 +2515,7 @@
 </description>
     <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>tensorflow</category><category>python</category>
+    <category>ml</category><category>python</category>
   </item>
 
   <item>
@@ -2527,7 +2527,7 @@
 </description>
     <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>llvm</category><category>mac</category><category>c</category><category>cpp</category>
+    <category>debug</category><category>mac</category><category>c</category><category>cpp</category>
   </item>
 
   <item>
@@ -3163,7 +3163,7 @@
 </description>
     <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>martinfowler</category>
+    <category>tcp</category><category>network</category>
   </item>
 
   <item>
@@ -3199,7 +3199,7 @@
 </description>
     <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>rip</category>
+    <category>reading</category>
   </item>
 
   <item>
@@ -4602,7 +4602,7 @@
 </description>
     <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>review</category>
+    <category>reading</category><category>web</category>
   </item>
 
   <item>
@@ -5190,7 +5190,7 @@
 </description>
     <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>ui</category><category>android</category><category>ios</category><category>linux</category><category>windows</category><category>mac</category>
+    <category>app</category><category>android</category><category>ios</category><category>linux</category><category>windows</category><category>mac</category>
   </item>
 
   <item>
@@ -5202,7 +5202,7 @@
 </description>
     <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>flutter</category>
+    <category>app</category><category>guide</category>
   </item>
 
   <item>
@@ -5562,7 +5562,7 @@
 </description>
     <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>nginx</category><category>microservices</category>
+    <category>microservice</category>
   </item>
 
   <item>
@@ -6091,6 +6091,3966 @@
     <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-357</guid>
+    <title>music for programming
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-357</link>
+    <description>music for programming
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-358</guid>
+    <title>纯音乐 轻音乐 解压 学习 刷题 睡觉 御用
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-358</link>
+    <description>此歌单为纯音乐 解压 看书 刷题 睡觉 御用 愿这些音乐能带给在陌生城市的你一些温暖❤️ 你要悄悄拔尖，然后惊艳所有人✨ 歌单于二零一八年十一月十九日建
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>health</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-359</guid>
+    <title>推荐两个思维导图制作网站
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-359</link>
+    <description>推荐两个思维导图制作网站
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-360</guid>
+    <title>Flowchart Maker &amp; Online Diagram Software
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-360</link>
+    <description>draw.io is a free online diagramming application and flowchart maker . You can use it to create UML, entity relationship, org charts, BPMN and BPM, database schema and networks.
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-361</guid>
+    <title>Snapdrop
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-361</link>
+    <description>Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup.
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-362</guid>
+    <title>俩挺有意思的网站
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-362</link>
+    <description>https://explainshell.com/ http://showthedocs.com/ 俩挺有意思的网站
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-363</guid>
+    <title>9 Evil Bash Commands Explained
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-363</link>
+    <description>I remember using and understanding a terminal for the first time: That feeling when you realize that...
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-364</guid>
+    <title>Top Stories from the Microsoft DevOps Community – 2019.12.20
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-364</link>
+    <description>This post is the last community roundup before the holiday break, and we certainly have some holiday cheer for you. Thanks to all the blog authors, and check out the end of the post for a fun holiday-break project! Go blue/green with your Cloud Foundry app from WebIDE with Azure DevOps One-click deploys are empowering,
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-365</guid>
+    <title>How do computers read code?
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-365</link>
+    <description>When you first learned to write code, you probably realized that computers don&#39;t really have any common sense. You need to tell a computer exactly what you want. But do you know about all the work the computer does to understand what you mean?
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-366</guid>
+    <title>What Happens When Your Career Becomes Your Whole Identity
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-366</link>
+    <description>Many people with high-pressure jobs find themselves unhappy with their careers, despite working hard their whole lives to get to their current position. Hating your job is one thing – but what happens if you identify so closely with your work that hating your job means hating yourself?Psychologists use the term “enmeshment” to describe a situation where the boundaries between people become blurred, and individual identities lose importance. Enmeshment prevents the development of a stable, independent sense of self. While identifying closely with your career isn’t necessarily bad, it makes you vulnerable to a painful identity crisis if you burn out, get laid off, or retire. Individuals in these situations frequently suffer anxiety, depression, and despair. By claiming back some time for yourself and diversifying your activities and relationships, you can build a more balanced and robust identity in line with your values.
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-367</guid>
+    <title>发现一个各种数学课件的资源
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-367</link>
+    <description>发现一个各种数学课件的资源 http://www.drhuang.com/chinese/science/mathematics/ppt/
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>math</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-368</guid>
+    <title>The Best Linux Blog In the Unixverse
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-368</link>
+    <description>Linux: a Portable Operating System. Linus Torvalds&#39;s Master&#39;s Thesis (1997) [pdf] https://t.co/feZXXHCZoK
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-369</guid>
+    <title>How to Speak
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-369</link>
+    <description>MIT How to Speak, IAP 2018 Instructor: Patrick Winston View the complete course: https://ocw.mit.edu/how_to_speak  Patrick Winston&#39;s How to Speak talk has been an MIT tradition for over 40 years. Offered every January, the talk is intended to improve your speaking ability in critical situations by teaching you a few heuristic rules.
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-370</guid>
+    <title>The Software Architecture Chronicles
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-370</link>
+    <description>This post is the first of a series of posts about Software Architecture. In them, I write about what I&#39;ve learned on Software Architecture, how I think of it, and how I use that knowledge.
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-371</guid>
+    <title>Your Life in Weeks — Wait But Why
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-371</link>
+    <description>Note: If you want to print this post or read it offline, the PDF is probably the way to go. You can buy it here. This is a long human life in years:  And here’s a human life in months:  But today, we’re going...
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>growth</category><category>health</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-372</guid>
+    <title>微软在 edx 上的 AI 课程
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-372</link>
+    <description>微软在 edx 上的AI 课程 https://www.edx.org/professional-certificate/microsoft-artificial-intelligence
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-347</guid>
+    <title>Learn Unreal Engine (with C++) - Full Course for Beginners
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-347</link>
+    <description>Learn Unreal Engine in this full tutorial using C++. In this beginner&#39;s course, you will how to create three full games with Unreal Engine and Blueprints.  🎥 Course from Awesome Tuts. Check out their YouTube channel: https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw 🔗 Learn more about game development here: https://www.awesometuts.com/ultimate-game-dev-academy?utm_medium=youtube&amp;utm_source=freecodecamp&amp;utm_campaign=unreal_tutorial  ⭐️Course Contents ⭐️ ⌨️(0:00:45) Battery Collector Game   💻Project Code: https://www.filepicker.io/api/file/NZVRzw8JTtWXHuGIJeCQ  ⌨️(1:16:10) Brick Breaker Game   💻Project Code: https://www.filepicker.io/api/file/MdZBi35CTwSV9gJT9zFi   💻Assets: https://www.filepicker.io/api/file/nrDnHoOuTWGbNkWJUtMz  ⌨️(2:39:52) Pacman   💻Project Code: https://www.filepicker.io/api/file/0D0tNZ6ERYagcNupZGbD   💻Assets: https://www.filepicker.io/api/file/uASaLcXOQR2uIJLqW4Mv  --  Learn to code for free and get a developer job: https://www.freecodecamp.org    Read hundreds of articles on programming: https://medium.freecodecamp.org
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-348</guid>
+    <title>Learning embedded programming as a software engineer
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-348</link>
+    <description>How to respect your hardware, understand pinouts, embrace your limited flexibility and prevent dumb mistakes.
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-349</guid>
+    <title>科普知识: An overview of direct memory access
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-349</link>
+    <description>科普知识: An overview of direct memory access
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-350</guid>
+    <title>逐本下载 ： https://gitlab.com/im117/books
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-350</link>
+    <description>逐本下载 ： https://gitlab.com/im117/books
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-351</guid>
+    <title>不知 Snowden 的一個有趣的項目為何沒有太多關注 haven
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-351</link>
+    <description>不知Snowden 的一個有趣的項目為何沒有太多關注 https://github.com/guardianproject/haven  其實我用下來很不錯，而且真是廢物利用
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-352</guid>
+    <title>Photon electron coupling
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-352</link>
+    <description>Photon electron coupling
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-353</guid>
+    <title>Uber 2019 年的blog汇总
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-353</link>
+    <description>https://eng.uber.com/2019-highlights/  Uber 2019 年的blog汇总有人发过没，可以索引Uber一年技术部门产出的东西。
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-354</guid>
+    <title>14 Patterns to Ace Any Coding Interview Question
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-354</link>
+    <description>14 Patterns to Ace Any Coding Interview Question https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>interview</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-355</guid>
+    <title>最近一段时间玩了一下 mcu 编程，也做了一些简单的物联小玩具，分享一下粗略的心得
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-355</link>
+    <description>最近一段时间玩了一下 mcu 编程，也做了一些简单的物联小玩具，分享一下粗略的心得： https://twitter.com/ivarptr/status/1210147205526351872   一共 4 条推，有兴趣的朋友一起交流一下🙈
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-356</guid>
+    <title>用 c 或者 python 在 esp 芯片上写程序挺不错的
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-356</link>
+    <description>对于比较偏软件的应用，用 c 或者 python 在 esp 芯片上写程序挺不错的，它内置 wifi，可以直接在 mcu 里实现一些功能，比如联网获取一些数据，然后通过一些墨水屏显示出来或者播放通知声音之类。
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-328</guid>
+    <title>Paul Graham&#39;s Essays - v2019
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-328</link>
+    <description>Paul Graham&#39;s Essays - v2019
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-332</guid>
+    <title>各种grep😂 现在用的最多的还是ripgrep
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-332</link>
+    <description>各种grep😂 现在用的最多的还是ripgrep
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-333</guid>
+    <title>101种学习英语的方法
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-333</link>
+    <description>101种学习英语的方法
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-335</guid>
+    <title>nebula net
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-335</link>
+    <description>https://github.com/slackhq/nebula overlay network 竞品 tinc，zerotier，openvpn 群友写的教程供新人参考
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>tool</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-336</guid>
+    <title>Vol.108 怎样科学地放电影？
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-336</link>
+    <description>不同类型的电影放映机是怎么工作的？如何在全国 10771 家电影院放映电影？   ◆趣味科普 科技博主  ◆每周不定期更新  不要忘记订阅这个频道～
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-337</guid>
+    <title>netdata: Real-time performance monitoring, done right
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-337</link>
+    <description>Netdata is high-fidelity infrastructure monitoring and troubleshooting.Open-source, free, preconfigured, opinionated, and always real-time.  Netdata is a distributed, real-time, performance and...
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>monitor</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-338</guid>
+    <title>awesome awesome awesome
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-338</link>
+    <description>Github上有好些Awesome XXX的 repo，于是就有人把这些 Awesome XXX 变成 Awesome list，然后这些Awesome 的list 又被再 Awesome …… 
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-339</guid>
+    <title>这个演讲太强了，太好笑了，充满激情
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-339</link>
+    <description>这个演讲太强了，太好笑了，充满激情，如果我的学校里的老师也是这样，那该多好
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-340</guid>
+    <title>Python完整速查卡
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-340</link>
+    <description>Python完整速查卡
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-341</guid>
+    <title>这个文章看上去，被GraalVM编译过的 Java和Go在快排算法上的性能差别不大
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-341</link>
+    <description>这个文章看上去，被GraalVM编译过的 Java和Go在快排算法上的性能差别不大
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-342</guid>
+    <title>批评pb的来了，评区，有一些别的替代
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-342</link>
+    <description>批评pb的来了，评区，what are the  alternatives... 有一些别的替代
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-343</guid>
+    <title>Scheduling In Go
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-343</link>
+    <description>下面这三篇文章，以前在本群中分享过，因为写得实在太好，所发还要再分享一下。
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-344</guid>
+    <title>如何读源码
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-344</link>
+    <description>如何读源码
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-345</guid>
+    <title>The incredible chemistry powering your smartphone
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-345</link>
+    <description>上 YouTube 观看“The incredible chemistry powering your smartphone | Cathy Mulzer”
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-346</guid>
+    <title>截一断我极客时间专栏中跟Paxosssh相关的一节
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-346</link>
+    <description>截一断我极客时间专栏中跟Paxosssh相关的一节
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>tips</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-318</guid>
+    <title>Today learn agrep =&gt; approximative grep.
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-318</link>
+    <description>Today learn agrep =&gt; approximative grep. Based on Levenshtein distances, it&#39;s possible to search for words looking alike a word. https://t.co/3FsInURmeo I&#39;m using it for my personal note taking tools. Knowledge organisation is powerfull!! Cc @nixcraft @climagic
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-319</guid>
+    <title>分享一下 Eller&#39;s Algorithm，用于创建一个迷宫的算法
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-319</link>
+    <description>这个算法有意思，分享一下 Eller&#39;s Algorithm，用于创建一个迷宫的算法
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-320</guid>
+    <title>VSCode的一些技巧
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-320</link>
+    <description>VSCode的一些技巧
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>vscode</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-321</guid>
+    <title>vscode may be you like
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-321</link>
+    <description>vscode  may be you like
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>vscode</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-322</guid>
+    <title>unsolved problems in computer science
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-322</link>
+    <description>unsolved problems https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-323</guid>
+    <title>The Uber Go Style Guide
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-323</link>
+    <description>Uber Go Style Guide  Introduction Guidelines  Pointers to Interfaces Verify Interface Compliance Receivers and Interfaces Zero-value Mutexes are Valid Copy Slices and Maps at Boundaries Defer to Clean Up...
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-324</guid>
+    <title>【原创翻译】独立游戏工作室巡礼 E02
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-324</link>
+    <description>DevQuest（共4集）：第2集我们来到了位于加拿大蒙特利尔的Complusion Games（现已被微软收购），代表作《We Happy Few》，以及当地较小的工作室Kitfox/KO_OP，代表作《Moon Hunters》/《GNOG》。全部4集都会翻译，不过不敢保证时间，有空就翻！另外，可以评论安利优质生肉纪录片。感谢收看，下集见~视频原地址：https://www.youtube.c
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>bilibili</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-325</guid>
+    <title>[备忘]CAS的Session两秒挂掉？--解决退出后登录，页面刷新的问题
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-325</link>
+    <description>上次那个两次登录的问题原因找到了, [备忘]CAS的Session两秒挂掉？--解决退出后登录，页面刷新的问题
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>debug</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-326</guid>
+    <title>一些编译器的工作机会
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-326</link>
+    <description>一些编译器的工作机会
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-327</guid>
+    <title>如何debug一个木马
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-327</link>
+    <description>如何debug一个木马
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>debug</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-309</guid>
+    <title>GreatFire.org
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-309</link>
+    <description>“GreatFire悬赏计划“现已更新，赏金大幅提升！详情访问https://t.co/fTpbw7FYy2
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-310</guid>
+    <title>类似这些超强的技术贴，哪怕参与一些分享都会有长进
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-310</link>
+    <description>https://github.com/net4people/bbs/issues/21 类似这些超强的技术贴，哪怕参与一些分享都会有长进
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-311</guid>
+    <title>http decision diagram
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-311</link>
+    <description>An activity diagram to describe the resolution of HTTP response status codes, given various headers. - GitHub - for-GET/http-decision-diagram: An activity diagram to describe the resolution of HTTP...
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-312</guid>
+    <title>Paul Graham
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-312</link>
+    <description>Several people asked which essays are my favorites: https://t.co/yFNe1NW55B https://t.co/HdUSjESNGl https://t.co/ASjOx0YHUu https://t.co/XNW3ov6yXQ https://t.co/Ww2vBKYMt9 https://t.co/GQ6IECES02 https://t.co/jOQbXXji14 https://t.co/52xghlUODR https://t.co/oMGkyfOQ4H
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-313</guid>
+    <title>黑客与画家的作者当初给高中生的建议
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-313</link>
+    <description>黑客与画家的作者当初给高中生的建议，http://paulgraham.com/hs.html
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category><category>tips</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-316</guid>
+    <title>The Importance of Deep Work &amp; The 30-Hour Method for Learning a New Skill
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-316</link>
+    <description>The Importance of Deep Work &amp;amp; The 30-Hour Method for Learning a New Skill  The tech industry, especially the security industry, seems outrageously overwhelming to newcomers and even as an intermediate...
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-317</guid>
+    <title>awesome reverse engineering
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-317</link>
+    <description>Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&amp;amp;videos) - awesome-reverse-engineering/R...
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-20-300</guid>
+    <title>Best Practices for Versioning REST APIs
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-20-300</link>
+    <description>“Best Practices for Versioning REST APIs” by Nick Parsons https://link.medium.com/rC6quSkjy2
+</description>
+    <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-20-301</guid>
+    <title>用 calibre-web 建立一个私人的在线书库
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-20-301</link>
+    <description>之前分享过可以用https://github.com/janeczku/calibre-web 建立一个私人的在线书库，因为是web所以可以跨设备运行，进度也可以共享，今天有空用docker跑了一个给大家看看效果。
+</description>
+    <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-20-305</guid>
+    <title>calibre web用户如何设置的
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-20-305</link>
+    <description>你好，calibre web用户如何设置的？config页面没有用户设定，submit后，无法登录，是默认用户名密码吗？ 第一次会叫你设置的我记得？或者你可以试试docker版 https://docs.linuxserver.io/images/docker-calibre-web
+</description>
+    <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-20-306</guid>
+    <title>Scale By The Bay 2019: Norman Maurer, Netty 5: Lessons Learned
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-20-306</link>
+    <description>Netty is one of the most used network frameworks on the JVM (if not the most used) which provides its users not only with great flexibility but also with superb performance. While Netty 4.x was a great success and is used literally everywhere in production it became clear over the “years” that a few design choices that where made did produce various limitations. As work has started on Netty 5, it’s time to fix these limitations and incorporate all the feedback we received from the community and core maintainers. This talk will focus on multiple core changes that are scheduled for netty 5 by explaining what “real-world issues” these solve and how these changes will help to operate Netty in high-scale production environments. Also it will give a brief overview of the general planed timeline of Netty 5 and roadmap.
+</description>
+    <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-20-307</guid>
+    <title>Keychron K1 Wireless Mechanical Keyboard (Version 5)
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-20-307</link>
+    <description>Keychron K1 is an ultra-slim wireless mechanical keyboard. With Gateron low profile red, blue, brown switch. Wireless and type-c wired mode. Mac layout, compatible with Mac, Windows. Aluminum frame. 18 types of RGB backlight included white LED.
+</description>
+    <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-20-308</guid>
+    <title>A Blocks / JavaScript code editor
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-20-308</link>
+    <description>A Blocks / JavaScript code editor for the micro:bit powered by Microsoft MakeCode.
+</description>
+    <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-19-297</guid>
+    <title>写了一篇自制键盘的文章 
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-19-297</link>
+    <description>写了一篇自制键盘的文章 
+</description>
+    <pubDate>Thu, 19 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-19-298</guid>
+    <title>What Happened to Software Development?
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-19-298</link>
+    <description>What Happened to Software Development? | HackerNoon - I don’t even recognize it anymore
+</description>
+    <pubDate>Thu, 19 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-19-299</guid>
+    <title>一个老程序员的30年生涯回顾
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-19-299</link>
+    <description>一个老程序员的30年生涯回顾
+</description>
+    <pubDate>Thu, 19 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-281</guid>
+    <title>Excel 技巧
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-281</link>
+    <description>https://www.youtube.com/watch?v=0nbkaYsR94c  Excel 技巧
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-282</guid>
+    <title>Exploring &quot;Negative Latency&quot;
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-282</link>
+    <description>不知道这群里有多少对云游戏特别是stadia的技术感兴趣的，stadia的技术里有一项叫“Negative latency”
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-283</guid>
+    <title>运维必看：从零开始搭建“大后台”技术栈
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-283</link>
+    <description>运维必看：从零开始搭建“大后台”技术栈
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>ops</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-284</guid>
+    <title>Why Google Stores Billions of Lines of Code in a Single Repository – Google Research
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-284</link>
+    <description>Rachel Potvin Josh Levenberg  Communications of the ACM, vol. 59 (2016), pp. 78-87   Abstract  Google&#39;s monolithic repository provides a common source of truth for tens of thousands of developers around the...
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-285</guid>
+    <title>Python 3&#39;s f-Strings: An Improved String Formatting Syntax (Guide)
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-285</link>
+    <description>As of Python 3.6, f-strings are a great new way to format strings. Not only are they more readable, more concise, and less prone to error than other ways of formatting, but they are also faster! By the end of this article, you will learn how and why to start using f-strings today.
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-286</guid>
+    <title>JavaScript 的各种WTF
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-286</link>
+    <description>JavaScript 的各种WTF
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-287</guid>
+    <title>想起来这个 https://www.destroyallsoftware.com/talks/wat
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-287</link>
+    <description>想起来这个 https://www.destroyallsoftware.com/talks/wat
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-288</guid>
+    <title>《赖世雄经典英语语法》的配套音频课
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-288</link>
+    <description>https://www.qingting.fm/channels/255255/ 《赖世雄经典英语语法》的配套音频课，配合使用，攻克英语语法不是梦😂
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-289</guid>
+    <title>English Grammar in Use Book with Answers
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-289</link>
+    <description>English Grammar in Use Book with Answers: A Self-Study Reference and Practice Book for Intermediate Learners of English https://www.amazon.com.au/dp/0521189063/ref=cm_sw_r_cp_api_i_l2c-DbYA749AQ
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-290</guid>
+    <title>Python&#39;s f-strings are amazingly fast!
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-290</link>
+    <description>Python&#39;s f-strings are amazingly fast!
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-291</guid>
+    <title>Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-291</link>
+    <description>&quot;Speaker: Raymond Hettinger  Distillation of knowledge gained from a decade of Python consulting, Python training, code reviews, and serving as a core developer.   Learn to avoid some of the hazards of the PEP 8 style guide and learn what really matters for creating beautiful intelligible code.    Slides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides&quot;
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-292</guid>
+    <title>2019年听过的那些播客
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-292</link>
+    <description>19年应该算是播客开始爆发的元年，国外Spotify大量收购播客公司，国内各大音频平台新出的个人或者团队制作的播客数目明显多于往年。在这样的背景下，我订阅的播客列表中，今年没有一个播客是听完所有Ep的，时间真的是不够用，不过这样也挺好，精中选精，质量更高。但是也有一些老的播客没有坚持到19年，比如《友的聊》，我也是做19年播客回顾的时候才发现这个节目已经一年没有更新了，其下的《这事儿我跟你讲》、《花田FM》也是...
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>podcast</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-293</guid>
+    <title>Programming Languages To Learn In 2020 To Boost Your Career As A Software Developer
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-293</link>
+    <description>Google首页推荐的, Programming Languages To Learn In 2020 To Boost Your Career As A Software Developer
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-294</guid>
+    <title>SICP 的 JavaScript 语言版
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-294</link>
+    <description>经典计算机教材 SICP 的 JavaScript 语言版，新加坡国立大学改编的。https://t.co/cxVIzSOJms 连带附上 SICP 的 Python 版本，还是中文翻译好的。https://t.co/usIxwrg7v2
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>javascript</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-295</guid>
+    <title>The 2019 Stratechery Year in Review
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-295</link>
+    <description>2019 was a transition year for me personally, and by extension, Stratechery. The nadir was an Article I regret — The WeWork IPO — where, despite not believing in the company, I wrote the contrarian take...
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>reading</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-296</guid>
+    <title>Mozilla Hacks’ 10 most-read posts of 2019
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-296</link>
+    <description>Mozilla Hacks covered plenty of interesting territory in 2019. Our most popular posts introduced experiments and special projects, and described the evolution of groundbreaking platform technologies like WebAssembly and WASI. ...
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>web</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-266</guid>
+    <title>ScyllaDB’s Compaction Series: Size-Tiered Compaction
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-266</link>
+    <description>This is the first post in a series of four about the different compaction strategies available in ScyllaDB. This first post will focus on ScyllaDB’s default compaction strategy, size-tiered compaction strategy.
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-267</guid>
+    <title>Michel Raynal Fault Tolerant Message
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-267</link>
+    <description>Michel Raynal Fault Tolerant Message
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-268</guid>
+    <title>Kubernetes in production: the microservice
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-268</link>
+    <description>Hi all Yesterday I was recording a video share about: 1. How to decomposes the monolithic application by microservice. 2. Kubernetes works with microservice.
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>bilibili</category><category>microservice</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-269</guid>
+    <title>有一个脑洞问题
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-269</link>
+    <description>有一个脑洞问题
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>misc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-270</guid>
+    <title>The xlang project
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-270</link>
+    <description>另外一个群 给推荐了这个 https://github.com/Microsoft/xlang
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-271</guid>
+    <title>MasterClass - Wikipedia
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-271</link>
+    <description>MasterClass - Wikipedia
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-272</guid>
+    <title>我是如何一步步打造爆款产品，以及对应方法论 | 翻译
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-272</link>
+    <description>自己翻译的一篇关于如何打造爆款产品的方法论和具体实践，来自国外一个两度创业成功的创业者，全文八千余字，在群友嘉文的帮助下，几经校对，终于定稿，希望大家喜欢。
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-273</guid>
+    <title>Microsoft REST API Guidelines.
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-273</link>
+    <description>Microsoft REST API Guidelines. Contribute to microsoft/api-guidelines development by creating an account on GitHub.
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-274</guid>
+    <title>推荐一篇关于parser的文章
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-274</link>
+    <description>推荐一篇关于parser的文章，https://www.sanity.io/blog/why-we-wrote-yet-another-parser-compiler 。里面的引用很多，很有价值，尤其是对上大学时编译原理没学好的同学 😊
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>reading</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-275</guid>
+    <title>Physical Activity Guidelines for Americans 2nd edition
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-275</link>
+    <description>Physical Activity Guidelines for Americans 2nd edition
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-276</guid>
+    <title>Check out &quot;Universum - Diary, Journal, Notes&quot;
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-276</link>
+    <description>Check out &quot;Universum - Diary, Journal, Notes&quot;
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>app</category><category>android</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-277</guid>
+    <title>微软又来送书了
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-277</link>
+    <description>微软又来送书了
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-278</guid>
+    <title>Operating System (OS) Definition &amp; Examples
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-278</link>
+    <description>An operating system is a powerful and usually extensive program that controls and manages the hardware and other software on a computer.   All computers and computer-like devices require operating systems,...
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>os</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-279</guid>
+    <title>分享一个网站: How HTTPS Works
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-279</link>
+    <description>分享一个网站: How HTTPS works
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>http</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-280</guid>
+    <title>Algorithms, Part I
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-280</link>
+    <description>TOP REVIEWS FROM ALGORITHMS, PART Iby CSOct 27, 2021Incredible learning experience. Every programmer in industry should take this course if only to dispel the idea that with the advent of cloud computing...
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-246</guid>
+    <title>注册 App Store 美区ID的方法↓
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-246</link>
+    <description>注册 App Store 美区ID的方法↓
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-247</guid>
+    <title>我在用一个 Chrome 扩展，浏览英文，标记不认识的单词
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-247</link>
+    <description>我在用一个Chrome 扩展，浏览英文，标记不认识的单词，https://burningvocabulary.com/
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>english</category><category>chrome</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-248</guid>
+    <title>机器学习背后的朴素思想
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-248</link>
+    <description>最近自己在写一个关于机器学习的文档。主要是介绍机器学习过程中所涉及的基础概念与基本流程，以使得准备进入机器学习领域的人员（技术的或非技术的）能够有清晰且正确的概念，少走些弯路，少被人忽悠。
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-249</guid>
+    <title>推荐书籍
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-249</link>
+    <description>本页罗列我读过且喜欢的书籍。 在看过的系统管理书籍中，《UNIX and Linux System Administration Handbook》是我最喜欢的一本。本书内容既全面又与时俱进，涵盖了主流的Linux和BSD版本；其它类似书籍在内容上或多或少有些过时，而它却一直在更新。更重要的是提倡以现代化的方法来管理系统。每章后面的推荐阅读是非常好的拓展材料。 pic.twitter.com/OgBN3ZJsHI &amp;mdash; Linuxtoy 🐧 (@linuxtoy) December 12, 2019 看完了《FreeBSD Mastery: ZFS》，对于具有大量存储需求的用户而言，ZFS 这种现代、高级、灵活的文件系统的确很有优势。本书不仅充满组建海量存储方案的真知灼见，而且全面介绍了 ZFS 的各种特性的用法，包括存储池、数据集、磁盘空间管理、快照、克隆等等。推荐阅读。 pic.twitter.com/tACkqWWzgU &amp;mdash; Linuxtoy
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-251</guid>
+    <title>花了不少精力做算法题，不过觉得挺值的
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-251</link>
+    <description>花了不少精力，不过觉得挺值的。如果之前不是做算法出身的，我强烈建议试试。2. leetcode的评价体系挺好的，会考虑时间复杂度，有些题目可能会多次遇到超时限制，在调优的过程中，你会对时间复杂度产生具体的感性认识。
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>algorithm</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-252</guid>
+    <title>Planet Money是我听下来最好的的podcast了
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-252</link>
+    <description>Planet Money是我听下来最好的的podcast了，讲的英语简单易懂，内容深入浅出，涵盖美国经济政治生活的方方面面。这期讲的就是外国人如何在美国参与大选的限制：https://castbox.fm/vb/204496551 castbox在安卓上也很推荐
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category><category>english</category><category>app</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-253</guid>
+    <title>nebula/ 这个库看起来高大上的样子，
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-253</link>
+    <description>https://github.com/slackhq/nebula/ 这个库看起来高大上的样子，
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>network</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-260</guid>
+    <title>Congestion Control in Computer Networks
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-260</link>
+    <description>A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-262</guid>
+    <title>关于 packet filter limit和burst参数的含
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-262</link>
+    <description>有没有技术大佬，帮我解释下这个limit和burst参数的含义， 搞不明白了
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-263</guid>
+    <title>讲 spotify 工程师文化，表示很受启发
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-263</link>
+    <description>讲 spotify 工程师文化，表示很受启发 source: https://blog.crisp.se/2014/03/27/henrikkniberg/spotify-engineering-culture-part-1
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-265</guid>
+    <title>Video unavailable
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-265</link>
+    <description>Video unavailable
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-234</guid>
+    <title>以后我演讲也要用 I have a dream... 的句式开场，
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-234</link>
+    <description>以后我演讲也要用 I have a dream... 的句式开场， 然后穿一件拉风的粉红色西装……
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-235</guid>
+    <title>Remote Only https://www.remoteonly.org/
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-235</link>
+    <description>Remote Only https://www.remoteonly.org/
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-237</guid>
+    <title>rclone: &quot;rsync for cloud storage&quot;
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-237</link>
+    <description>rsync for cloud storage&amp;quot; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-238</guid>
+    <title>iptv: Collection of publicly available IPTV channels from all over the world
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-238</link>
+    <description>Collection of publicly available IPTV channels from all over the world - GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-239</guid>
+    <title>JWT, JWS, JWE, JWK, and JWA。
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-239</link>
+    <description>JWT, JWS, JWE, JWK, and JWA。
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>web</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-240</guid>
+    <title>我也想搭车宣传一下我的频道
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-240</link>
+    <description>我也想搭车宣传一下我的频道，分享各种有用、有趣、有价值的东西，最近的内容包括：注册商标、美剧硅谷、曼达洛人、庆余年、Glitch、Stuff You Should Know...
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-242</guid>
+    <title>Awesome-CV: Awesome CV is LaTeX template for your outstanding job application
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-242</link>
+    <description>Awesome CV is LaTeX template for a CV(Curriculum Vitae), Résumé or Cover Letter inspired by Fancy CV
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-243</guid>
+    <title>MEGA provides free cloud storage with convenient and powerful always-on privacy
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-243</link>
+    <description>MEGA provides free cloud storage with convenient and powerful always-on privacy. Claim your free 20GB now
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-244</guid>
+    <title>分享一个我写的 vim 插件
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-244</link>
+    <description>分享一个我写的 vim 插件，可以给不同的 vim 项目自动设置不同的色彩主题，方便快速区分
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-245</guid>
+    <title>标准网 - 免费国家标准查询、下载网站
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-245</link>
+    <description>https://www.biaozhun.org 分享一个网址。中国的标准直接可以查并且下载。比如信息安全，某个国标。
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-212</guid>
+    <title>面试中的鸡汤和毒药 - 陈皓
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-212</link>
+    <description>面试中的鸡汤和毒药 - 陈皓
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>interview</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-213</guid>
+    <title>College-educated workers are taking over the American factory floor
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-213</link>
+    <description>College-educated workers are taking over the American factory floor
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>reading</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-214</guid>
+    <title>Serious Security: Understanding how computers count
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-214</link>
+    <description>The hard disks that fail abruptly at 32,768 hours of use – why simply ‘adding 1’ can send you into oblivion.
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-215</guid>
+    <title>java核心技术 卷1
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-215</link>
+    <description>java核心技术 卷1 java并发编程实战 java编程思想 spring / spring boot 实战
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-216</guid>
+    <title>today we are going to share a new paper about druid
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-216</link>
+    <description>Hi all, today we are going to share a new paper about druid. http://static.druid.io/docs/druid.pdf It&#39;s related to the previous share about scuba. They are all column-oriented database storage. Like scuba, The Druid database also has an in-memory data storage strategy.
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>paper</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-217</guid>
+    <title>分享个英语词汇学习工具
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-217</link>
+    <description>分享个英语词汇学习工具，浏览网页标记不认识的单词 Burning Vocabulary
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-219</guid>
+    <title>API返回的JSON太大？
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-219</link>
+    <description>API返回的JSON太大？ Nginx又没法压缩Transfer-Encoding为chunked的返回？ 新挖了一个坑，欢迎各位使用和提各种建议，适用于Gin和net/http的gzip中间件：基于 Content-Type、Content-Length、扩展名等要素自动判断是否启用压缩。
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-220</guid>
+    <title>Douban note/698877663 unavailable
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-220</link>
+    <description>Douban note/698877663 unavailable
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-221</guid>
+    <title>ACM Quick Join Application Form
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-221</link>
+    <description>戳这里 https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&amp;country=China&amp;form_type=Professional&amp;promo=LEVEL
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-222</guid>
+    <title>想问问科技行业方面有什么什么质量比较高的podcast
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-222</link>
+    <description>就比如，这是我有时候会听听的，planet money听最多。想问问科技行业方面有什么什么质量比较高的podcast
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-223</guid>
+    <title>《数据库系统概念》
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-223</link>
+    <description>《数据库系统概念》，它是数据库系统方面的经典教材之一。国际上许多著名大学包括斯坦福大学、耶鲁大学、德克萨斯大学、康奈尔大学、伊利诺伊大学、印度理工学院等都采用本书作为教科书。这本书全面介绍了数据库系统的各种知识，透彻阐释数据库管理的基本概念。不仅讨论了数据库查询语言、模式设计、数据仓库、数据库应用开发、基于对象的数据库和 XML、数据存储和查询、事务管理、数据挖掘与信息检索以及数据库系统体系结构等方面的内容，而且对性能评测标准、性能调整、标准化以及空间与地理数据、事务处理监控等高级应用主题进行了广泛讨论。
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-224</guid>
+    <title>关于数据库的一些补充资料
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-224</link>
+    <description>数据库设计 - 你需要系统地了解一下数据库设计中的那些东西，这里推荐慕课网的一个在线课程 --&quot;[数据库设计的那些事](https://www.imooc.com/learn/117)&quot;。每个小课程不过 5-6 分钟，全部不到 2 个小时，我相信你一定能跟下来。你需要搞清楚数据的那几个范式，还有 SQL 语句的一些用法。
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>mysql</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-225</guid>
+    <title>你不能錯過的聲音——推薦給科技人的 10 個 Podcast
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-225</link>
+    <description>https://medium.com/starrocket/10-podcasts-we-recommend-5f47de31e190 可以看看这里推荐的
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>podcast</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-226</guid>
+    <title>The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally by Jason Fung
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-226</link>
+    <description>The Diabetes Code book. Read 521 reviews from the world&#39;s largest community for readers. Dr. Jason Fung forever changed the way we think about obesity wi...
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-228</guid>
+    <title>有本书叫《把你的英语用起来》，这个题目讲得很有道理
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-228</link>
+    <description>有本书叫《把你的英语用起来》，这个题目讲得很有道理
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-229</guid>
+    <title>Is False == 0 and True == 1 an implementation detail or is it guaranteed by the language?
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-229</link>
+    <description>Is it guaranteed that False == 0 and True == 1, in Python (assuming that they are not reassigned by the user)?  For instance, is it in any way guaranteed that the following code will always produce...
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-230</guid>
+    <title>wrk: Modern HTTP benchmarking tool
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-230</link>
+    <description>wrk - a HTTP benchmarking tool wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event...
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-231</guid>
+    <title>https://github.com/tsenart/vegeta
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-231</link>
+    <description>https://github.com/tsenart/vegeta
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-232</guid>
+    <title>Your Guide to Java Streams
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-232</link>
+    <description>In this edition of &quot;Best of DZone,&quot; we take a look at Streams in Java, one of the APIs that brought some elements of functional programming to Java.
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-233</guid>
+    <title>推荐一个Medium的展望软件开发2020的文章
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-233</link>
+    <description>推荐一个Medium的展望软件开发2020的文章，里面提到Java仍然是企业级Programming的王者，和浩哥的想法一样。https://towardsdatascience.com/20-predictions-about-software-development-trends-in-2020-afb8b110d9a0
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-199</guid>
+    <title>【水球泡77】超简单的sketch课程（四）蒙版详解_哔哩哔哩_bilibili
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-199</link>
+    <description>【水球泡77】超简单的sketch课程（四）蒙版详解_哔哩哔哩_bilibili
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>bilibili</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-200</guid>
+    <title>Firecracker
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-200</link>
+    <description>Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services.
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-201</guid>
+    <title>推荐一个 BLOG 的系列文章
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-201</link>
+    <description>推荐一个 BLOG 的系列文章。http://www.aaronsw.com/weblog/rawnerve
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>reading</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-202</guid>
+    <title>My learnings on Linux BPF container performance engineering
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-202</link>
+    <description>Starting with DockerOver the past few years I’ve worked a lot with container workloads. It all starts with a need to run containers whether its a batch job, a microservice or some scripts. Learning about...
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>linux</category><category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-203</guid>
+    <title>分享一个资源收集频道
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-203</link>
+    <description>分享一个资源收集频道 “程序、设计、工具资源收集 - Collections of materials to review with or just some cool websites.”
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-204</guid>
+    <title>隐私/安全 全套软件
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-204</link>
+    <description>隐私/安全 全套软件 https://prism-break.org/
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-205</guid>
+    <title>VS Code plugins for code newbies
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-205</link>
+    <description>I have started coding very recently (about 1-2 months) and have been using Visual Studio (VS) code as my primary code editor since day one. VS code is currently available on all major operating systems:...
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>vscode</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-206</guid>
+    <title>Go: Work-Stealing in Go Scheduler
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-206</link>
+    <description>This article is based on Go 1.13.
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-207</guid>
+    <title>An A-Z Index of the Apple macOS command line (macOS bash)
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-207</link>
+    <description>An A-Z Index of the Apple macOS command line (macOS bash)
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mac</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-208</guid>
+    <title>Going Serverless with OpenFaaS and Golang - The Ultimate Setup and Workflow
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-208</link>
+    <description>Serverless applications have been cool and hype for a while now and some interesting and useful platforms/tools/frameworks are emerging now....
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category><category>serverless</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-209</guid>
+    <title>AWS re:Invent 2019 - Keynote with Dr. Werner Vogels
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-209</link>
+    <description>Werner Vogels, CTO of Amazon.com, delivers his AWS re:Invent 2019 keynote. Watch as pulls back the covers to talk about the innovations behind AWS Nitro, Firecracker,  AWS Fargate, Amazon EBS and more. This year’s featured guests include Clare Liguori, Principal Software Engineer at AWS - who goes deep on AWS Fargate and how we’ve built this to give customers a truly unique customer experience – as well as Jeff Dowds, IT Executive at Vanguard, Sebastien de Halleux, COO of Saildrone and Dr. Martin Hofmann, Group CIO of Volkswagen automotive group.  In this keynote you’ll also hear more about the launch of the Amazon Builders’ Library: https://aws.amazon.com/builders-library/ And Werner’s video series, “Now Go Build”: https://aws.amazon.com/startups/NowGoBuild/  01:10:26 A special thanks for the satellite imagery provided by AWS customer Maxar: https://bit.ly/33VJG8i
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-210</guid>
+    <title>We introduced a memory database named scuba
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-210</link>
+    <description>We introduced a memory database named scuba. In this paper, the author introduces a new memory storage layout to use column-oriented storage for better compression and faster query execution strategies. they reference lots of database design include Dremel Powerdrill etc.
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-211</guid>
+    <title>Distributed Systems in One Lesson by Tim Berglund
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-211</link>
+    <description>Normally simple tasks like running a program or storing and retrieving data become much more complicated when we start to do them on collections of computers, rather than single machines. Distributed systems has become a key architectural concern, and affects everything a program would normally do—giving us enormous power, but at the cost of increased complexity as well.
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-190</guid>
+    <title>分享一个我的关于健身的repo
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-190</link>
+    <description>分享一个我的关于健身的repo，今天更新了饮食有关的内容，不过大部分内容都是引用youtube视频中的观点。
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>health</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-192</guid>
+    <title>disable medium paywall and make it be quiet
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-192</link>
+    <description>Actions Automate any workflow      Packages Host and manage packages      Security Find and fix vulnerabilities      Codespaces Instant dev environments      Copilot Write better code with AI      Code review...
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>medium</category><category>tool</category><category>chrome</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-193</guid>
+    <title>有兴趣在推特上讨论的可以follow我的账号
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-193</link>
+    <description>有兴趣在推特上讨论的可以follow我的账号，不定时发跟数据和云有关的信息和个人想法，等我们印刷版的kubenetes on Google Cloud书发布，会免费送几本书给想学习的同学👩‍🎓👨‍🎓
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-194</guid>
+    <title>不用找菲律宾人练口语，直接试试pramp模拟面试就好
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-194</link>
+    <description>不用找菲律宾人练口语，直接试试pramp模拟面试就好，英语he算法题一起练习了，有兴趣的可以用我这这个链接注册 https://www.pramp.com/invt/L6o3v3X1G3uWm4Ja7QrX
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category><category>english</category><category>interview</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-195</guid>
+    <title>Grokking the System Design Interview
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-195</link>
+    <description>Grokking the System Design Interview
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>interview</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-196</guid>
+    <title>The Top 10 Most Common Mistakes I’ve Seen in Go Projects
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-196</link>
+    <description>This post is my top list of the most common mistakes I’ve seen in Go projects.
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-197</guid>
+    <title>看到一篇介绍 serverless 架构的文章，觉得写得比较客观，分享一下
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-197</link>
+    <description>看到一篇介绍 serverless 架构的文章，觉得写得比较客观，分享一下
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>serverless</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-198</guid>
+    <title>Cloud Programming Simplified: A Berkeley View on Serverless Computing - RISE Lab
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-198</link>
+    <description>David Patterson and Ion Stoica The publication of “Above the Clouds: A Berkeley View of Cloud Computing” on February 10, 2009 cleared up the considerable confusion about the new notion of “Cloud Computing.” The paper defined what Cloud Computing was, where it came from, why some were excited by it, what were its technical advantages, and what were the obstacles and research opportunities for it to become even more popular.  More than 17,000 citations to this paper and an abridged version in CACM—with more than 1000 in the past year—document that it continues to shape the discussions and the evolution of Cloud Computing. “Cloud Programming Simplified: A Berkeley View on Serverless Computing” with some of the same authors commemorates the…
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>serverless</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-184</guid>
+    <title>AWS’ CodeGuru uses machine learning to automate code reviews
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-184</link>
+    <description>AWS today announced CodeGuru, a new machine learning-based service that automates code reviews based on the data the company has gathered from doing code reviews internally. Developers write the code and simply add CodeGuru to the pull requests. It supports GitHub and CodeCommit, for the time being. CodeGuru uses its knowledge of reviews from Amazon […]
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>aws</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-185</guid>
+    <title>干货！大话EXT4文件系统完整版
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-185</link>
+    <description>转发： https://mp.weixin.qq.com/s/HRqDt8j84ZkjhtpF-QpAyw 干货！大话EXT4文件系统完整版
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-186</guid>
+    <title>Java工程师成神之路
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-186</link>
+    <description>有个国内工程师搞的版本——Java工程师成神之路😂 https://github.com/hollischuang/toBeTopJavaer
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category><category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-187</guid>
+    <title>How to Learn Software Design and Architecture
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-187</link>
+    <description>Software Design and Architecture is pretty much its own field of study within the realm of computing, like DevOps or UX Design. Here&#39;s a map describing the breadth of software design and architecture, from clean code to microkernels.
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category><category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-188</guid>
+    <title>Implementing Lock Free Queues
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-188</link>
+    
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>algorithm</category><category>ds</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-189</guid>
+    <title>libcds: A C++ library of Concurrent Data Structures
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-189</link>
+    <description>A C++ library of Concurrent Data Structures. Contribute to khizmax/libcds development by creating an account on GitHub.
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>cpp</category><category>ds</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-159</guid>
+    <title>Resumes &amp; cover letters design templates | Microsoft Create
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-159</link>
+    <description>Display your best qualities with professional, customizable resumes and cover letters. No matter your line of work, you&#39;ll find resume and cover letter templates that&#39;ll help you land the job.
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-161</guid>
+    <title>莫枢大神发的书
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-161</link>
+    <description>莫枢大神发的书
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-162</guid>
+    <title>海盗版英文电子书搜索教学
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-162</link>
+    <description>海盗版英文电子书搜索教学 1. 登陆Amazon，搜索你喜爱的英文书 2. 复制10位或13位ISBN代码 3. 登陆http://gen.lib.rus.ec ，粘贴搜索下载 不做伸手党人人有责（如有能力请支持正版）
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-163</guid>
+    <title>对了 tcp/ip 详解的原版是不是也应该贴一份？
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-163</link>
+    <description>对了 tcp/ip 详解的原版是不是也应该贴一份？
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>network</category><category>tcp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-164</guid>
+    <title>我读了两篇
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-164</link>
+    <description>我读了两篇 一篇是netflix的 https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39 一篇如下：（从stackoverflow拷来的代码是有问题的） https://programming.guide/worlds-most-copied-so-snippet.html
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>stackoverflow</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-165</guid>
+    <title>http://gen.lib.rus.ec/ 真乃神器
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-165</link>
+    <description>http://gen.lib.rus.ec/ 真乃神器，谢谢。
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ebook</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-167</guid>
+    <title>how discord stores billions of messages
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-167</link>
+    <description>COLLECTIONProduct &amp;amp; FeaturesAnnouncements, new features, and general info about the Discord app.View CollectionCOLLECTIONCommunityStories, spotlights, and behind the scenes from the heart and soul of...
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>architecture</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-168</guid>
+    <title>软件架构编年史
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-168</link>
+    <description>软件架构编年史
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>architecture</category><category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-169</guid>
+    <title>麦肯锡不外流的简报格式与说明技巧
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-169</link>
+    <description>麦肯锡不外流的简报格式与说明技巧
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-170</guid>
+    <title>【李自然说】Grab &amp; Gojek，解密不为人知的百亿美金公司
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-170</link>
+    <description>https://www.youtube.com/watch?v=5ur-4C8SWGo&amp;t=256s
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-171</guid>
+    <title>插入一下分享个资源，技术面试手册
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-171</link>
+    <description>插入一下分享个资源，技术面试手册：https://yangshun.github.io/tech-interview-handbook/introduction
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>growth</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-172</guid>
+    <title>我家 Android 初养成 - DIYgod
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-172</link>
+    <description>最近把用了两年的 iPhone X 换成了 Redmi K20 Pro，体验一下 Android 自由香甜的空气 解锁 Bootloader 小米手机出厂都是锁 Bootloader 的，需要到官网下载解锁工具解锁刷机、ROOT 都需要解锁 Bootloader…
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ios</category><category>android</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-173</guid>
+    <title>为什么下面程序递归计算斐波那契数列java比c++要快
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-173</link>
+    <description>前面已有的回答一个都没答到点上啊。（就跟其他答主提到的一样，题主的电脑似乎有点慢…）其实这个例子反映出来的跟Java与C++语言上的差异没有任何关系，只是反映出了在这个特定例子上某个编译器（及JIT编译器）的优化的差异。本文后面用到的编译器生成的代码的样子我都记录下来放在这个传送门了
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category><category>cpp</category><category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-174</guid>
+    <title>Best 12 tools to create amazing screenshots for your mobile apps (2018)
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-174</link>
+    <description>Save time and increase your apps conversion rate
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-175</guid>
+    <title>RTFM https://www.kernel.org/doc/
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-175</link>
+    <description>RTFM https://www.kernel.org/doc/
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-176</guid>
+    <title>Google 創辦人辭職 — 科技業呼叫強力領袖
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-176</link>
+    <description>Google 創辦人 Larry Page 與 Sergey Brin 宣布離職。兩人的歷程對應了網路充滿理想性的黃金時期，而兩人的離開預言了網路將進入動盪的時代。
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-177</guid>
+    <title>A visual guide on troubleshooting Kubernetes deployments
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-177</link>
+    <description>Last updated in May 2022TL;DR: here&#39;s a diagram to help you debug your deployments in Kubernetes (and you can download it in the PDF version and PNG).This diagram is also translated into the following...
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-178</guid>
+    <title>StackShare 有API 了 https://stackshare.io/api
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-178</link>
+    <description>StackShare 有API 了 https://stackshare.io/api
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-179</guid>
+    <title>卡内基梅隆的数据系统课程又更新了
+https://15721.courses.cs.cmu.edu/spring2019/
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-179</link>
+    <description>卡内基梅隆的数据系统 课程又更新了。讲师Andy简直是一个世界数据库百科全书。PPT也生动，视频在Youtube上面有。如果是想深入了解数据库的朋友可以看看
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-180</guid>
+    <title>数据压缩。无损和有损算法的区别
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-180</link>
+    <description>数据压缩。无损和有损算法的区别
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-182</guid>
+    <title>一套完整的学习手册帮助自己准备 Google 的面试
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-182</link>
+    <description>[译] Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试 https://github.com/xitu/google-interview-university/blob/zh-hans/translations/README-cn.md
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>google</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-183</guid>
+    <title>每个程序员都应该知道的延迟数据
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-183</link>
+    <description>https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html 每个程序员都应该知道的延迟数据，硬盘的一次访问现在只需要3ms了，此外网络的速度也越来越快
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-133</guid>
+    <title>https://golang.cafe/ 给准备肉翻的你们来点动力
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-133</link>
+    <description>https://golang.cafe/ 给准备肉翻的你们来点动力
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-134</guid>
+    <title>无论聊什么，原则如图示……提倡Great Mind，不要Small Mind
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-134</link>
+    <description>无论聊什么，原则如图示……提倡Great Mind，不要Small Mind
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-135</guid>
+    <title>我来泄露一下：Google评分卡
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-135</link>
+    <description>我来泄露一下：Google评分卡
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-136</guid>
+    <title>创业可以先搞搞比如这种只需要一个人就能做起来的
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-136</link>
+    <description>创业可以先搞搞比如这种只需要一个人就能做起来的 https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-137</guid>
+    <title>Opinions vary as to the scope of software architectures
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-137</link>
+    <description>Opinions vary as to the scope of software architectures https://en.m.wikipedia.org/wiki/Software_architecture
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-138</guid>
+    <title>对于想学习Java的同学，分享一个脑图
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-138</link>
+    <description>对于想学习Java的同学，分享一个脑图
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-139</guid>
+    <title>有兴趣的，可以听听这个了解一下ktor
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-139</link>
+    <description>有兴趣的，可以听听这个了解一下ktor https://overcast.fm/+H2zdTZPSo
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-140</guid>
+    <title>Why Reddit switched to Python (2005)
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-140</link>
+    <description>Why Reddit switched to Python (2005) | Hacker News
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-141</guid>
+    <title>想起了一篇文章，叫做 Why Worse Is Better
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-141</link>
+    <description>想起了一篇文章，叫做 Why Worse Is Better
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-143</guid>
+    <title>看看这个 https://youtu.be/J49el9Fl8lM
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-143</link>
+    <description>看看这个 https://youtu.be/J49el9Fl8lM
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-144</guid>
+    <title>passport power rank
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-144</link>
+    <description>passport power rank https://www.passportindex.org/byRank.php
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-145</guid>
+    <title>Git merge 
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-145</link>
+    <description>Git merge 
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-146</guid>
+    <title>分享个 Notion Page：你买的最值的东西
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-146</link>
+    <description>分享个 Notion Page：https://www.notion.so/cnotion/Notion-bf61087195004806b34ef5d1d7bc1d23
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-148</guid>
+    <title>Google SRE 新书预览
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-148</link>
+    <description>Google SRE 新书预览
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-150</guid>
+    <title>Join ebooksharing on Keybase
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-150</link>
+    <description>What are Keybase teams?  A Keybase team is a group of people who can communicate with end-to-end cryptography. This means the team&#39;s chats and files cannot be read by anyone outside the team, not even someone...
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-151</guid>
+    <title>But what is the Fourier Transform?  A visual introduction.
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-151</link>
+    <description>An animated introduction to the Fourier Transform. Help fund future projects: https://www.patreon.com/3blue1brown An equally valuable form of support is to simply share some of the videos. Special thanks to these supporters: http://3b1b.co/fourier-thanks Learn more about Janestreet: https://janestreet.com/3b1b  Follow-on video about the uncertainty principle: https://youtu.be/MBnnXbOM5S4  Interactive made by a viewer inspired by this video: https://prajwalsouza.github.io/Experiments/Fourier-Transform-Visualization.html  Also, take a look at this Jupyter notebook implementing this idea in a way you can play with: https://github.com/thatSaneKid/fourier/blob/master/Fourier%20Transform%20-%20A%20Visual%20Introduction.ipynb  ------------------ Animations largely made using manim, a scrappy open-source python library.  https://github.com/3b1b/manim  If you want to check it out, I feel compelled to warn you that it&#39;s not the most well-documented tool, and has many other quirks you might expect in a library someone wrote with only their own use in mind.  Music by Vincent Rubinetti. Download the music on Bandcamp: https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown  Stream the music on Spotify: https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u  If you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then &quot;add subtitles/cc&quot;.  I really appreciate those who do this, as it helps make the lessons accessible to more people. ------------------  3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe, and click the bell to receive notifications (if you&#39;re into that).  If you are new to this channel and want to see more, a good place to start is this playlist: http://3b1b.co/recommended  Various social media stuffs: Website: https://www.3blue1brown.com Twitter: https://twitter.com/3Blue1Brown Patreon: https://patreon.com/3blue1brown Facebook: https://www.facebook.com/3blue1brown Reddit: https://www.reddit.com/r/3Blue1Brown
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-152</guid>
+    <title>MIT RES.6.007 Signals and Systems, 19870
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-152</link>
+    <description>Signals and Systems was developed in 1987 as a distance-education course for engineers.  An introduction to analog and digital signal processing, including discrete- and continuous-time signals, linear time-invariant systems, feedback, and data processing.
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-153</guid>
+    <title>https://overcast.fm/+E6UDpbXuA
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-153</link>
+    <description>https://overcast.fm/+E6UDpbXuA
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-154</guid>
+    <title>Abdullah (ARC) (@arc4g) / Twitter
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-154</link>
+    <description>artist, founder of https://t.co/IAgsVNcmdQ ♿ #800x80
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-155</guid>
+    <title>Scuba: Diving into Data at Facebook
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-155</link>
+    <description>Hi all This is my first-time share something in this channel. recently I was grinding a database design paper announced from facebook named scuba. https://research.fb.com/publications/scuba-diving-into-data-at-facebook/ The paper was published for quite a long time. But the memory data storage partition and data aggregation design really hole my eye on it. Besides database design, we can also learn a lot about database benchmark. last, hope you have a great gain from the paper.
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-156</guid>
+    <title>有一个chrome应用叫stumble upon
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-156</link>
+    <description>1. 有一个chrome应用叫stumble upon，装上以后，它会给你随机选择一些高质量网站，可能是你从来没有见过的东西。 2. 你可以把维基百科（Wikipedia）设成自己的默认页，并且选择“随机浏览”模式（random wiki），这样每次打开浏览器就可以随机弹出一个wiki页面。 3. 你可以去wolfram alpha上面点“给我惊喜”（surprise me），它会弹出一些有趣的知识。 4. 你可以装一个应用叫“一亿本书”（100 million books，在Chrome里面安装），它会随机推荐一些书，直接链接到亚马逊书店，你可以看评论，非常有趣。
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-157</guid>
+    <title>chrome推荐这个插件：the-great-suspender
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-157</link>
+    <description>chrome推荐这个插件：https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg/
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>chrome</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-158</guid>
+    <title>版本管理工具历史
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-158</link>
+    <description>版本管理工具历史
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-03-132</guid>
+    <title>PostgreSQL Connection Pooling: Part 1 – Pros and Cons
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-03-132</link>
+    <description>A long time ago, in a galaxy far far away, ‘threads’ were a programming novelty rarely used and seldom trusted. In that environment, the first PostgreSQL developers decided forking a process for each...
+</description>
+    <pubDate>Tue, 03 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>postgresql</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-117</guid>
+    <title>史上最全！计算机科学领域顶会最佳论文大合集
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-117</link>
+    <description>涵盖人工智能、自然语言处理、人机交互、计算机视觉、软件工程、机器学习、数据挖掘、操作系统等方向。
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>paper</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-118</guid>
+    <title>PostgreSQL和MySQL-阿里云开发者社区
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-118</link>
+    <description>翻译来源：https://www.2ndquadrant.com/en/postgresql/postgresql-vs-mysql/    PostgreSQL和MySQL 之间有着根本的区别。在评估两个系统之间的差异和折衷之后，必须做出明智的决定。 我们已经提供了 PostgreSQL和MySQL之间最常被评估的特性和功能的相似之处和不同 之处：    开源 酸顺应性 SQL合规性 复制 性能 安全 主机...
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>mysql</category><category>postgresql</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-119</guid>
+    <title>Designing Distributed Systems
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-119</link>
+    <description>Distributed systems enable different areas of a business to build specific applications to support their needs and drive insight and innovation. While great for the business, this new normal can re...
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-120</guid>
+    <title>Jordan Walke - React to the Future
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-120</link>
+    <description>ReasonConf US 2019, Chicago, 10/08/2019  Twitter: https://twitter.com/reasonconf Website: https://reason-conf.com
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>web</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-121</guid>
+    <title>ChinaIPWhiteListPac: PAC script of China main land IP list
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-121</link>
+    <description>PAC script of China main land IP list. Contribute to sodapanda/ChinaIPWhiteListPac development by creating an account on GitHub.
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-122</guid>
+    <title>推荐一个免费（不开源）的Sequence Graph 工具
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-122</link>
+    <description>推荐一个免费（不开源）的Sequence Graph 工具，刚刚一个月内本厂所有Admin 都学会了 https://sequencediagram.org/
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-123</guid>
+    <title>给大家推荐一个 macOS 图床客户端 app 
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-123</link>
+    <description>给大家推荐一个 macOS 图床客户端 app 
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>mac</category><category>app</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-124</guid>
+    <title>Learning How to Learn: Powerful mental tools to help you master tough subjects
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-124</link>
+    <description>Offered by Deep Teaching Solutions. This course gives ... Enroll for free.
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-125</guid>
+    <title>Learning How to Learn 的课程笔记
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-125</link>
+    <description>这是 UCSD 开设在 Coursera 上的课程 Learning How to Learn 的课程笔记。这门课程主要基于神经科学和认知心理学的一些研究成果讲述高效学习的理论和技巧，涉及了大脑的记忆机制、拖延的成因和应对方式，以及许多关于学习抽象复杂知识的小技巧。由于时间有限，我只看了视频和通过了所有的 Quiz，Optional Assignment...
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-126</guid>
+    <title>什么样的人会被谣言操纵？也许是每个人
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-126</link>
+    <description>也许最常见的误解是虚假信息仅仅是简单的错误信息。如果真是如此的话，平台可以简单地给信息添加“真”和“假”标签，这是一种经常被提出来的策略。但虚假信息往往将真实信息与虚假信息层层叠加在一起——一个准确的事实被放在了一个误导人的语境下，一张真实的照片故意被贴错了标签。关键不是要确定一个特定的帖子或推特的真实性，而是要了解它是如何被放置在一个更大型的虚假信息传播活动之中的。
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-127</guid>
+    <title>有一些加密算法的在线演示网站，不错，分享给大家
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-127</link>
+    <description>问答中 https://www.reddit.com/r/crypto/comments/e4amvt/how_useful_is_cryptool_2_for_learning_are_there/ 有一些加密算法的在线演示网站，不错，分享给大家
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-128</guid>
+    <title>写了一个 telegram bot 模板
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-128</link>
+    <description>写了一个 telegram bot 模板，可以简单配置运行一个bot，可以图灵api集成： https://github.com/0RaymondJiang0/tonycat
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-129</guid>
+    <title>微软出的免费书: Designing Distributed Systems
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-129</link>
+    <description>微软出的免费书: Designing Distributed Systems
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-130</guid>
+    <title>The Modern JavaScript Tutorial
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-130</link>
+    <description>Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-131</guid>
+    <title>Algorithms Behind Modern Storage Systems
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-131</link>
+    <description>AlgorithmsBehind Modern Storage Systems
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-104</guid>
+    <title>3b1b 的视频也不错: Essence of linear algebra
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-104</link>
+    <description>3b1b 的视频也不错 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-105</guid>
+    <title>An Overview of Cryptography
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-105</link>
+    <description>An Overview of Cryptography
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-106</guid>
+    <title>线性代数，推荐任广千的《线性代数的几何意义》
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-106</link>
+    <description>线性代数，推荐任广千的《线性代数的几何意义》，让你明白矩阵乘法为什么那样计算，本质是什么。什么是矩阵分解，更深入理解线性代数。
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-107</guid>
+    <title>工程数学 - YouTube
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-107</link>
+    <description>工程数学 - YouTube
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-110</guid>
+    <title>上一个Python的 https://realpython.com/
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-110</link>
+    <description>上一个Python的 https://realpython.com/
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-111</guid>
+    <title>Gilbert Strang: Singular Value Decomposition
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-111</link>
+    <description>Full episode with Gilbert Strang (Nov 2019): https://www.youtube.com/watch?v=lEZPfmGCEk0
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-112</guid>
+    <title>https://fuchsia.googlesource.com/fuchsia/+/HEAD/zircon/system/ulib/fit
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-112</link>
+    <description>https://fuchsia.googlesource.com/fuchsia/+/HEAD/zircon/system/ulib/fit
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-113</guid>
+    <title>柯克霍夫原則 - 维基百科，自由的百科全书
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-113</link>
+    <description>密碼學上的柯克霍夫原則（Kerckhoffs&#39;s principle，也稱為柯克霍夫假說、公理、或定律）係由奧古斯特·柯克霍夫在19世紀提出：即使密碼系統的任何細節已為人悉知，只要密匙（key，又稱金鑰或密鑰）未洩漏，它也應是安全的。 資訊理論的發明者克勞德·夏農則改成說：「敵人瞭解系統」，這樣的說法則稱為夏農箴言。 它和傳統上使用隱密的設計、實作、或其他等等來提供加密的隱晦式安全想法相對。...
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-114</guid>
+    <title>Refactoring and Design Patterns
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-114</link>
+    <description>Refactoring is a controllable process of improving code without creating new functionality. Design Patterns are typical solutions to the commonly occurring problems in software design.
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-115</guid>
+    <title>MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning,
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-115</link>
+    <description>MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning,
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-116</guid>
+    <title>这是Gilbert Strang教授的线性代数教材
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-116</link>
+    <description>这是Gilbert Strang教授的线性代数教材。学习网上的MIT18.06课程时应配合本教材学习。 上面的网址是原版的介绍，下面的网址是清华大学出版社影印版的介绍。截至目前为止并没有出版的中文版。
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category><category>math</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-100</guid>
+    <title>Victor Gevers
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-100</link>
+    <description>We could build a &quot;dictionary&quot; of 829 keywords (combinations) based on the intercepted WeChat messages which were written in English. I was a bit surprised to see my full name &quot;Victor Gevers&quot; in this generated English list. 维克多 葛弗斯 was not in the Chinese keyword list.
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-101</guid>
+    <title>gitbatch Managing multiple git repositories is easier than ever.
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-101</link>
+    <description>https://github.com/isacikgoz/gitbatch Managing multiple git repositories is easier than ever.
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-102</guid>
+    <title>MIT公开课的youtube频道
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-102</link>
+    <description>MIT公开课的youtube频道。大家搜18.01(微积分)，18.06（线性代数），6.006，6.046（算法导论）看了肯定有收获。
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-103</guid>
+    <title>MIT微积分用的这本教材《Calculus With Analytic Geometry 2nd 》
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-103</link>
+    <description>MIT微积分用的这本教材《Calculus With Analytic Geometry 2nd 》： https://kaoyan.dgclouds.net/index.php/s/2XJ87RBGBwkKQNi
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-97</guid>
+    <title>编程珠玑番外篇-O 中间语言和虚拟机漫谈
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-97</link>
+    <description>编程珠玑番外篇-O 中间语言和虚拟机漫谈
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-98</guid>
+    <title>Distributed systems for fun and profit
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-98</link>
+    <description>Distributed systems for fun and profit
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-99</guid>
+    <title>高校生使用教育网的一点姿势
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-99</link>
+    <description>高校生使用教育网的一点姿势
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-79</guid>
+    <title>hacker news &amp; devurls.com
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-79</link>
+    <description>hacker news &amp; devurls.com
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-80</guid>
+    <title>The best tech talks for developers
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-80</link>
+    <description>The best tech talks for developers
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category><category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-81</guid>
+    <title>pinboard.in
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-81</link>
+    <description>Pinboard
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-82</guid>
+    <title>言论自由
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-82</link>
+    <description>言论自由
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>growth</category><category>health</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-83</guid>
+    <title>推荐 Push To Kindle 插件
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-83</link>
+    <description>推荐 Push To Kindle 插件  https://chrome.google.com/webstore/detail/push-to-kindle/pnaiinchjaonopoejhknmgjingcnaloc?hl=en
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-85</guid>
+    <title>Netflix的技术博客
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-85</link>
+    <description>Read writing from Netflix Technology Blog on Medium. Learn more about how Netflix designs, builds, and operates our systems and engineering organizations.
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-86</guid>
+    <title>PingCAP 博客
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-86</link>
+    <description>产品技术解读TiKV 新架构：Partitioned Raft KV 原理解析在上一篇文章中，我们介绍了 Partitioned Raft KV 这一新实验特性带来的性能和可伸缩性大幅提升。本文我们将为大家介绍这一功能的实现原理。案例实践基于 TiDB + Flink...
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-87</guid>
+    <title>A Brief History of Scaling LinkedIn
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-87</link>
+    <description>LinkedIn started in 2003 with the goal of connecting to your network for better job opportunities. It had only 2,700 members the first week. Fast forward many years, and LinkedIn’s product portfolio, member base, and server load has grown tremendously. Today, LinkedIn operates globally with more tha
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-88</guid>
+    <title>API设计和文档相关的工作流
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-88</link>
+    <description>https://apisyouwonthate.com/blog/  API设计和文档相关的工作流
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-89</guid>
+    <title>分页设计最佳实践
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-89</link>
+    <description>https://developer.github.com/v3/#pagination  github 的分页设计用到了 hypermedia 
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-91</guid>
+    <title>实时数据分页一般用cursor, page_num 不大适用
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-91</link>
+    <description>https://www.sitepoint.com/paginating-real-time-data-cursor-based-pagination/  实时数据分页一般用cursor, page_num 不大适用
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-92</guid>
+    <title>Working with timelines
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-92</link>
+    <description>Working with timelines | Docs | Twitter Developer Platform
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-93</guid>
+    <title>之前有人推荐devurls，其实它还有几个姐妹网站如下
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-93</link>
+    <description>之前有人推荐devurls，其实它还有几个姐妹网站如下
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-94</guid>
+    <title>Job negotiation for programmers: the basic principles
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-94</link>
+    <description>You need to negotiate at a new job: for your salary, or benefits, or my personal favorite, a shorter workweek. You’re not sure what to do, or how to approach it, or what to say when the company says “how much do you want?” or “here’s our offer—what do you say?” Here’s the thing: that final conversation about salary might be the most nerve-wracking part, but the negotiation process starts much much earlier. Which means you can enter that final conversation having positioned yourself for success—and feeling less stressed about it too. The way you can do that is following certain basic principles, which I’ll be covering in this article. I’m going to be focusing on salary negotiation as an example, but the same principles will apply when negotiating for a shorter workweek. In particular, I’ll be talking about: An example from early in my career when I negotiated very very badly. The right way to negotiate, based on four principles: Employment is a negotiated relationship. Knowledge is power. Negotiate from a position of strength. Use the right tactics.
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>growth</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-95</guid>
+    <title>算法导论配合MIT公开课的视频服用6.006和6.046
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-95</link>
+    <description>算法导论配合MIT公开课的视频服用6.006和6.046
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category><category>algorithm</category><category>bilibili</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-96</guid>
+    <title>BPF Performance Tools
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-96</link>
+    <description>BPF and related observability tools give software professionals unprecedented visibility into software, helping them analyze operating system and application performance, troubleshoot code, and strengthen security. BPF Performance Tools: Linux System and Application Observability is the industry&#39;s most comprehensive guide to using these tools for observability.
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-65</guid>
+    <title>这篇文章里提到的书都是很不错的，可以看看
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-65</link>
+    <description>这篇文章里提到的书都是很不错的，可以看看
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-66</guid>
+    <title>使用UUID性能问题值得注意
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-66</link>
+    <description>使用UUID性能问题值得注意
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-67</guid>
+    <title>通过阅读提高英语，英文电子书网站分享。
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-67</link>
+    <description>通过阅读提高英语，英文电子书网站分享。
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>english</category><category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-68</guid>
+    <title>Good engineers can become good leaders
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-68</link>
+    <description>Foursquare outlines the challenges in making the role of an engineering manager coherent and equally accessible across various teams and potential leaders.
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-69</guid>
+    <title>通过阅读提高英语，英文电子书网站分享。
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-69</link>
+    <description>通过阅读提高英语，英文电子书网站分享。
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>english</category><category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-70</guid>
+    <title>《重构》JavaScript 实践
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-70</link>
+    <description>《重构》JavaScript 实践
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-71</guid>
+    <title>Video unavailable
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-71</link>
+    <description>Video unavailable
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-72</guid>
+    <title>总结一下语言学习
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-72</link>
+    <description>总结一下: 1、语言学习的过程需要明确已有输入和目标输出，以及使用正确的输入和输出
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-73</guid>
+    <title>一组与Database存储相关的文章
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-73</link>
+    <description>一组与Database存储相关的文章
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-74</guid>
+    <title>database internals
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-74</link>
+    <description>推荐一本书 《database internals》数据库内部剖析，这本书和《Designing Data-Intensive Application》 比较类似，不过它围绕的是如果构建一个分布式数据库，各种存储引擎比较，分布式系统的问题、一致性模型、选举和错误识别、如果选择共识算法。作者是Cassandra的作者
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-75</guid>
+    <title>RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-75</link>
+    <description>RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。RSSHub 借助于开源社区的力量快速发展中，目前已适配数百家网站的上千项内容https://docs.rsshub.app/
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-76</guid>
+    <title>Check out NodeRSSBot
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-76</link>
+    <description>Check out NodeRSSBot: https://t.me/NodeRSS_bot
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-77</guid>
+    <title>gnu parallel tutorial
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-77</link>
+    <description>最近用eci跑workflow，重新学习了下 gnu parallel，发现官方的tutorial写的实在太好了，分享下
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-59</guid>
+    <title>这个博客分享学习英语的经验和方法，听说读写都有
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-59</link>
+    <description>这个博客分享学习英语的经验和方法，听说读写都有。https://engfluent.com/blog/
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-60</guid>
+    <title>这是他的英语学习 YouTube 频道
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-60</link>
+    <description>这是他的 YouTube 频道 https://youtu.be/EK-S1dj6QK8
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-61</guid>
+    <title>这篇K8s网丢包调查的文章真是篇Debug雄文，相当厉害
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-61</link>
+    <description>这篇K8s网丢包调查的文章真是篇Debug雄文，相当厉害，推荐给大家，这篇文章有很多高级技术，我在这里导读一下（从这篇文章你会收获如下的东西）
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-62</guid>
+    <title>动态追踪技术漫谈(全)
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-62</link>
+    <description>https://www.ruilog.com/notebook/view/52c36fee92e8.html   章亦春的这篇也很不错
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-63</guid>
+    <title>Coach Shane 的 每日听写
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-63</link>
+    <description>分享个自己逢人必推荐的英语资料😂  Coach Shane 的 每日听写，每段视频有一段 很短的听写，然后在下一个视频进行讲解，听写做的咋样不重要，重要的是听讲解，Shane 会详细讲解听写材料的发音（变音、连音、略读）、表达词汇短语。我自己花了 一个半月听完了 150 篇，雅思听力就语速而言基本没啥问题了。。。非常推荐
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-64</guid>
+    <title>「Java学习+面试指南」
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-64</link>
+    <description>「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ - GitHub - Snailclimb/JavaGuide: 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-25-55</guid>
+    <title>Learn English with EnglishClass101.com
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-25-55</link>
+    <description>Learn English with EnglishClass101.com
+</description>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-25-56</guid>
+    <title>Rachel&#39;s English
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-25-56</link>
+    <description>Rachel&#39;s English is your online American English pronunciation resource.  All videos have closed captioning to help non-native speakers understand.  New videos added every week!
+</description>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-25-57</guid>
+    <title>这可能是最全的redis分布式锁介绍
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-25-57</link>
+    <description>最近几天整理的一篇博客，介绍了分布式锁的实现和DDIA作者和Redis作者对于Reids
+</description>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>distributed</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-25-58</guid>
+    <title>Async IO in Python: A Complete Walkthrough – Real Python
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-25-58</link>
+    <description>This tutorial will give you a firm grasp of Python’s approach to async IO, which is a concurrent programming design that has received dedicated support in Python, evolving rapidly from Python 3.4 through 3.7 (and probably beyond).
+</description>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-41</guid>
+    <title>https://github.com/emilybache/GildedRose-Refactoring-Kata
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-41</link>
+    <description>https://github.com/emilybache/GildedRose-Refactoring-Kata
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-42</guid>
+    <title>The Coding Dojo Handbook
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-42</link>
+    <description>开始练习kata，emily 是个敏捷教练，提供了不少经典习题可以做，推荐出来~ 配套书是：The Coding Dojo Handbook，也是她写的
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>javascript</category><category>ebook</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-43</guid>
+    <title>如何堵住喷子的嘴
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-43</link>
+    <description>如何堵住喷子的嘴
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>todo</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-44</guid>
+    <title>Learning English for China on Apple Podcasts
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-44</link>
+    <description>English for China on Apple Podcasts
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-45</guid>
+    <title>Radio Hour on Apple Podcasts
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-45</link>
+    <description>Radio Hour on Apple Podcasts
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-46</guid>
+    <title>How I Built This with Guy Raz on Apple Podcasts
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-46</link>
+    <description>How I Built This with Guy Raz on Apple Podcasts
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-47</guid>
+    <title>Science, Quickly on Apple Podcasts
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-47</link>
+    <description>Science, Quickly on Apple Podcasts
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-48</guid>
+    <title>等有空了，欢迎大家看我的youtube英语学习节目
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-48</link>
+    <description>等有空了，欢迎大家看我的youtube英语学习节目 https://www.youtube.com/watch?v=_l8Rn6tPs6o&amp;list=PLNEGQlCPzlkJVzbjuQOu0CZGKyn29CnT3
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-49</guid>
+    <title>非常不错的视频技术教程
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-49</link>
+    <description>非常不错的视频技术教程
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-50</guid>
+    <title>MIT 6.172 Performance Engineering of Software Systems,
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-50</link>
+    <description>MIT 6.172 Performance Engineering of Software Systems,
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-51</guid>
+    <title>分享一个算法的，这个老外讲的leetcode比较好，还可以练习英语。
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-51</link>
+    <description>分享一个算法的，这个老外讲的leetcode比较好，还可以练习英语。 https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category><category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-52</guid>
+    <title>English Language Advanced
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-52</link>
+    <description>English Language Advanced
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-54</guid>
+    <title>k8s co-founder Brendan Burns 的经典书籍——Design Distributed System
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-54</link>
+    <description>k8s co-founder Brendan Burns 的经典书籍——Design Distributed System
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>distributed</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-15</guid>
+    <title>如果你擅长搜索，你能找到一切
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-15</link>
+    <description>如果有更多的搜索需求，可以看一下：https://www.iyouport.org/%e5%a6%82%e6%9e%9c%e4%bd%a0%e6%93%85%e9%95%bf%e6%90%9c%e7%b4%a2%ef%bc%8c%e4%bd%a0%e8%83%bd%e6%89%be%e5%88%b0%e4%b8%80%e5%88%87%ef%bc%9a%e6%b2%a1%e6%9c%89%e8%b0%b7%e6%ad%8c%e7%9a%84%e5%bc%ba%e5%a4%a7/ 【需要翻墙】
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-17</guid>
+    <title>5G NR_The Next Generation Wireless Access Technology
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-17</link>
+    <description>对 5G 技术感兴趣且有一定通信知识基础的可以看看这本书哦。
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-19</guid>
+    <title>All Algorithms implemented in Python
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-19</link>
+    <description>All algorithms implemented in Python - for education  Implementations are for learning purposes only. They may be less efficient than the implementations in the...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-20</guid>
+    <title>Why is 2 * (i * i) faster than 2 * i * i in Java?
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-20</link>
+    <description>The following Java program takes on average between 0.50 secs and 0.55 secs to run
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-21</guid>
+    <title>Using Go instead of bash for scripts
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-21</link>
+    <description>Using-Go-instead-of-bash-for-scripts https://presstige.io/p/Using-Go-instead-of-bash-for-scripts-6b51885c1f6940aeb40476000d0eb0fc
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-22</guid>
+    <title>no new variables on left side of `:=`
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-22</link>
+    <description>What&#39;s happening here?   package main  import &quot;fmt&quot;  func main() {      myArray  :=[...]int{12,14,26}  ;          fmt.Println(myArray)      myArray  :=[...]int{11,12,14} //error pointing on this li...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-23</guid>
+    <title>Go compiler internals: adding a new statement to Go - Part 1
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-23</link>
+    <description>Go compiler internals: adding a new statement to Go - Part 1 - Eli Bendersky&#39;s website
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-24</guid>
+    <title>Go compiler internals: adding a new statement to Go - Part 2
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-24</link>
+    <description>Go compiler internals: adding a new statement to Go - Part 2 - Eli Bendersky&#39;s website
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-25</guid>
+    <title>Inside of Kubernetes Controller
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-25</link>
+    <description>Inside ofKubernetes Controller2019/09/27Kubernetes Meetup Tokyo #23 Operator Deep Dive View Slide   Who am IName: Kenta Iso(@go_vargo)Job: Infrastructure EngineerKubernetes LoverMission: Make Kubernetes...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-26</guid>
+    <title>How LinkedIn customizes Apache Kafka for 7 trillion messages per day
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-26</link>
+    <description>October 8, 2019     Co-authors: Jon Lee and Wesley Wu Apache Kafka is a core part of our infrastructure at LinkedIn. It was originally developed in-house as a stream processing platform and was subsequently...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kafka</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-27</guid>
+    <title>The Uber Go Style Guide
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-27</link>
+    <description>Uber Go Style Guide  Introduction Guidelines  Pointers to Interfaces Verify Interface Compliance Receivers and Interfaces Zero-value Mutexes are Valid Copy Slices and Maps at Boundaries Defer to Clean Up...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-28</guid>
+    <title>Writing an HTTP server in Rust (Part I)
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-28</link>
+    <description>Now available in Chinese (yes, you read that right)So… You want to write an HTTP server. Well, you’re in luck, The Internet Engineering Task Force (IETF) is here to help us. Whenever they’re not fighting with...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>rust</category><category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-29</guid>
+    <title>11 Of The Best Engineering Blogs To Inspire You
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-29</link>
+    <description>Have you ever wanted to read about what goes on in the backend of Pinterest, Google, Uber and your other favorite tech companies?  A great thing about the modern engineering world is that many companies are...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-30</guid>
+    <title>Go: Understand the Design of Sync.Pool
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-30</link>
+    <description>Illustration created for “A Journey With Go”, made from the original Go Gopher, created by Renee French.ℹ️ This article is based on Go 1.12 and 1.13 and explains the evolution of sync/pool.go between those...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-31</guid>
+    <title>How Netflix microservices tackle dataset pub-sub
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-31</link>
+    <description>How Netflix microservices tackle dataset pub-sub
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>microservice</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-32</guid>
+    <title>How does MVCC (Multi-Version Concurrency Control) work - Vlad Mihalcea
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-32</link>
+    <description>Introduction In this article, I’m going to explain how the MVCC (Multi-Version Concurrency Control) mechanism works using PostgreSQL as a reference implementation. In Concurrency Control theory, there are two...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-33</guid>
+    <title>Functional Programming Java functional techniques
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-33</link>
+    <description>这两天翻了这本书，基于java讲FP的，把关键的概念讲的很清楚，很多动手的练习帮助理解，值得看看 https://www.amazon.com/Functional-Programming-Java-functional-techniques/dp/1617292737
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-34</guid>
+    <title>How do CPUs read machine code? — 6502 part 2
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-34</link>
+    <description>Schematics, datasheets, kits, and more at https://eater.net/6502
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-35</guid>
+    <title>O&#39;Reilly kubernetes Patterns
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-35</link>
+    <description>O&#39;Reilly kubernetes Patterns
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kubernetes</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-36</guid>
+    <title>Kubernetes Patterns&#39; e-book is available for #FREE
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-36</link>
+    <description>BIG NEWS: I&#39;m excited to announce the full copy (all 266 pages) of &#39;Kubernetes Patterns&#39; e-book is available for #FREE! In the spirit of #opensource, this is our (@ro14nd &amp; I) contrition to the @kubernetesio ecosystem. Thank you @RedHat making it happen❗️ https://t.co/NUQr41MS7F
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>kubernetes</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-37</guid>
+    <title>CppCon 2019: Chandler Carruth “There Are No Zero-cost Abstractions”
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-37</link>
+    <description>http://CppCon.org — Discussion &amp; Comments: https://www.reddit.com/r/cpp/ — Presentation Slides, PDFs, Source Code and other presenter materials are available at: https://github.com/CppCon/CppCon2019
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-38</guid>
+    <title>Kubernetes resources list
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-38</link>
+    <description>https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/htmlview
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-40</guid>
+    <title>我分享一下我英文查词的心得
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-40</link>
+    <description>我分享一下我英文查词的心得
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-10</guid>
+    <title>抽象：设计的艺术 S01E02 1080P 官方中字
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-10</link>
+    <description>抽象：设计的艺术 S01E02 1080P 官方中字
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>todo</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-11</guid>
+    <title>抽象：设计的艺术 S01E04 1080P 官方中字
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-11</link>
+    <description>抽象：设计的艺术 S01E04 1080P 官方中字
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>todo</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-12</guid>
+    <title>抽象：设计的艺术 S01E03 1080P 官方中字
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-12</link>
+    <description>抽象：设计的艺术 S01E03 1080P 官方中字
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>todo</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-13</guid>
+    <title>【入门级文章】 - htop explained
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-13</link>
+    <description>【入门级文章】这篇htop文章读完，你就知道怎么看linux系统的运行状况了
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-14</guid>
+    <title>【入门级文章】 - pure bible
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-14</link>
+    <description>【入门级文章】 关于POSIX的sh 和 Liunx的bash 的 pure bible
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-3</guid>
+    <title>用Rust的可以看一下这个
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-3</link>
+    <description>用Rust的可以看一下这个
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>rust</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-4</guid>
+    <title>程序员技术资源分享聊天群
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-4</link>
+    <description>程序员技术资源分享聊天群： 
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-6</guid>
+    <title>关于CPU的Cache 可以读读这篇文章
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-6</link>
+    <description>关于CPU的Cache 可以读读这篇文章，文章中的一些链接也不错
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-7</guid>
+    <title>Java Concurrency and Multithreading Tutorial
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-7</link>
+    <description>Java Concurrency and Multithreading Tutorial
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-8</guid>
+    <title>抽象：设计的艺术 S01E01 1080P 官方中字
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-8</link>
+    <description>抽象：设计的艺术 第一季 Abstract: The Art of Design S01
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>todo</category>
   </item>
 
     </channel>

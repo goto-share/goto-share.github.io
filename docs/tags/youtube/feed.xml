@@ -141,7 +141,7 @@
 </description>
     <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>youtube</category><category>ssd</category>
+    <category>youtube</category>
   </item>
 
   <item>
@@ -321,7 +321,7 @@
 </description>
     <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>youtube</category><category>microservices</category>
+    <category>youtube</category><category>microservice</category>
   </item>
 
   <item>
@@ -730,6 +730,438 @@
     <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-365</guid>
+    <title>How do computers read code?
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-365</link>
+    <description>When you first learned to write code, you probably realized that computers don&#39;t really have any common sense. You need to tell a computer exactly what you want. But do you know about all the work the computer does to understand what you mean?
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-369</guid>
+    <title>How to Speak
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-369</link>
+    <description>MIT How to Speak, IAP 2018 Instructor: Patrick Winston View the complete course: https://ocw.mit.edu/how_to_speak  Patrick Winston&#39;s How to Speak talk has been an MIT tradition for over 40 years. Offered every January, the talk is intended to improve your speaking ability in critical situations by teaching you a few heuristic rules.
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-347</guid>
+    <title>Learn Unreal Engine (with C++) - Full Course for Beginners
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-347</link>
+    <description>Learn Unreal Engine in this full tutorial using C++. In this beginner&#39;s course, you will how to create three full games with Unreal Engine and Blueprints.  🎥 Course from Awesome Tuts. Check out their YouTube channel: https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw 🔗 Learn more about game development here: https://www.awesometuts.com/ultimate-game-dev-academy?utm_medium=youtube&amp;utm_source=freecodecamp&amp;utm_campaign=unreal_tutorial  ⭐️Course Contents ⭐️ ⌨️(0:00:45) Battery Collector Game   💻Project Code: https://www.filepicker.io/api/file/NZVRzw8JTtWXHuGIJeCQ  ⌨️(1:16:10) Brick Breaker Game   💻Project Code: https://www.filepicker.io/api/file/MdZBi35CTwSV9gJT9zFi   💻Assets: https://www.filepicker.io/api/file/nrDnHoOuTWGbNkWJUtMz  ⌨️(2:39:52) Pacman   💻Project Code: https://www.filepicker.io/api/file/0D0tNZ6ERYagcNupZGbD   💻Assets: https://www.filepicker.io/api/file/uASaLcXOQR2uIJLqW4Mv  --  Learn to code for free and get a developer job: https://www.freecodecamp.org    Read hundreds of articles on programming: https://medium.freecodecamp.org
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-336</guid>
+    <title>Vol.108 怎样科学地放电影？
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-336</link>
+    <description>不同类型的电影放映机是怎么工作的？如何在全国 10771 家电影院放映电影？   ◆趣味科普 科技博主  ◆每周不定期更新  不要忘记订阅这个频道～
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-339</guid>
+    <title>这个演讲太强了，太好笑了，充满激情
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-339</link>
+    <description>这个演讲太强了，太好笑了，充满激情，如果我的学校里的老师也是这样，那该多好
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-345</guid>
+    <title>The incredible chemistry powering your smartphone
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-345</link>
+    <description>上 YouTube 观看“The incredible chemistry powering your smartphone | Cathy Mulzer”
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-20-306</guid>
+    <title>Scale By The Bay 2019: Norman Maurer, Netty 5: Lessons Learned
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-20-306</link>
+    <description>Netty is one of the most used network frameworks on the JVM (if not the most used) which provides its users not only with great flexibility but also with superb performance. While Netty 4.x was a great success and is used literally everywhere in production it became clear over the “years” that a few design choices that where made did produce various limitations. As work has started on Netty 5, it’s time to fix these limitations and incorporate all the feedback we received from the community and core maintainers. This talk will focus on multiple core changes that are scheduled for netty 5 by explaining what “real-world issues” these solve and how these changes will help to operate Netty in high-scale production environments. Also it will give a brief overview of the general planed timeline of Netty 5 and roadmap.
+</description>
+    <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-281</guid>
+    <title>Excel 技巧
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-281</link>
+    <description>https://www.youtube.com/watch?v=0nbkaYsR94c  Excel 技巧
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-291</guid>
+    <title>Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-291</link>
+    <description>&quot;Speaker: Raymond Hettinger  Distillation of knowledge gained from a decade of Python consulting, Python training, code reviews, and serving as a core developer.   Learn to avoid some of the hazards of the PEP 8 style guide and learn what really matters for creating beautiful intelligible code.    Slides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides&quot;
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-263</guid>
+    <title>讲 spotify 工程师文化，表示很受启发
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-263</link>
+    <description>讲 spotify 工程师文化，表示很受启发 source: https://blog.crisp.se/2014/03/27/henrikkniberg/spotify-engineering-culture-part-1
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-265</guid>
+    <title>Video unavailable
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-265</link>
+    <description>Video unavailable
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-234</guid>
+    <title>以后我演讲也要用 I have a dream... 的句式开场，
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-234</link>
+    <description>以后我演讲也要用 I have a dream... 的句式开场， 然后穿一件拉风的粉红色西装……
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-209</guid>
+    <title>AWS re:Invent 2019 - Keynote with Dr. Werner Vogels
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-209</link>
+    <description>Werner Vogels, CTO of Amazon.com, delivers his AWS re:Invent 2019 keynote. Watch as pulls back the covers to talk about the innovations behind AWS Nitro, Firecracker,  AWS Fargate, Amazon EBS and more. This year’s featured guests include Clare Liguori, Principal Software Engineer at AWS - who goes deep on AWS Fargate and how we’ve built this to give customers a truly unique customer experience – as well as Jeff Dowds, IT Executive at Vanguard, Sebastien de Halleux, COO of Saildrone and Dr. Martin Hofmann, Group CIO of Volkswagen automotive group.  In this keynote you’ll also hear more about the launch of the Amazon Builders’ Library: https://aws.amazon.com/builders-library/ And Werner’s video series, “Now Go Build”: https://aws.amazon.com/startups/NowGoBuild/  01:10:26 A special thanks for the satellite imagery provided by AWS customer Maxar: https://bit.ly/33VJG8i
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-211</guid>
+    <title>Distributed Systems in One Lesson by Tim Berglund
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-211</link>
+    <description>Normally simple tasks like running a program or storing and retrieving data become much more complicated when we start to do them on collections of computers, rather than single machines. Distributed systems has become a key architectural concern, and affects everything a program would normally do—giving us enormous power, but at the cost of increased complexity as well.
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-195</guid>
+    <title>Grokking the System Design Interview
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-195</link>
+    <description>Grokking the System Design Interview
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>interview</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-170</guid>
+    <title>【李自然说】Grab &amp; Gojek，解密不为人知的百亿美金公司
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-170</link>
+    <description>https://www.youtube.com/watch?v=5ur-4C8SWGo&amp;t=256s
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-143</guid>
+    <title>看看这个 https://youtu.be/J49el9Fl8lM
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-143</link>
+    <description>看看这个 https://youtu.be/J49el9Fl8lM
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-151</guid>
+    <title>But what is the Fourier Transform?  A visual introduction.
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-151</link>
+    <description>An animated introduction to the Fourier Transform. Help fund future projects: https://www.patreon.com/3blue1brown An equally valuable form of support is to simply share some of the videos. Special thanks to these supporters: http://3b1b.co/fourier-thanks Learn more about Janestreet: https://janestreet.com/3b1b  Follow-on video about the uncertainty principle: https://youtu.be/MBnnXbOM5S4  Interactive made by a viewer inspired by this video: https://prajwalsouza.github.io/Experiments/Fourier-Transform-Visualization.html  Also, take a look at this Jupyter notebook implementing this idea in a way you can play with: https://github.com/thatSaneKid/fourier/blob/master/Fourier%20Transform%20-%20A%20Visual%20Introduction.ipynb  ------------------ Animations largely made using manim, a scrappy open-source python library.  https://github.com/3b1b/manim  If you want to check it out, I feel compelled to warn you that it&#39;s not the most well-documented tool, and has many other quirks you might expect in a library someone wrote with only their own use in mind.  Music by Vincent Rubinetti. Download the music on Bandcamp: https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown  Stream the music on Spotify: https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u  If you want to contribute translated subtitles or to help review those that have already been made by others and need approval, you can click the gear icon in the video and go to subtitles/cc, then &quot;add subtitles/cc&quot;.  I really appreciate those who do this, as it helps make the lessons accessible to more people. ------------------  3blue1brown is a channel about animating math, in all senses of the word animate.  And you know the drill with YouTube, if you want to stay posted on new videos, subscribe, and click the bell to receive notifications (if you&#39;re into that).  If you are new to this channel and want to see more, a good place to start is this playlist: http://3b1b.co/recommended  Various social media stuffs: Website: https://www.3blue1brown.com Twitter: https://twitter.com/3Blue1Brown Patreon: https://patreon.com/3blue1brown Facebook: https://www.facebook.com/3blue1brown Reddit: https://www.reddit.com/r/3Blue1Brown
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-152</guid>
+    <title>MIT RES.6.007 Signals and Systems, 19870
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-152</link>
+    <description>Signals and Systems was developed in 1987 as a distance-education course for engineers.  An introduction to analog and digital signal processing, including discrete- and continuous-time signals, linear time-invariant systems, feedback, and data processing.
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-120</guid>
+    <title>Jordan Walke - React to the Future
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-120</link>
+    <description>ReasonConf US 2019, Chicago, 10/08/2019  Twitter: https://twitter.com/reasonconf Website: https://reason-conf.com
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>web</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-104</guid>
+    <title>3b1b 的视频也不错: Essence of linear algebra
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-104</link>
+    <description>3b1b 的视频也不错 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-107</guid>
+    <title>工程数学 - YouTube
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-107</link>
+    <description>工程数学 - YouTube
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-111</guid>
+    <title>Gilbert Strang: Singular Value Decomposition
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-111</link>
+    <description>Full episode with Gilbert Strang (Nov 2019): https://www.youtube.com/watch?v=lEZPfmGCEk0
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-115</guid>
+    <title>MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning,
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-115</link>
+    <description>MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning,
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-102</guid>
+    <title>MIT公开课的youtube频道
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-102</link>
+    <description>MIT公开课的youtube频道。大家搜18.01(微积分)，18.06（线性代数），6.006，6.046（算法导论）看了肯定有收获。
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-80</guid>
+    <title>The best tech talks for developers
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-80</link>
+    <description>The best tech talks for developers
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category><category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-60</guid>
+    <title>这是他的英语学习 YouTube 频道
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-60</link>
+    <description>这是他的 YouTube 频道 https://youtu.be/EK-S1dj6QK8
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-63</guid>
+    <title>Coach Shane 的 每日听写
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-63</link>
+    <description>分享个自己逢人必推荐的英语资料😂  Coach Shane 的 每日听写，每段视频有一段 很短的听写，然后在下一个视频进行讲解，听写做的咋样不重要，重要的是听讲解，Shane 会详细讲解听写材料的发音（变音、连音、略读）、表达词汇短语。我自己花了 一个半月听完了 150 篇，雅思听力就语速而言基本没啥问题了。。。非常推荐
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-25-55</guid>
+    <title>Learn English with EnglishClass101.com
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-25-55</link>
+    <description>Learn English with EnglishClass101.com
+</description>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-25-56</guid>
+    <title>Rachel&#39;s English
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-25-56</link>
+    <description>Rachel&#39;s English is your online American English pronunciation resource.  All videos have closed captioning to help non-native speakers understand.  New videos added every week!
+</description>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-48</guid>
+    <title>等有空了，欢迎大家看我的youtube英语学习节目
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-48</link>
+    <description>等有空了，欢迎大家看我的youtube英语学习节目 https://www.youtube.com/watch?v=_l8Rn6tPs6o&amp;list=PLNEGQlCPzlkJVzbjuQOu0CZGKyn29CnT3
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-50</guid>
+    <title>MIT 6.172 Performance Engineering of Software Systems,
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-50</link>
+    <description>MIT 6.172 Performance Engineering of Software Systems,
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-51</guid>
+    <title>分享一个算法的，这个老外讲的leetcode比较好，还可以练习英语。
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-51</link>
+    <description>分享一个算法的，这个老外讲的leetcode比较好，还可以练习英语。 https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>english</category><category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-34</guid>
+    <title>How do CPUs read machine code? — 6502 part 2
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-34</link>
+    <description>Schematics, datasheets, kits, and more at https://eater.net/6502
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-37</guid>
+    <title>CppCon 2019: Chandler Carruth “There Are No Zero-cost Abstractions”
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-37</link>
+    <description>http://CppCon.org — Discussion &amp; Comments: https://www.reddit.com/r/cpp/ — Presentation Slides, PDFs, Source Code and other presenter materials are available at: https://github.com/CppCon/CppCon2019
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-3</guid>
+    <title>用Rust的可以看一下这个
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-3</link>
+    <description>用Rust的可以看一下这个
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>rust</category>
   </item>
 
     </channel>

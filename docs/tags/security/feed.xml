@@ -192,5 +192,77 @@
     <category>github</category><category>rust</category><category>security</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-279</guid>
+    <title>分享一个网站: How HTTPS Works
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-279</link>
+    <description>分享一个网站: How HTTPS works
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>http</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-239</guid>
+    <title>JWT, JWS, JWE, JWK, and JWA。
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-239</link>
+    <description>JWT, JWS, JWE, JWK, and JWA。
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>web</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-204</guid>
+    <title>隐私/安全 全套软件
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-204</link>
+    <description>隐私/安全 全套软件 https://prism-break.org/
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-127</guid>
+    <title>有一些加密算法的在线演示网站，不错，分享给大家
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-127</link>
+    <description>问答中 https://www.reddit.com/r/crypto/comments/e4amvt/how_useful_is_cryptool_2_for_learning_are_there/ 有一些加密算法的在线演示网站，不错，分享给大家
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-105</guid>
+    <title>An Overview of Cryptography
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-105</link>
+    <description>An Overview of Cryptography
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-113</guid>
+    <title>柯克霍夫原則 - 维基百科，自由的百科全书
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-113</link>
+    <description>密碼學上的柯克霍夫原則（Kerckhoffs&#39;s principle，也稱為柯克霍夫假說、公理、或定律）係由奧古斯特·柯克霍夫在19世紀提出：即使密碼系統的任何細節已為人悉知，只要密匙（key，又稱金鑰或密鑰）未洩漏，它也應是安全的。 資訊理論的發明者克勞德·夏農則改成說：「敵人瞭解系統」，這樣的說法則稱為夏農箴言。 它和傳統上使用隱密的設計、實作、或其他等等來提供加密的隱晦式安全想法相對。...
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category><category>security</category>
+  </item>
+
     </channel>
   </rss>

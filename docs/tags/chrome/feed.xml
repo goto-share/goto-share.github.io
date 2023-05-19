@@ -24,5 +24,41 @@
     <category>perf</category><category>chrome</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-247</guid>
+    <title>我在用一个 Chrome 扩展，浏览英文，标记不认识的单词
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-247</link>
+    <description>我在用一个Chrome 扩展，浏览英文，标记不认识的单词，https://burningvocabulary.com/
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>english</category><category>chrome</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-192</guid>
+    <title>disable medium paywall and make it be quiet
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-192</link>
+    <description>Actions Automate any workflow      Packages Host and manage packages      Security Find and fix vulnerabilities      Codespaces Instant dev environments      Copilot Write better code with AI      Code review...
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>medium</category><category>tool</category><category>chrome</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-157</guid>
+    <title>chrome推荐这个插件：the-great-suspender
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-157</link>
+    <description>chrome推荐这个插件：https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg/
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>chrome</category><category>tool</category>
+  </item>
+
     </channel>
   </rss>

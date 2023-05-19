@@ -21,7 +21,7 @@
 </description>
     <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>github</category><category>bigdata</category>
+    <category>github</category><category>database</category>
   </item>
 
   <item>
@@ -1016,6 +1016,498 @@
     <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-351</guid>
+    <title>不知 Snowden 的一個有趣的項目為何沒有太多關注 haven
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-351</link>
+    <description>不知Snowden 的一個有趣的項目為何沒有太多關注 https://github.com/guardianproject/haven  其實我用下來很不錯，而且真是廢物利用
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-337</guid>
+    <title>netdata: Real-time performance monitoring, done right
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-337</link>
+    <description>Netdata is high-fidelity infrastructure monitoring and troubleshooting.Open-source, free, preconfigured, opinionated, and always real-time.  Netdata is a distributed, real-time, performance and...
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>monitor</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-338</guid>
+    <title>awesome awesome awesome
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-338</link>
+    <description>Github上有好些Awesome XXX的 repo，于是就有人把这些 Awesome XXX 变成 Awesome list，然后这些Awesome 的list 又被再 Awesome …… 
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-340</guid>
+    <title>Python完整速查卡
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-340</link>
+    <description>Python完整速查卡
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-344</guid>
+    <title>如何读源码
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-344</link>
+    <description>如何读源码
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-323</guid>
+    <title>The Uber Go Style Guide
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-323</link>
+    <description>Uber Go Style Guide  Introduction Guidelines  Pointers to Interfaces Verify Interface Compliance Receivers and Interfaces Zero-value Mutexes are Valid Copy Slices and Maps at Boundaries Defer to Clean Up...
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-326</guid>
+    <title>一些编译器的工作机会
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-326</link>
+    <description>一些编译器的工作机会
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-310</guid>
+    <title>类似这些超强的技术贴，哪怕参与一些分享都会有长进
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-310</link>
+    <description>https://github.com/net4people/bbs/issues/21 类似这些超强的技术贴，哪怕参与一些分享都会有长进
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-311</guid>
+    <title>http decision diagram
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-311</link>
+    <description>An activity diagram to describe the resolution of HTTP response status codes, given various headers. - GitHub - for-GET/http-decision-diagram: An activity diagram to describe the resolution of HTTP...
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-317</guid>
+    <title>awesome reverse engineering
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-317</link>
+    <description>Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&amp;amp;videos) - awesome-reverse-engineering/R...
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-20-301</guid>
+    <title>用 calibre-web 建立一个私人的在线书库
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-20-301</link>
+    <description>之前分享过可以用https://github.com/janeczku/calibre-web 建立一个私人的在线书库，因为是web所以可以跨设备运行，进度也可以共享，今天有空用docker跑了一个给大家看看效果。
+</description>
+    <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-286</guid>
+    <title>JavaScript 的各种WTF
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-286</link>
+    <description>JavaScript 的各种WTF
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-270</guid>
+    <title>The xlang project
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-270</link>
+    <description>另外一个群 给推荐了这个 https://github.com/Microsoft/xlang
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-273</guid>
+    <title>Microsoft REST API Guidelines.
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-273</link>
+    <description>Microsoft REST API Guidelines. Contribute to microsoft/api-guidelines development by creating an account on GitHub.
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-253</guid>
+    <title>nebula/ 这个库看起来高大上的样子，
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-253</link>
+    <description>https://github.com/slackhq/nebula/ 这个库看起来高大上的样子，
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>network</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-237</guid>
+    <title>rclone: &quot;rsync for cloud storage&quot;
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-237</link>
+    <description>rsync for cloud storage&amp;quot; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-238</guid>
+    <title>iptv: Collection of publicly available IPTV channels from all over the world
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-238</link>
+    <description>Collection of publicly available IPTV channels from all over the world - GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-242</guid>
+    <title>Awesome-CV: Awesome CV is LaTeX template for your outstanding job application
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-242</link>
+    <description>Awesome CV is LaTeX template for a CV(Curriculum Vitae), Résumé or Cover Letter inspired by Fancy CV
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-244</guid>
+    <title>分享一个我写的 vim 插件
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-244</link>
+    <description>分享一个我写的 vim 插件，可以给不同的 vim 项目自动设置不同的色彩主题，方便快速区分
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-219</guid>
+    <title>API返回的JSON太大？
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-219</link>
+    <description>API返回的JSON太大？ Nginx又没法压缩Transfer-Encoding为chunked的返回？ 新挖了一个坑，欢迎各位使用和提各种建议，适用于Gin和net/http的gzip中间件：基于 Content-Type、Content-Length、扩展名等要素自动判断是否启用压缩。
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-230</guid>
+    <title>wrk: Modern HTTP benchmarking tool
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-230</link>
+    <description>wrk - a HTTP benchmarking tool wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event...
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-231</guid>
+    <title>https://github.com/tsenart/vegeta
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-231</link>
+    <description>https://github.com/tsenart/vegeta
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-200</guid>
+    <title>Firecracker
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-200</link>
+    <description>Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services.
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-190</guid>
+    <title>分享一个我的关于健身的repo
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-190</link>
+    <description>分享一个我的关于健身的repo，今天更新了饮食有关的内容，不过大部分内容都是引用youtube视频中的观点。
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>health</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-07-192</guid>
+    <title>disable medium paywall and make it be quiet
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-07-192</link>
+    <description>Actions Automate any workflow      Packages Host and manage packages      Security Find and fix vulnerabilities      Codespaces Instant dev environments      Copilot Write better code with AI      Code review...
+</description>
+    <pubDate>Sat, 07 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>medium</category><category>tool</category><category>chrome</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-189</guid>
+    <title>libcds: A C++ library of Concurrent Data Structures
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-189</link>
+    <description>A C++ library of Concurrent Data Structures. Contribute to khizmax/libcds development by creating an account on GitHub.
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>cpp</category><category>ds</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-171</guid>
+    <title>插入一下分享个资源，技术面试手册
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-171</link>
+    <description>插入一下分享个资源，技术面试手册：https://yangshun.github.io/tech-interview-handbook/introduction
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>growth</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-182</guid>
+    <title>一套完整的学习手册帮助自己准备 Google 的面试
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-182</link>
+    <description>[译] Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试 https://github.com/xitu/google-interview-university/blob/zh-hans/translations/README-cn.md
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>google</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-145</guid>
+    <title>Git merge 
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-145</link>
+    <description>Git merge 
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-121</guid>
+    <title>ChinaIPWhiteListPac: PAC script of China main land IP list
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-121</link>
+    <description>PAC script of China main land IP list. Contribute to sodapanda/ChinaIPWhiteListPac development by creating an account on GitHub.
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-123</guid>
+    <title>给大家推荐一个 macOS 图床客户端 app 
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-123</link>
+    <description>给大家推荐一个 macOS 图床客户端 app 
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>mac</category><category>app</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-128</guid>
+    <title>写了一个 telegram bot 模板
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-128</link>
+    <description>写了一个 telegram bot 模板，可以简单配置运行一个bot，可以图灵api集成： https://github.com/0RaymondJiang0/tonycat
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>telegram</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-101</guid>
+    <title>gitbatch Managing multiple git repositories is easier than ever.
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-101</link>
+    <description>https://github.com/isacikgoz/gitbatch Managing multiple git repositories is easier than ever.
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-89</guid>
+    <title>分页设计最佳实践
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-89</link>
+    <description>https://developer.github.com/v3/#pagination  github 的分页设计用到了 hypermedia 
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-70</guid>
+    <title>《重构》JavaScript 实践
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-70</link>
+    <description>《重构》JavaScript 实践
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-61</guid>
+    <title>这篇K8s网丢包调查的文章真是篇Debug雄文，相当厉害
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-61</link>
+    <description>这篇K8s网丢包调查的文章真是篇Debug雄文，相当厉害，推荐给大家，这篇文章有很多高级技术，我在这里导读一下（从这篇文章你会收获如下的东西）
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-64</guid>
+    <title>「Java学习+面试指南」
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-64</link>
+    <description>「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ - GitHub - Snailclimb/JavaGuide: 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-41</guid>
+    <title>https://github.com/emilybache/GildedRose-Refactoring-Kata
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-41</link>
+    <description>https://github.com/emilybache/GildedRose-Refactoring-Kata
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-24-49</guid>
+    <title>非常不错的视频技术教程
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-24-49</link>
+    <description>非常不错的视频技术教程
+</description>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-19</guid>
+    <title>All Algorithms implemented in Python
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-19</link>
+    <description>All algorithms implemented in Python - for education  Implementations are for learning purposes only. They may be less efficient than the implementations in the...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-27</guid>
+    <title>The Uber Go Style Guide
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-27</link>
+    <description>Uber Go Style Guide  Introduction Guidelines  Pointers to Interfaces Verify Interface Compliance Receivers and Interfaces Zero-value Mutexes are Valid Copy Slices and Maps at Boundaries Defer to Clean Up...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
   </item>
 
     </channel>

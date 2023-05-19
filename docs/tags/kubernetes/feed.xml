@@ -204,5 +204,89 @@
     <category>kubernetes</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-268</guid>
+    <title>Kubernetes in production: the microservice
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-268</link>
+    <description>Hi all Yesterday I was recording a video share about: 1. How to decomposes the monolithic application by microservice. 2. Kubernetes works with microservice.
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>bilibili</category><category>microservice</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-177</guid>
+    <title>A visual guide on troubleshooting Kubernetes deployments
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-177</link>
+    <description>Last updated in May 2022TL;DR: here&#39;s a diagram to help you debug your deployments in Kubernetes (and you can download it in the PDF version and PNG).This diagram is also translated into the following...
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-61</guid>
+    <title>这篇K8s网丢包调查的文章真是篇Debug雄文，相当厉害
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-61</link>
+    <description>这篇K8s网丢包调查的文章真是篇Debug雄文，相当厉害，推荐给大家，这篇文章有很多高级技术，我在这里导读一下（从这篇文章你会收获如下的东西）
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-25</guid>
+    <title>Inside of Kubernetes Controller
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-25</link>
+    <description>Inside ofKubernetes Controller2019/09/27Kubernetes Meetup Tokyo #23 Operator Deep Dive View Slide   Who am IName: Kenta Iso(@go_vargo)Job: Infrastructure EngineerKubernetes LoverMission: Make Kubernetes...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-35</guid>
+    <title>O&#39;Reilly kubernetes Patterns
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-35</link>
+    <description>O&#39;Reilly kubernetes Patterns
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>kubernetes</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-36</guid>
+    <title>Kubernetes Patterns&#39; e-book is available for #FREE
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-36</link>
+    <description>BIG NEWS: I&#39;m excited to announce the full copy (all 266 pages) of &#39;Kubernetes Patterns&#39; e-book is available for #FREE! In the spirit of #opensource, this is our (@ro14nd &amp; I) contrition to the @kubernetesio ecosystem. Thank you @RedHat making it happen❗️ https://t.co/NUQr41MS7F
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>kubernetes</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-38</guid>
+    <title>Kubernetes resources list
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-38</link>
+    <description>https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/htmlview
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>kubernetes</category>
+  </item>
+
     </channel>
   </rss>

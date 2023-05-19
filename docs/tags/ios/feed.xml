@@ -57,7 +57,19 @@
 </description>
     <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>ui</category><category>android</category><category>ios</category><category>linux</category><category>windows</category><category>mac</category>
+    <category>app</category><category>android</category><category>ios</category><category>linux</category><category>windows</category><category>mac</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-172</guid>
+    <title>我家 Android 初养成 - DIYgod
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-172</link>
+    <description>最近把用了两年的 iPhone X 换成了 Redmi K20 Pro，体验一下 Android 自由香甜的空气 解锁 Bootloader 小米手机出厂都是锁 Bootloader 的，需要到官网下载解锁工具解锁刷机、ROOT 都需要解锁 Bootloader…
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ios</category><category>android</category>
   </item>
 
     </channel>

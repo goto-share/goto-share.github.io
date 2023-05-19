@@ -96,5 +96,53 @@
     <category>wikipedia</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-322</guid>
+    <title>unsolved problems in computer science
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-322</link>
+    <description>unsolved problems https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-271</guid>
+    <title>MasterClass - Wikipedia
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-271</link>
+    <description>MasterClass - Wikipedia
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-137</guid>
+    <title>Opinions vary as to the scope of software architectures
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-137</link>
+    <description>Opinions vary as to the scope of software architectures https://en.m.wikipedia.org/wiki/Software_architecture
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-113</guid>
+    <title>柯克霍夫原則 - 维基百科，自由的百科全书
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-113</link>
+    <description>密碼學上的柯克霍夫原則（Kerckhoffs&#39;s principle，也稱為柯克霍夫假說、公理、或定律）係由奧古斯特·柯克霍夫在19世紀提出：即使密碼系統的任何細節已為人悉知，只要密匙（key，又稱金鑰或密鑰）未洩漏，它也應是安全的。 資訊理論的發明者克勞德·夏農則改成說：「敵人瞭解系統」，這樣的說法則稱為夏農箴言。 它和傳統上使用隱密的設計、實作、或其他等等來提供加密的隱晦式安全想法相對。...
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>wikipedia</category><category>security</category>
+  </item>
+
     </channel>
   </rss>

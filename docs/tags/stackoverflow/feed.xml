@@ -96,5 +96,53 @@
     <category>stackoverflow</category><category>perf</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-229</guid>
+    <title>Is False == 0 and True == 1 an implementation detail or is it guaranteed by the language?
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-229</link>
+    <description>Is it guaranteed that False == 0 and True == 1, in Python (assuming that they are not reassigned by the user)?  For instance, is it in any way guaranteed that the following code will always produce...
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-164</guid>
+    <title>我读了两篇
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-164</link>
+    <description>我读了两篇 一篇是netflix的 https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39 一篇如下：（从stackoverflow拷来的代码是有问题的） https://programming.guide/worlds-most-copied-so-snippet.html
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>stackoverflow</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-20</guid>
+    <title>Why is 2 * (i * i) faster than 2 * i * i in Java?
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-20</link>
+    <description>The following Java program takes on average between 0.50 secs and 0.55 secs to run
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-22</guid>
+    <title>no new variables on left side of `:=`
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-22</link>
+    <description>What&#39;s happening here?   package main  import &quot;fmt&quot;  func main() {      myArray  :=[...]int{12,14,26}  ;          fmt.Println(myArray)      myArray  :=[...]int{11,12,14} //error pointing on this li...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>golang</category>
+  </item>
+
     </channel>
   </rss>

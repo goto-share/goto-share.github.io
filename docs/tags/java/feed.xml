@@ -228,5 +228,137 @@
     <category>java</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-341</guid>
+    <title>这个文章看上去，被GraalVM编译过的 Java和Go在快排算法上的性能差别不大
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-341</link>
+    <description>这个文章看上去，被GraalVM编译过的 Java和Go在快排算法上的性能差别不大
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-215</guid>
+    <title>java核心技术 卷1
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-215</link>
+    <description>java核心技术 卷1 java并发编程实战 java编程思想 spring / spring boot 实战
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-232</guid>
+    <title>Your Guide to Java Streams
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-232</link>
+    <description>In this edition of &quot;Best of DZone,&quot; we take a look at Streams in Java, one of the APIs that brought some elements of functional programming to Java.
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-233</guid>
+    <title>推荐一个Medium的展望软件开发2020的文章
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-233</link>
+    <description>推荐一个Medium的展望软件开发2020的文章，里面提到Java仍然是企业级Programming的王者，和浩哥的想法一样。https://towardsdatascience.com/20-predictions-about-software-development-trends-in-2020-afb8b110d9a0
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-06-186</guid>
+    <title>Java工程师成神之路
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-06-186</link>
+    <description>有个国内工程师搞的版本——Java工程师成神之路😂 https://github.com/hollischuang/toBeTopJavaer
+</description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category><category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-173</guid>
+    <title>为什么下面程序递归计算斐波那契数列java比c++要快
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-173</link>
+    <description>前面已有的回答一个都没答到点上啊。（就跟其他答主提到的一样，题主的电脑似乎有点慢…）其实这个例子反映出来的跟Java与C++语言上的差异没有任何关系，只是反映出了在这个特定例子上某个编译器（及JIT编译器）的优化的差异。本文后面用到的编译器生成的代码的样子我都记录下来放在这个传送门了
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category><category>cpp</category><category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-138</guid>
+    <title>对于想学习Java的同学，分享一个脑图
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-138</link>
+    <description>对于想学习Java的同学，分享一个脑图
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-26-64</guid>
+    <title>「Java学习+面试指南」
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-26-64</link>
+    <description>「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ - GitHub - Snailclimb/JavaGuide: 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+</description>
+    <pubDate>Tue, 26 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-20</guid>
+    <title>Why is 2 * (i * i) faster than 2 * i * i in Java?
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-20</link>
+    <description>The following Java program takes on average between 0.50 secs and 0.55 secs to run
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-33</guid>
+    <title>Functional Programming Java functional techniques
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-33</link>
+    <description>这两天翻了这本书，基于java讲FP的，把关键的概念讲的很清楚，很多动手的练习帮助理解，值得看看 https://www.amazon.com/Functional-Programming-Java-functional-techniques/dp/1617292737
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-22-7</guid>
+    <title>Java Concurrency and Multithreading Tutorial
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-22-7</link>
+    <description>Java Concurrency and Multithreading Tutorial
+</description>
+    <pubDate>Fri, 22 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
     </channel>
   </rss>

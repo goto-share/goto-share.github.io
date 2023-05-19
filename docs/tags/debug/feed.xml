@@ -1,0 +1,52 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Sat, 14 Mar 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/debug/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-724</guid>
+    <title>lldb cheatsheet
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-724</link>
+    <description>每次在mac上debug c/c++程序都记不住lldb的命令，需要一个cheatsheet，最好跟gdb对照
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>debug</category><category>mac</category><category>c</category><category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-325</guid>
+    <title>[备忘]CAS的Session两秒挂掉？--解决退出后登录，页面刷新的问题
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-325</link>
+    <description>上次那个两次登录的问题原因找到了, [备忘]CAS的Session两秒挂掉？--解决退出后登录，页面刷新的问题
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>debug</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-327</guid>
+    <title>如何debug一个木马
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-327</link>
+    <description>如何debug一个木马
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>debug</category>
+  </item>
+
+    </channel>
+  </rss>

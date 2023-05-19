@@ -180,5 +180,161 @@
     <category>book</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-350</guid>
+    <title>逐本下载 ： https://gitlab.com/im117/books
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-350</link>
+    <description>逐本下载 ： https://gitlab.com/im117/books
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-313</guid>
+    <title>黑客与画家的作者当初给高中生的建议
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-313</link>
+    <description>黑客与画家的作者当初给高中生的建议，http://paulgraham.com/hs.html
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category><category>tips</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-20-301</guid>
+    <title>用 calibre-web 建立一个私人的在线书库
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-20-301</link>
+    <description>之前分享过可以用https://github.com/janeczku/calibre-web 建立一个私人的在线书库，因为是web所以可以跨设备运行，进度也可以共享，今天有空用docker跑了一个给大家看看效果。
+</description>
+    <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-277</guid>
+    <title>微软又来送书了
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-277</link>
+    <description>微软又来送书了
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-249</guid>
+    <title>推荐书籍
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-249</link>
+    <description>本页罗列我读过且喜欢的书籍。 在看过的系统管理书籍中，《UNIX and Linux System Administration Handbook》是我最喜欢的一本。本书内容既全面又与时俱进，涵盖了主流的Linux和BSD版本；其它类似书籍在内容上或多或少有些过时，而它却一直在更新。更重要的是提倡以现代化的方法来管理系统。每章后面的推荐阅读是非常好的拓展材料。 pic.twitter.com/OgBN3ZJsHI &amp;mdash; Linuxtoy 🐧 (@linuxtoy) December 12, 2019 看完了《FreeBSD Mastery: ZFS》，对于具有大量存储需求的用户而言，ZFS 这种现代、高级、灵活的文件系统的确很有优势。本书不仅充满组建海量存储方案的真知灼见，而且全面介绍了 ZFS 的各种特性的用法，包括存储池、数据集、磁盘空间管理、快照、克隆等等。推荐阅读。 pic.twitter.com/tACkqWWzgU &amp;mdash; Linuxtoy
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-215</guid>
+    <title>java核心技术 卷1
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-215</link>
+    <description>java核心技术 卷1 java并发编程实战 java编程思想 spring / spring boot 实战
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-223</guid>
+    <title>《数据库系统概念》
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-223</link>
+    <description>《数据库系统概念》，它是数据库系统方面的经典教材之一。国际上许多著名大学包括斯坦福大学、耶鲁大学、德克萨斯大学、康奈尔大学、伊利诺伊大学、印度理工学院等都采用本书作为教科书。这本书全面介绍了数据库系统的各种知识，透彻阐释数据库管理的基本概念。不仅讨论了数据库查询语言、模式设计、数据仓库、数据库应用开发、基于对象的数据库和 XML、数据存储和查询、事务管理、数据挖掘与信息检索以及数据库系统体系结构等方面的内容，而且对性能评测标准、性能调整、标准化以及空间与地理数据、事务处理监控等高级应用主题进行了广泛讨论。
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-161</guid>
+    <title>莫枢大神发的书
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-161</link>
+    <description>莫枢大神发的书
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-148</guid>
+    <title>Google SRE 新书预览
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-148</link>
+    <description>Google SRE 新书预览
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-106</guid>
+    <title>线性代数，推荐任广千的《线性代数的几何意义》
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-106</link>
+    <description>线性代数，推荐任广千的《线性代数的几何意义》，让你明白矩阵乘法为什么那样计算，本质是什么。什么是矩阵分解，更深入理解线性代数。
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-29-98</guid>
+    <title>Distributed systems for fun and profit
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-29-98</link>
+    <description>Distributed systems for fun and profit
+</description>
+    <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-65</guid>
+    <title>这篇文章里提到的书都是很不错的，可以看看
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-65</link>
+    <description>这篇文章里提到的书都是很不错的，可以看看
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-74</guid>
+    <title>database internals
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-74</link>
+    <description>推荐一本书 《database internals》数据库内部剖析，这本书和《Designing Data-Intensive Application》 比较类似，不过它围绕的是如果构建一个分布式数据库，各种存储引擎比较，分布式系统的问题、一致性模型、选举和错误识别、如果选择共识算法。作者是Cassandra的作者
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>book</category>
+  </item>
+
     </channel>
   </rss>

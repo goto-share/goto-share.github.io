@@ -36,5 +36,17 @@
     <category>nginx</category><category>microservices</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-31</guid>
+    <title>How Netflix microservices tackle dataset pub-sub
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-31</link>
+    <description>How Netflix microservices tackle dataset pub-sub
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>microservices</category>
+  </item>
+
     </channel>
   </rss>

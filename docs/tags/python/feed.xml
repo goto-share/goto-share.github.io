@@ -57,7 +57,7 @@
 </description>
     <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>tensorflow</category><category>python</category>
+    <category>ml</category><category>python</category>
   </item>
 
   <item>
@@ -166,6 +166,126 @@
     <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-340</guid>
+    <title>Python完整速查卡
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-340</link>
+    <description>Python完整速查卡
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-285</guid>
+    <title>Python 3&#39;s f-Strings: An Improved String Formatting Syntax (Guide)
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-285</link>
+    <description>As of Python 3.6, f-strings are a great new way to format strings. Not only are they more readable, more concise, and less prone to error than other ways of formatting, but they are also faster! By the end of this article, you will learn how and why to start using f-strings today.
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-290</guid>
+    <title>Python&#39;s f-strings are amazingly fast!
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-290</link>
+    <description>Python&#39;s f-strings are amazingly fast!
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-291</guid>
+    <title>Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-291</link>
+    <description>&quot;Speaker: Raymond Hettinger  Distillation of knowledge gained from a decade of Python consulting, Python training, code reviews, and serving as a core developer.   Learn to avoid some of the hazards of the PEP 8 style guide and learn what really matters for creating beautiful intelligible code.    Slides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides&quot;
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-294</guid>
+    <title>SICP 的 JavaScript 语言版
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-294</link>
+    <description>经典计算机教材 SICP 的 JavaScript 语言版，新加坡国立大学改编的。https://t.co/cxVIzSOJms 连带附上 SICP 的 Python 版本，还是中文翻译好的。https://t.co/usIxwrg7v2
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>javascript</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-229</guid>
+    <title>Is False == 0 and True == 1 an implementation detail or is it guaranteed by the language?
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-229</link>
+    <description>Is it guaranteed that False == 0 and True == 1, in Python (assuming that they are not reassigned by the user)?  For instance, is it in any way guaranteed that the following code will always produce...
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-140</guid>
+    <title>Why Reddit switched to Python (2005)
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-140</link>
+    <description>Why Reddit switched to Python (2005) | Hacker News
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-30-110</guid>
+    <title>上一个Python的 https://realpython.com/
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-30-110</link>
+    <description>上一个Python的 https://realpython.com/
+</description>
+    <pubDate>Sat, 30 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-25-58</guid>
+    <title>Async IO in Python: A Complete Walkthrough – Real Python
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-25-58</link>
+    <description>This tutorial will give you a firm grasp of Python’s approach to async IO, which is a concurrent programming design that has received dedicated support in Python, evolving rapidly from Python 3.4 through 3.7 (and probably beyond).
+</description>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-19</guid>
+    <title>All Algorithms implemented in Python
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-19</link>
+    <description>All algorithms implemented in Python - for education  Implementations are for learning purposes only. They may be less efficient than the implementations in the...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>python</category>
   </item>
 
     </channel>

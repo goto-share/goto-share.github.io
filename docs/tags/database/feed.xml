@@ -9,9 +9,21 @@
       <language>en-us</language>
       <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
       <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
-      <lastBuildDate>Sat, 07 Mar 2020 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 26 Apr 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/database/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-04-26-913</guid>
+    <title>《Designing Data-Intensive Application》中文翻译
+</title>
+    <link>https://goto-share.github.io/blog/2022-04-26-913</link>
+    <description>《Designing Data-Intensive Application》DDIA中文翻译. Contribute to Vonng/ddia development by creating an account on GitHub.
+</description>
+    <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>database</category>
+  </item>
+
   <item>
     <guid>https://goto-share.github.io/blog/2020-03-07-670</guid>
     <title>iredis: 一个更好的 redis-cli
@@ -116,6 +128,163 @@
     <description>Open source databases offer flexibility, scalability, and cost savings. They provide robust features for managing data, including relational and non-relational options, plus community of developers that contribute to their ongoing development and support. Here are some top open source databases to consider
 </description>
     <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-266</guid>
+    <title>ScyllaDB’s Compaction Series: Size-Tiered Compaction
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-266</link>
+    <description>This is the first post in a series of four about the different compaction strategies available in ScyllaDB. This first post will focus on ScyllaDB’s default compaction strategy, size-tiered compaction strategy.
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-223</guid>
+    <title>《数据库系统概念》
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-223</link>
+    <description>《数据库系统概念》，它是数据库系统方面的经典教材之一。国际上许多著名大学包括斯坦福大学、耶鲁大学、德克萨斯大学、康奈尔大学、伊利诺伊大学、印度理工学院等都采用本书作为教科书。这本书全面介绍了数据库系统的各种知识，透彻阐释数据库管理的基本概念。不仅讨论了数据库查询语言、模式设计、数据仓库、数据库应用开发、基于对象的数据库和 XML、数据存储和查询、事务管理、数据挖掘与信息检索以及数据库系统体系结构等方面的内容，而且对性能评测标准、性能调整、标准化以及空间与地理数据、事务处理监控等高级应用主题进行了广泛讨论。
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-224</guid>
+    <title>关于数据库的一些补充资料
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-224</link>
+    <description>数据库设计 - 你需要系统地了解一下数据库设计中的那些东西，这里推荐慕课网的一个在线课程 --&quot;[数据库设计的那些事](https://www.imooc.com/learn/117)&quot;。每个小课程不过 5-6 分钟，全部不到 2 个小时，我相信你一定能跟下来。你需要搞清楚数据的那几个范式，还有 SQL 语句的一些用法。
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>mysql</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-210</guid>
+    <title>We introduced a memory database named scuba
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-210</link>
+    <description>We introduced a memory database named scuba. In this paper, the author introduces a new memory storage layout to use column-oriented storage for better compression and faster query execution strategies. they reference lots of database design include Dremel Powerdrill etc.
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-164</guid>
+    <title>我读了两篇
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-164</link>
+    <description>我读了两篇 一篇是netflix的 https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39 一篇如下：（从stackoverflow拷来的代码是有问题的） https://programming.guide/worlds-most-copied-so-snippet.html
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>stackoverflow</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-179</guid>
+    <title>卡内基梅隆的数据系统课程又更新了
+https://15721.courses.cs.cmu.edu/spring2019/
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-179</link>
+    <description>卡内基梅隆的数据系统 课程又更新了。讲师Andy简直是一个世界数据库百科全书。PPT也生动，视频在Youtube上面有。如果是想深入了解数据库的朋友可以看看
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-04-155</guid>
+    <title>Scuba: Diving into Data at Facebook
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-04-155</link>
+    <description>Hi all This is my first-time share something in this channel. recently I was grinding a database design paper announced from facebook named scuba. https://research.fb.com/publications/scuba-diving-into-data-at-facebook/ The paper was published for quite a long time. But the memory data storage partition and data aggregation design really hole my eye on it. Besides database design, we can also learn a lot about database benchmark. last, hope you have a great gain from the paper.
+</description>
+    <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-03-132</guid>
+    <title>PostgreSQL Connection Pooling: Part 1 – Pros and Cons
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-03-132</link>
+    <description>A long time ago, in a galaxy far far away, ‘threads’ were a programming novelty rarely used and seldom trusted. In that environment, the first PostgreSQL developers decided forking a process for each...
+</description>
+    <pubDate>Tue, 03 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>postgresql</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-02-118</guid>
+    <title>PostgreSQL和MySQL-阿里云开发者社区
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-02-118</link>
+    <description>翻译来源：https://www.2ndquadrant.com/en/postgresql/postgresql-vs-mysql/    PostgreSQL和MySQL 之间有着根本的区别。在评估两个系统之间的差异和折衷之后，必须做出明智的决定。 我们已经提供了 PostgreSQL和MySQL之间最常被评估的特性和功能的相似之处和不同 之处：    开源 酸顺应性 SQL合规性 复制 性能 安全 主机...
+</description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>mysql</category><category>postgresql</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-86</guid>
+    <title>PingCAP 博客
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-86</link>
+    <description>产品技术解读TiKV 新架构：Partitioned Raft KV 原理解析在上一篇文章中，我们介绍了 Partitioned Raft KV 这一新实验特性带来的性能和可伸缩性大幅提升。本文我们将为大家介绍这一功能的实现原理。案例实践基于 TiDB + Flink...
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-73</guid>
+    <title>一组与Database存储相关的文章
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-73</link>
+    <description>一组与Database存储相关的文章
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-74</guid>
+    <title>database internals
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-74</link>
+    <description>推荐一本书 《database internals》数据库内部剖析，这本书和《Designing Data-Intensive Application》 比较类似，不过它围绕的是如果构建一个分布式数据库，各种存储引擎比较，分布式系统的问题、一致性模型、选举和错误识别、如果选择共识算法。作者是Cassandra的作者
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-32</guid>
+    <title>How does MVCC (Multi-Version Concurrency Control) work - Vlad Mihalcea
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-32</link>
+    <description>Introduction In this article, I’m going to explain how the MVCC (Multi-Version Concurrency Control) mechanism works using PostgreSQL as a reference implementation. In Concurrency Control theory, there are two...
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>database</category>
   </item>

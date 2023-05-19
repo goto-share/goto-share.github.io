@@ -168,5 +168,53 @@
     <category>perf</category><category>web</category><category>http</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-202</guid>
+    <title>My learnings on Linux BPF container performance engineering
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-202</link>
+    <description>Starting with DockerOver the past few years I’ve worked a lot with container workloads. It all starts with a need to run containers whether its a batch job, a microservice or some scripts. Learning about...
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>linux</category><category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-05-173</guid>
+    <title>为什么下面程序递归计算斐波那契数列java比c++要快
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-05-173</link>
+    <description>前面已有的回答一个都没答到点上啊。（就跟其他答主提到的一样，题主的电脑似乎有点慢…）其实这个例子反映出来的跟Java与C++语言上的差异没有任何关系，只是反映出了在这个特定例子上某个编译器（及JIT编译器）的优化的差异。本文后面用到的编译器生成的代码的样子我都记录下来放在这个传送门了
+</description>
+    <pubDate>Thu, 05 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category><category>cpp</category><category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-96</guid>
+    <title>BPF Performance Tools
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-96</link>
+    <description>BPF and related observability tools give software professionals unprecedented visibility into software, helping them analyze operating system and application performance, troubleshoot code, and strengthen security. BPF Performance Tools: Linux System and Application Observability is the industry&#39;s most comprehensive guide to using these tools for observability.
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>perf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-27-66</guid>
+    <title>使用UUID性能问题值得注意
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-27-66</link>
+    <description>使用UUID性能问题值得注意
+</description>
+    <pubDate>Wed, 27 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>perf</category>
+  </item>
+
     </channel>
   </rss>

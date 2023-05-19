@@ -84,5 +84,53 @@
     <category>bilibili</category><category>java</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-324</guid>
+    <title>【原创翻译】独立游戏工作室巡礼 E02
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-324</link>
+    <description>DevQuest（共4集）：第2集我们来到了位于加拿大蒙特利尔的Complusion Games（现已被微软收购），代表作《We Happy Few》，以及当地较小的工作室Kitfox/KO_OP，代表作《Moon Hunters》/《GNOG》。全部4集都会翻译，不过不敢保证时间，有空就翻！另外，可以评论安利优质生肉纪录片。感谢收看，下集见~视频原地址：https://www.youtube.c
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>bilibili</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-268</guid>
+    <title>Kubernetes in production: the microservice
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-268</link>
+    <description>Hi all Yesterday I was recording a video share about: 1. How to decomposes the monolithic application by microservice. 2. Kubernetes works with microservice.
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>bilibili</category><category>microservice</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-199</guid>
+    <title>【水球泡77】超简单的sketch课程（四）蒙版详解_哔哩哔哩_bilibili
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-199</link>
+    <description>【水球泡77】超简单的sketch课程（四）蒙版详解_哔哩哔哩_bilibili
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>bilibili</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-95</guid>
+    <title>算法导论配合MIT公开课的视频服用6.006和6.046
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-95</link>
+    <description>算法导论配合MIT公开课的视频服用6.006和6.046
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mooc</category><category>algorithm</category><category>bilibili</category>
+  </item>
+
     </channel>
   </rss>
