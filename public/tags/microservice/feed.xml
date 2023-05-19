@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Fri, 17 Apr 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/microservice/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-04-17-759</guid>
+    <title>Microservices
+</title>
+    <link>https://goto-share.github.io/blog/2020-04-17-759</link>
+    <description>it&#39;s because of the way our backend works   // merch: https://merch.krazam.tv  // https://www.instagram.com/krazam.tv   // https://twitter.com/krazamtv
+</description>
+    <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>microservice</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-08-411</guid>
+    <title>Introduction to Microservices | NGINX
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-08-411</link>
+    <description>Microservices are currently getting a lot of attention. This blog post is the first in a 7-part series about designing, building, &amp; deploying microservices.
+</description>
+    <pubDate>Wed, 08 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>microservice</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-268</guid>
+    <title>Kubernetes in production: the microservice
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-268</link>
+    <description>Hi all Yesterday I was recording a video share about: 1. How to decomposes the monolithic application by microservice. 2. Kubernetes works with microservice.
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>bilibili</category><category>microservice</category><category>kubernetes</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-23-31</guid>
+    <title>How Netflix microservices tackle dataset pub-sub
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-23-31</link>
+    <description>How Netflix microservices tackle dataset pub-sub
+</description>
+    <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>microservice</category>
+  </item>
+
+    </channel>
+  </rss>
