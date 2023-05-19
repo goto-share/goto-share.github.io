@@ -3,7 +3,7 @@ title: |
     Event Sourcing
 date: 2020-02-29
 draft: false
-tags: [martinfowler]
+tags: [tcp, network]
 summary: |
     这个不是很清楚。正在看 https://martinfowler.com/eaaDev/EventSourcing.html 刚好提到 Event Replay，Event Replay: If we find a past event was incorrect, we can compute the consequences by reversing it and later events and then replaying the new event and later events. (Or indeed by throwing away the application state and replaying all events with the correct event in sequence.) The same technique can handle events received in the wrong sequence - a common problem with systems that communicate with asynchronous messaging.
 ---

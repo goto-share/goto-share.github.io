@@ -25,6 +25,18 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2020-11-18-844</guid>
+    <title>M1芯片内存访问顺序的一致性
+</title>
+    <link>https://goto-share.github.io/blog/2020-11-18-844</link>
+    <description>Apple的M1芯片可能会给你的多线程序带来一些bug，因为ARM芯片不像X86的芯片会保证内存访问顺的一致性。（当然，如果高级语方处理了则不会有问题）
+</description>
+    <pubDate>Wed, 18 Nov 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>mac</category><category>misc</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2020-04-01-743</guid>
     <title>rime/squirrel: 【鼠鬚管】Rime for macOS
 </title>
@@ -57,7 +69,7 @@
 </description>
     <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>llvm</category><category>mac</category><category>c</category><category>cpp</category>
+    <category>debug</category><category>mac</category><category>c</category><category>cpp</category>
   </item>
 
   <item>
@@ -93,7 +105,7 @@
 </description>
     <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>ui</category><category>android</category><category>ios</category><category>linux</category><category>windows</category><category>mac</category>
+    <category>app</category><category>android</category><category>ios</category><category>linux</category><category>windows</category><category>mac</category>
   </item>
 
   <item>

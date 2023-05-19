@@ -21,7 +21,7 @@
 </description>
     <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>medium</category><category>memory</category><category>golang</category>
+    <category>medium</category><category>golang</category>
   </item>
 
   <item>
@@ -157,6 +157,42 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2019-12-20-300</guid>
+    <title>Best Practices for Versioning REST APIs
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-20-300</link>
+    <description>“Best Practices for Versioning REST APIs” by Nick Parsons https://link.medium.com/rC6quSkjy2
+</description>
+    <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-225</guid>
+    <title>你不能錯過的聲音——推薦給科技人的 10 個 Podcast
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-225</link>
+    <description>https://medium.com/starrocket/10-podcasts-we-recommend-5f47de31e190 可以看看这里推荐的
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>podcast</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-233</guid>
+    <title>推荐一个Medium的展望软件开发2020的文章
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-233</link>
+    <description>推荐一个Medium的展望软件开发2020的文章，里面提到Java仍然是企业级Programming的王者，和浩哥的想法一样。https://towardsdatascience.com/20-predictions-about-software-development-trends-in-2020-afb8b110d9a0
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>java</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2019-12-09-202</guid>
     <title>My learnings on Linux BPF container performance engineering
 </title>
@@ -273,7 +309,7 @@
 </description>
     <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>medium</category><category>microservices</category>
+    <category>medium</category><category>microservice</category>
   </item>
 
     </channel>

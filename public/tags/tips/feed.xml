@@ -289,6 +289,174 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-352</guid>
+    <title>Photon electron coupling
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-352</link>
+    <description>Photon electron coupling
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-356</guid>
+    <title>用 c 或者 python 在 esp 芯片上写程序挺不错的
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-356</link>
+    <description>对于比较偏软件的应用，用 c 或者 python 在 esp 芯片上写程序挺不错的，它内置 wifi，可以直接在 mcu 里实现一些功能，比如联网获取一些数据，然后通过一些墨水屏显示出来或者播放通知声音之类。
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-344</guid>
+    <title>如何读源码
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-344</link>
+    <description>如何读源码
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-346</guid>
+    <title>截一断我极客时间专栏中跟Paxosssh相关的一节
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-346</link>
+    <description>截一断我极客时间专栏中跟Paxosssh相关的一节
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>tips</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-313</guid>
+    <title>黑客与画家的作者当初给高中生的建议
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-313</link>
+    <description>黑客与画家的作者当初给高中生的建议，http://paulgraham.com/hs.html
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category><category>tips</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-316</guid>
+    <title>The Importance of Deep Work &amp; The 30-Hour Method for Learning a New Skill
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-316</link>
+    <description>The Importance of Deep Work &amp;amp; The 30-Hour Method for Learning a New Skill  The tech industry, especially the security industry, seems outrageously overwhelming to newcomers and even as an intermediate...
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-19-299</guid>
+    <title>一个老程序员的30年生涯回顾
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-19-299</link>
+    <description>一个老程序员的30年生涯回顾
+</description>
+    <pubDate>Thu, 19 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-281</guid>
+    <title>Excel 技巧
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-281</link>
+    <description>https://www.youtube.com/watch?v=0nbkaYsR94c  Excel 技巧
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-293</guid>
+    <title>Programming Languages To Learn In 2020 To Boost Your Career As A Software Developer
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-293</link>
+    <description>Google首页推荐的, Programming Languages To Learn In 2020 To Boost Your Career As A Software Developer
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-272</guid>
+    <title>我是如何一步步打造爆款产品，以及对应方法论 | 翻译
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-272</link>
+    <description>自己翻译的一篇关于如何打造爆款产品的方法论和具体实践，来自国外一个两度创业成功的创业者，全文八千余字，在群友嘉文的帮助下，几经校对，终于定稿，希望大家喜欢。
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>weixin</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-246</guid>
+    <title>注册 App Store 美区ID的方法↓
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-246</link>
+    <description>注册 App Store 美区ID的方法↓
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-251</guid>
+    <title>花了不少精力做算法题，不过觉得挺值的
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-251</link>
+    <description>花了不少精力，不过觉得挺值的。如果之前不是做算法出身的，我强烈建议试试。2. leetcode的评价体系挺好的，会考虑时间复杂度，有些题目可能会多次遇到超时限制，在调优的过程中，你会对时间复杂度产生具体的感性认识。
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>algorithm</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-221</guid>
+    <title>ACM Quick Join Application Form
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-221</link>
+    <description>戳这里 https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=3&amp;country=China&amp;form_type=Professional&amp;promo=LEVEL
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-228</guid>
+    <title>有本书叫《把你的英语用起来》，这个题目讲得很有道理
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-228</link>
+    <description>有本书叫《把你的英语用起来》，这个题目讲得很有道理
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2019-12-07-196</guid>
     <title>The Top 10 Most Common Mistakes I’ve Seen in Go Projects
 </title>
@@ -404,6 +572,18 @@
     <description>高校生使用教育网的一点姿势
 </description>
     <pubDate>Fri, 29 Nov 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-11-28-91</guid>
+    <title>实时数据分页一般用cursor, page_num 不大适用
+</title>
+    <link>https://goto-share.github.io/blog/2019-11-28-91</link>
+    <description>https://www.sitepoint.com/paginating-real-time-data-cursor-based-pagination/  实时数据分页一般用cursor, page_num 不大适用
+</description>
+    <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>tips</category>
   </item>

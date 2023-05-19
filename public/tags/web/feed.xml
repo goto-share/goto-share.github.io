@@ -181,6 +181,18 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-549</guid>
+    <title>优惠券项目小结
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-549</link>
+    <description>记录开发HasOffer网站通过SEO提高网站流量的过程，也涉及一些media buy和affiliate以及国外用户使用coupon的介绍
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>reading</category><category>web</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2020-02-04-555</guid>
     <title>A Complete Guide to Flexbox | CSS-Tricks
 </title>
@@ -214,6 +226,30 @@
     <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>perf</category><category>web</category><category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-296</guid>
+    <title>Mozilla Hacks’ 10 most-read posts of 2019
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-296</link>
+    <description>Mozilla Hacks covered plenty of interesting territory in 2019. Our most popular posts introduced experiments and special projects, and described the evolution of groundbreaking platform technologies like WebAssembly and WASI. ...
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>web</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-239</guid>
+    <title>JWT, JWS, JWE, JWK, and JWA。
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-239</link>
+    <description>JWT, JWS, JWE, JWK, and JWA。
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>web</category><category>security</category>
   </item>
 
   <item>

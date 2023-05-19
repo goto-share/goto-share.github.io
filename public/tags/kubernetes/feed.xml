@@ -205,6 +205,18 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-268</guid>
+    <title>Kubernetes in production: the microservice
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-268</link>
+    <description>Hi all Yesterday I was recording a video share about: 1. How to decomposes the monolithic application by microservice. 2. Kubernetes works with microservice.
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>bilibili</category><category>microservice</category><category>kubernetes</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2019-12-05-177</guid>
     <title>A visual guide on troubleshooting Kubernetes deployments
 </title>

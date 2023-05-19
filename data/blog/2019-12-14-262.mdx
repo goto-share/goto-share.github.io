@@ -1,0 +1,56 @@
+---
+title: |
+    关于 packet filter limit和burst参数的含
+date: 2019-12-14
+draft: false
+tags: [google, algorithm]
+summary: |
+    有没有技术大佬，帮我解释下这个limit和burst参数的含义， 搞不明白了
+---
+
+## Content
+
+https://netfilter.org/documentation/HOWTO/packet-filtering-HOWTO-7.html#ss7.3
+
+有没有技术大佬，帮我解释下这个limit和burst参数的含义， 搞不明白了
+
+![](/static/gotoshare/2019-12-14_255_6314297748932897068.png)
+
+`--limit 5/s --limit-burst 10`
+
+给个例子，如果配置成这样，我不知道怎么理解
+
+限制 5/s 个请求连接， 但是 burst 是什么含义呢？
+
+类似还有个[nginx的漏桶算法](https://www.nginx.com/blog/rate-limiting-nginx/)， 这个burst 读了几遍，还是理解的不是很透彻
+
+@haoel
+> --limit 指定把令牌放到桶里面的速率
+> --limit-burst 桶里最多有多少个令牌
+
+@haoel
+> 如果你想练练非常浓重的印度英文听力
+> https://www.youtube.com/watch?v=1GJtQ1IfU_M
+
+<iframe
+    width="960"
+    height="540"
+    src="https://www.youtube.com/embed/1GJtQ1IfU_M"
+    title="Token Bucket Flow Control"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowFullscreen
+>
+</iframe>
+
+https://www.geeksforgeeks.org/congestion-control-in-computer-networks/
+
+@haoel
+> google 关键字： token bucket algorithm
+
+![](/static/gotoshare/2019-12-14_261_6314297748932897072.png)
+
+## Link Preview
+
+- https://www.nginx.com/blog/rate-limiting-nginx/
+- NGINX Rate Limiting
+- Protect your applications from excessive traffic, including DDoS attacks, by controlling the requests they receive with NGINX rate limiting.

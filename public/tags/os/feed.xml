@@ -24,5 +24,17 @@
     <category>golang</category><category>linux</category><category>network</category><category>os</category><category>database</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-278</guid>
+    <title>Operating System (OS) Definition &amp; Examples
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-278</link>
+    <description>An operating system is a powerful and usually extensive program that controls and manages the hardware and other software on a computer.   All computers and computer-like devices require operating systems,...
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>os</category>
+  </item>
+
     </channel>
   </rss>

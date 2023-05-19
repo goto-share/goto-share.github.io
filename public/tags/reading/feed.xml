@@ -1,0 +1,88 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>程序员资源分享网站</title>
+      <link>https://goto-share.github.io/blog</link>
+      <description>内容来自耗子维护的 Telegram 程序员资源分享群, 本群主要是技术资源分享，包括：技术资料、资源、工具、心得、热点等
+为了让交流更多效率：1）鼓励有价值的内容、有深度的思考; 2）鼓励友善、互相帮助、努力学习的氛围；3）不要做伸手党、盗版党、破解党；4）提问前先看看《提问的智慧》； 5) 适当聊天讨论翻墙，千万不要灌水； 6）禁止开车、广告和商业推广； 7）禁止任何仇恨、煽动、歧视的言论； 8）禁止有政治、宗教、性别攻击倾向的言论； 9）禁止低级趣味下流庸俗的内容
+  </description>
+      <language>en-us</language>
+      <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
+      <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
+      <lastBuildDate>Sat, 29 Feb 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://goto-share.github.io/tags/reading/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-638</guid>
+    <title>发明copy + paste的计算机科学家去世了。
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-638</link>
+    <description>发明copy + paste的计算机科学家去世了。（他后来去了Amazon，在steve yegge 吐槽google的那篇文章中也说到过他）
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>reading</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-02-04-549</guid>
+    <title>优惠券项目小结
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-04-549</link>
+    <description>记录开发HasOffer网站通过SEO提高网站流量的过程，也涉及一些media buy和affiliate以及国外用户使用coupon的介绍
+</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>reading</category><category>web</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-295</guid>
+    <title>The 2019 Stratechery Year in Review
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-295</link>
+    <description>2019 was a transition year for me personally, and by extension, Stratechery. The nadir was an Article I regret — The WeWork IPO — where, despite not believing in the company, I wrote the contrarian take...
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>reading</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-274</guid>
+    <title>推荐一篇关于parser的文章
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-274</link>
+    <description>推荐一篇关于parser的文章，https://www.sanity.io/blog/why-we-wrote-yet-another-parser-compiler 。里面的引用很多，很有价值，尤其是对上大学时编译原理没学好的同学 😊
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>reading</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-213</guid>
+    <title>College-educated workers are taking over the American factory floor
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-213</link>
+    <description>College-educated workers are taking over the American factory floor
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>reading</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-201</guid>
+    <title>推荐一个 BLOG 的系列文章
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-201</link>
+    <description>推荐一个 BLOG 的系列文章。http://www.aaronsw.com/weblog/rawnerve
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>reading</category>
+  </item>
+
+    </channel>
+  </rss>

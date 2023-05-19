@@ -181,6 +181,78 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-346</guid>
+    <title>截一断我极客时间专栏中跟Paxosssh相关的一节
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-346</link>
+    <description>截一断我极客时间专栏中跟Paxosssh相关的一节
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category><category>tips</category><category>distributed</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-267</guid>
+    <title>Michel Raynal Fault Tolerant Message
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-267</link>
+    <description>Michel Raynal Fault Tolerant Message
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-275</guid>
+    <title>Physical Activity Guidelines for Americans 2nd edition
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-275</link>
+    <description>Physical Activity Guidelines for Americans 2nd edition
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-248</guid>
+    <title>机器学习背后的朴素思想
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-248</link>
+    <description>最近自己在写一个关于机器学习的文档。主要是介绍机器学习过程中所涉及的基础概念与基本流程，以使得准备进入机器学习领域的人员（技术的或非技术的）能够有清晰且正确的概念，少走些弯路，少被人忽悠。
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-216</guid>
+    <title>today we are going to share a new paper about druid
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-216</link>
+    <description>Hi all, today we are going to share a new paper about druid. http://static.druid.io/docs/druid.pdf It&#39;s related to the previous share about scuba. They are all column-oriented database storage. Like scuba, The Druid database also has an in-memory data storage strategy.
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>paper</category><category>pdf</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-210</guid>
+    <title>We introduced a memory database named scuba
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-210</link>
+    <description>We introduced a memory database named scuba. In this paper, the author introduces a new memory storage layout to use column-oriented storage for better compression and faster query execution strategies. they reference lots of database design include Dremel Powerdrill etc.
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>pdf</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2019-12-06-188</guid>
     <title>Implementing Lock Free Queues
 </title>
@@ -260,7 +332,7 @@
 </description>
     <pubDate>Sat, 23 Nov 2019 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>pdf</category><category>todo</category>
+    <category>pdf</category>
   </item>
 
   <item>

@@ -9,9 +9,21 @@
       <language>en-us</language>
       <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
       <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
-      <lastBuildDate>Fri, 14 Feb 2020 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 27 May 2020 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/app/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-797</guid>
+    <title>开发了一个英文阅读辅助app
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-797</link>
+    <description>这两天学swiftui，开发了一个英文阅读辅助app，iOS内测版:https://testflight.apple.com/join/cU9qI5rn 每天自动推送两篇经济学人文章，一篇英文版的，一篇双语版的，想提高一下英文阅读的可以下载试用一下
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>app</category><category>swift</category>
+  </item>
+
   <item>
     <guid>https://goto-share.github.io/blog/2020-02-14-574</guid>
     <title>https://t.me/faangbbs
@@ -34,6 +46,54 @@
     <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category><category>english</category><category>app</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-436</guid>
+    <title>Gio UI
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-436</link>
+    <description>Gio is an open source library for creating portable, immediate mode GUI programs for Android, iOS, Linux, Windows, macOS.
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>app</category><category>android</category><category>ios</category><category>linux</category><category>windows</category><category>mac</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-437</guid>
+    <title>Flutter for Desktop: Create and Run a Desktop Application
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-437</link>
+    <description>Flutter is going beyond mobile. Here’s a comprehensive guide on how you can run a Flutter App on Desktop.
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>app</category><category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-276</guid>
+    <title>Check out &quot;Universum - Diary, Journal, Notes&quot;
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-276</link>
+    <description>Check out &quot;Universum - Diary, Journal, Notes&quot;
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>app</category><category>android</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-252</guid>
+    <title>Planet Money是我听下来最好的的podcast了
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-252</link>
+    <description>Planet Money是我听下来最好的的podcast了，讲的英语简单易懂，内容深入浅出，涵盖美国经济政治生活的方方面面。这期讲的就是外国人如何在美国参与大选的限制：https://castbox.fm/vb/204496551 castbox在安卓上也很推荐
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>podcast</category><category>english</category><category>app</category>
   </item>
 
   <item>

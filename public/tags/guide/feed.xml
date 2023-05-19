@@ -9,9 +9,33 @@
       <language>en-us</language>
       <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
       <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
-      <lastBuildDate>Wed, 27 May 2020 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 07 Mar 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/guide/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://goto-share.github.io/blog/2021-03-07-873</guid>
+    <title>Coding for SSDs – Part 1: Introduction and Table of Contents
+</title>
+    <link>https://goto-share.github.io/blog/2021-03-07-873</link>
+    <description>I want to make solid-state drives (SSDs) the optimal storage solution for my key-value store project. For that reason, I had to make sure I fully understood how SSDs work
+</description>
+    <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-774</guid>
+    <title>Refactoring and Design Patterns
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-774</link>
+    <description>Refactoring is a controllable process of improving code without creating new functionality. Design Patterns are typical solutions to the commonly occurring problems in software design.
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
   <item>
     <guid>https://goto-share.github.io/blog/2020-05-27-821</guid>
     <title>An opinionated guide to technology frontiers
@@ -49,6 +73,18 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2020-01-14-437</guid>
+    <title>Flutter for Desktop: Create and Run a Desktop Application
+</title>
+    <link>https://goto-share.github.io/blog/2020-01-14-437</link>
+    <description>Flutter is going beyond mobile. Here’s a comprehensive guide on how you can run a Flutter App on Desktop.
+</description>
+    <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>app</category><category>guide</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2020-01-14-439</guid>
     <title>如何做一个“拍照判题”的程序
 </title>
@@ -56,6 +92,78 @@
     <description>如何做一个“拍照判题”的程序
 </description>
     <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-348</guid>
+    <title>Learning embedded programming as a software engineer
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-348</link>
+    <description>How to respect your hardware, understand pinouts, embrace your limited flexibility and prevent dumb mistakes.
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-349</guid>
+    <title>科普知识: An overview of direct memory access
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-349</link>
+    <description>科普知识: An overview of direct memory access
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-313</guid>
+    <title>黑客与画家的作者当初给高中生的建议
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-313</link>
+    <description>黑客与画家的作者当初给高中生的建议，http://paulgraham.com/hs.html
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category><category>tips</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-19-297</guid>
+    <title>写了一篇自制键盘的文章 
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-19-297</link>
+    <description>写了一篇自制键盘的文章 
+</description>
+    <pubDate>Thu, 19 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-273</guid>
+    <title>Microsoft REST API Guidelines.
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-273</link>
+    <description>Microsoft REST API Guidelines. Contribute to microsoft/api-guidelines development by creating an account on GitHub.
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-214</guid>
+    <title>Serious Security: Understanding how computers count
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-214</link>
+    <description>The hard disks that fail abruptly at 32,768 hours of use – why simply ‘adding 1’ can send you into oblivion.
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>guide</category>
   </item>

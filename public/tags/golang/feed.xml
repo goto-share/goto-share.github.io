@@ -45,7 +45,7 @@
 </description>
     <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>medium</category><category>memory</category><category>golang</category>
+    <category>medium</category><category>golang</category>
   </item>
 
   <item>
@@ -442,6 +442,42 @@
     <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>twitter</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-343</guid>
+    <title>Scheduling In Go
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-343</link>
+    <description>下面这三篇文章，以前在本群中分享过，因为写得实在太好，所发还要再分享一下。
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-323</guid>
+    <title>The Uber Go Style Guide
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-323</link>
+    <description>Uber Go Style Guide  Introduction Guidelines  Pointers to Interfaces Verify Interface Compliance Receivers and Interfaces Zero-value Mutexes are Valid Copy Slices and Maps at Boundaries Defer to Clean Up...
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-219</guid>
+    <title>API返回的JSON太大？
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-219</link>
+    <description>API返回的JSON太大？ Nginx又没法压缩Transfer-Encoding为chunked的返回？ 新挖了一个坑，欢迎各位使用和提各种建议，适用于Gin和net/http的gzip中间件：基于 Content-Type、Content-Length、扩展名等要素自动判断是否启用压缩。
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
   </item>
 
   <item>

@@ -229,6 +229,54 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-341</guid>
+    <title>这个文章看上去，被GraalVM编译过的 Java和Go在快排算法上的性能差别不大
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-341</link>
+    <description>这个文章看上去，被GraalVM编译过的 Java和Go在快排算法上的性能差别不大
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-215</guid>
+    <title>java核心技术 卷1
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-215</link>
+    <description>java核心技术 卷1 java并发编程实战 java编程思想 spring / spring boot 实战
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-232</guid>
+    <title>Your Guide to Java Streams
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-232</link>
+    <description>In this edition of &quot;Best of DZone,&quot; we take a look at Streams in Java, one of the APIs that brought some elements of functional programming to Java.
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>java</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-233</guid>
+    <title>推荐一个Medium的展望软件开发2020的文章
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-233</link>
+    <description>推荐一个Medium的展望软件开发2020的文章，里面提到Java仍然是企业级Programming的王者，和浩哥的想法一样。https://towardsdatascience.com/20-predictions-about-software-development-trends-in-2020-afb8b110d9a0
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>medium</category><category>java</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2019-12-06-186</guid>
     <title>Java工程师成神之路
 </title>

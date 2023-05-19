@@ -36,5 +36,17 @@
     <category>github</category><category>monitor</category><category>weixin</category>
   </item>
 
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-337</guid>
+    <title>netdata: Real-time performance monitoring, done right
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-337</link>
+    <description>Netdata is high-fidelity infrastructure monitoring and troubleshooting.Open-source, free, preconfigured, opinionated, and always real-time.  Netdata is a distributed, real-time, performance and...
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>monitor</category>
+  </item>
+
     </channel>
   </rss>

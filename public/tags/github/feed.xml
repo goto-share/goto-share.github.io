@@ -21,7 +21,7 @@
 </description>
     <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>github</category><category>bigdata</category>
+    <category>github</category><category>database</category>
   </item>
 
   <item>
@@ -1016,6 +1016,270 @@
     <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-351</guid>
+    <title>不知 Snowden 的一個有趣的項目為何沒有太多關注 haven
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-351</link>
+    <description>不知Snowden 的一個有趣的項目為何沒有太多關注 https://github.com/guardianproject/haven  其實我用下來很不錯，而且真是廢物利用
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-337</guid>
+    <title>netdata: Real-time performance monitoring, done right
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-337</link>
+    <description>Netdata is high-fidelity infrastructure monitoring and troubleshooting.Open-source, free, preconfigured, opinionated, and always real-time.  Netdata is a distributed, real-time, performance and...
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>monitor</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-338</guid>
+    <title>awesome awesome awesome
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-338</link>
+    <description>Github上有好些Awesome XXX的 repo，于是就有人把这些 Awesome XXX 变成 Awesome list，然后这些Awesome 的list 又被再 Awesome …… 
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-340</guid>
+    <title>Python完整速查卡
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-340</link>
+    <description>Python完整速查卡
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-344</guid>
+    <title>如何读源码
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-344</link>
+    <description>如何读源码
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-323</guid>
+    <title>The Uber Go Style Guide
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-323</link>
+    <description>Uber Go Style Guide  Introduction Guidelines  Pointers to Interfaces Verify Interface Compliance Receivers and Interfaces Zero-value Mutexes are Valid Copy Slices and Maps at Boundaries Defer to Clean Up...
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-326</guid>
+    <title>一些编译器的工作机会
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-326</link>
+    <description>一些编译器的工作机会
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-310</guid>
+    <title>类似这些超强的技术贴，哪怕参与一些分享都会有长进
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-310</link>
+    <description>https://github.com/net4people/bbs/issues/21 类似这些超强的技术贴，哪怕参与一些分享都会有长进
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-311</guid>
+    <title>http decision diagram
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-311</link>
+    <description>An activity diagram to describe the resolution of HTTP response status codes, given various headers. - GitHub - for-GET/http-decision-diagram: An activity diagram to describe the resolution of HTTP...
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-317</guid>
+    <title>awesome reverse engineering
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-317</link>
+    <description>Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&amp;amp;videos) - awesome-reverse-engineering/R...
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-20-301</guid>
+    <title>用 calibre-web 建立一个私人的在线书库
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-20-301</link>
+    <description>之前分享过可以用https://github.com/janeczku/calibre-web 建立一个私人的在线书库，因为是web所以可以跨设备运行，进度也可以共享，今天有空用docker跑了一个给大家看看效果。
+</description>
+    <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-286</guid>
+    <title>JavaScript 的各种WTF
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-286</link>
+    <description>JavaScript 的各种WTF
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-270</guid>
+    <title>The xlang project
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-270</link>
+    <description>另外一个群 给推荐了这个 https://github.com/Microsoft/xlang
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-273</guid>
+    <title>Microsoft REST API Guidelines.
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-273</link>
+    <description>Microsoft REST API Guidelines. Contribute to microsoft/api-guidelines development by creating an account on GitHub.
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>guide</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-253</guid>
+    <title>nebula/ 这个库看起来高大上的样子，
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-253</link>
+    <description>https://github.com/slackhq/nebula/ 这个库看起来高大上的样子，
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>network</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-237</guid>
+    <title>rclone: &quot;rsync for cloud storage&quot;
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-237</link>
+    <description>rsync for cloud storage&amp;quot; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-238</guid>
+    <title>iptv: Collection of publicly available IPTV channels from all over the world
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-238</link>
+    <description>Collection of publicly available IPTV channels from all over the world - GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-242</guid>
+    <title>Awesome-CV: Awesome CV is LaTeX template for your outstanding job application
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-242</link>
+    <description>Awesome CV is LaTeX template for a CV(Curriculum Vitae), Résumé or Cover Letter inspired by Fancy CV
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-244</guid>
+    <title>分享一个我写的 vim 插件
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-244</link>
+    <description>分享一个我写的 vim 插件，可以给不同的 vim 项目自动设置不同的色彩主题，方便快速区分
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-219</guid>
+    <title>API返回的JSON太大？
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-219</link>
+    <description>API返回的JSON太大？ Nginx又没法压缩Transfer-Encoding为chunked的返回？ 新挖了一个坑，欢迎各位使用和提各种建议，适用于Gin和net/http的gzip中间件：基于 Content-Type、Content-Length、扩展名等要素自动判断是否启用压缩。
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>golang</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-230</guid>
+    <title>wrk: Modern HTTP benchmarking tool
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-230</link>
+    <description>wrk - a HTTP benchmarking tool wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event...
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-231</guid>
+    <title>https://github.com/tsenart/vegeta
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-231</link>
+    <description>https://github.com/tsenart/vegeta
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category><category>tool</category>
   </item>
 
   <item>

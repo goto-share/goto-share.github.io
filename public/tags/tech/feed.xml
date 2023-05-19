@@ -61,6 +61,42 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-353</guid>
+    <title>Uber 2019 年的blog汇总
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-353</link>
+    <description>https://eng.uber.com/2019-highlights/  Uber 2019 年的blog汇总有人发过没，可以索引Uber一年技术部门产出的东西。
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-19-298</guid>
+    <title>What Happened to Software Development?
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-19-298</link>
+    <description>What Happened to Software Development? | HackerNoon - I don’t even recognize it anymore
+</description>
+    <pubDate>Thu, 19 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-282</guid>
+    <title>Exploring &quot;Negative Latency&quot;
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-282</link>
+    <description>不知道这群里有多少对云游戏特别是stadia的技术感兴趣的，stadia的技术里有一项叫“Negative latency”
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tech</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2019-11-30-114</guid>
     <title>Refactoring and Design Patterns
 </title>

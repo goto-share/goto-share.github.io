@@ -9,9 +9,21 @@
       <language>en-us</language>
       <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
       <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
-      <lastBuildDate>Sat, 29 Feb 2020 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 14 Mar 2020 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/ml/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://goto-share.github.io/blog/2020-03-14-723</guid>
+    <title>Introducing the TensorFlow Developer Certificate!
+</title>
+    <link>https://goto-share.github.io/blog/2020-03-14-723</link>
+    <description>The TensorFlow blog contains regular news from the TensorFlow team and the community, with articles on Python, TensorFlow.js, TF Lite, TFX, and more.
+</description>
+    <pubDate>Sat, 14 Mar 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>ml</category><category>python</category>
+  </item>
+
   <item>
     <guid>https://goto-share.github.io/blog/2020-02-29-634</guid>
     <title>在Arduino和超低功耗微控制器上用TensorFlow Lite实现机器学习

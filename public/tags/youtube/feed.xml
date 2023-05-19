@@ -141,7 +141,7 @@
 </description>
     <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>youtube</category><category>ssd</category>
+    <category>youtube</category>
   </item>
 
   <item>
@@ -321,7 +321,7 @@
 </description>
     <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>youtube</category><category>microservices</category>
+    <category>youtube</category><category>microservice</category>
   </item>
 
   <item>
@@ -733,6 +733,18 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-365</guid>
+    <title>How do computers read code?
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-365</link>
+    <description>When you first learned to write code, you probably realized that computers don&#39;t really have any common sense. You need to tell a computer exactly what you want. But do you know about all the work the computer does to understand what you mean?
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2019-12-30-369</guid>
     <title>How to Speak
 </title>
@@ -740,6 +752,126 @@
     <description>MIT How to Speak, IAP 2018 Instructor: Patrick Winston View the complete course: https://ocw.mit.edu/how_to_speak  Patrick Winston&#39;s How to Speak talk has been an MIT tradition for over 40 years. Offered every January, the talk is intended to improve your speaking ability in critical situations by teaching you a few heuristic rules.
 </description>
     <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-347</guid>
+    <title>Learn Unreal Engine (with C++) - Full Course for Beginners
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-347</link>
+    <description>Learn Unreal Engine in this full tutorial using C++. In this beginner&#39;s course, you will how to create three full games with Unreal Engine and Blueprints.  🎥 Course from Awesome Tuts. Check out their YouTube channel: https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw 🔗 Learn more about game development here: https://www.awesometuts.com/ultimate-game-dev-academy?utm_medium=youtube&amp;utm_source=freecodecamp&amp;utm_campaign=unreal_tutorial  ⭐️Course Contents ⭐️ ⌨️(0:00:45) Battery Collector Game   💻Project Code: https://www.filepicker.io/api/file/NZVRzw8JTtWXHuGIJeCQ  ⌨️(1:16:10) Brick Breaker Game   💻Project Code: https://www.filepicker.io/api/file/MdZBi35CTwSV9gJT9zFi   💻Assets: https://www.filepicker.io/api/file/nrDnHoOuTWGbNkWJUtMz  ⌨️(2:39:52) Pacman   💻Project Code: https://www.filepicker.io/api/file/0D0tNZ6ERYagcNupZGbD   💻Assets: https://www.filepicker.io/api/file/uASaLcXOQR2uIJLqW4Mv  --  Learn to code for free and get a developer job: https://www.freecodecamp.org    Read hundreds of articles on programming: https://medium.freecodecamp.org
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-336</guid>
+    <title>Vol.108 怎样科学地放电影？
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-336</link>
+    <description>不同类型的电影放映机是怎么工作的？如何在全国 10771 家电影院放映电影？   ◆趣味科普 科技博主  ◆每周不定期更新  不要忘记订阅这个频道～
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-339</guid>
+    <title>这个演讲太强了，太好笑了，充满激情
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-339</link>
+    <description>这个演讲太强了，太好笑了，充满激情，如果我的学校里的老师也是这样，那该多好
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-345</guid>
+    <title>The incredible chemistry powering your smartphone
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-345</link>
+    <description>上 YouTube 观看“The incredible chemistry powering your smartphone | Cathy Mulzer”
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-20-306</guid>
+    <title>Scale By The Bay 2019: Norman Maurer, Netty 5: Lessons Learned
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-20-306</link>
+    <description>Netty is one of the most used network frameworks on the JVM (if not the most used) which provides its users not only with great flexibility but also with superb performance. While Netty 4.x was a great success and is used literally everywhere in production it became clear over the “years” that a few design choices that where made did produce various limitations. As work has started on Netty 5, it’s time to fix these limitations and incorporate all the feedback we received from the community and core maintainers. This talk will focus on multiple core changes that are scheduled for netty 5 by explaining what “real-world issues” these solve and how these changes will help to operate Netty in high-scale production environments. Also it will give a brief overview of the general planed timeline of Netty 5 and roadmap.
+</description>
+    <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-281</guid>
+    <title>Excel 技巧
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-281</link>
+    <description>https://www.youtube.com/watch?v=0nbkaYsR94c  Excel 技巧
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-291</guid>
+    <title>Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-291</link>
+    <description>&quot;Speaker: Raymond Hettinger  Distillation of knowledge gained from a decade of Python consulting, Python training, code reviews, and serving as a core developer.   Learn to avoid some of the hazards of the PEP 8 style guide and learn what really matters for creating beautiful intelligible code.    Slides can be found at: https://speakerdeck.com/pycon2015 and https://github.com/PyCon/2015-slides&quot;
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-263</guid>
+    <title>讲 spotify 工程师文化，表示很受启发
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-263</link>
+    <description>讲 spotify 工程师文化，表示很受启发 source: https://blog.crisp.se/2014/03/27/henrikkniberg/spotify-engineering-culture-part-1
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-265</guid>
+    <title>Video unavailable
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-265</link>
+    <description>Video unavailable
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>unavailable</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-12-234</guid>
+    <title>以后我演讲也要用 I have a dream... 的句式开场，
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-12-234</link>
+    <description>以后我演讲也要用 I have a dream... 的句式开场， 然后穿一件拉风的粉红色西装……
+</description>
+    <pubDate>Thu, 12 Dec 2019 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category>
   </item>
@@ -754,6 +886,18 @@
     <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>youtube</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-211</guid>
+    <title>Distributed Systems in One Lesson by Tim Berglund
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-211</link>
+    <description>Normally simple tasks like running a program or storing and retrieving data become much more complicated when we start to do them on collections of computers, rather than single machines. Distributed systems has become a key architectural concern, and affects everything a program would normally do—giving us enormous power, but at the cost of increased complexity as well.
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>youtube</category><category>distributed</category>
   </item>
 
   <item>

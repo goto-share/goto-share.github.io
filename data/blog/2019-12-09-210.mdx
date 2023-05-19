@@ -1,0 +1,39 @@
+---
+title: |
+    We introduced a memory database named scuba
+date: 2019-12-09
+draft: false
+tags: [database, pdf]
+summary: |
+    We introduced a memory database named scuba. In this paper, the author introduces a new memory storage layout to use column-oriented storage for better compression and faster query execution strategies. they reference lots of database design include Dremel Powerdrill etc.
+---
+
+## Content
+
+Hi all
+in the previous share, we introduced a memory database named scuba.
+
+Today we continue to focus on scuba, paper download link:
+
+https://research.fb.com/wp-content/uploads/2016/11/fast-database-restarts-at-facebook.pdf
+
+In this paper, the author introduces a new memory storage layout to use column-oriented storage for better compression and faster query execution strategies. they reference lots of database design include Dremel Powerdrill etc. (Describe in Section 2.1)
+
+Highlight you need to know in this paper:
+
+1. General query performance of Scuba in real facebook business. (section 1)
+2. Why they use heap not directory use Memory Mapping. (before section2)
+3. Deploy Architecture. How data load to cluster and why so fast. (at start of section2)
+4. How they decide which storage layout to use. (before section4)
+5. we advise read the conclusion after reading section1(introduce) to find out which aspect of the database design you interested in.
+- 5.1 how scuba copy data
+- 5.2 how they rollout database version
+- 5.3 describe overhead in recovery from the disk.
+
+Conclude:
+
+This paper describes how scuba in action. Besides the knowledge of how scuba designed, we can also learn about how facebook engineers study and make decisions.
+
+## Link Preview
+
+- https://research.fb.com/wp-content/uploads/2016/11/fast-database-restarts-at-facebook.pdf

@@ -85,6 +85,54 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-311</guid>
+    <title>http decision diagram
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-311</link>
+    <description>An activity diagram to describe the resolution of HTTP response status codes, given various headers. - GitHub - for-GET/http-decision-diagram: An activity diagram to describe the resolution of HTTP...
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-279</guid>
+    <title>分享一个网站: How HTTPS Works
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-279</link>
+    <description>分享一个网站: How HTTPS works
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>http</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-230</guid>
+    <title>wrk: Modern HTTP benchmarking tool
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-230</link>
+    <description>wrk - a HTTP benchmarking tool wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event...
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-231</guid>
+    <title>https://github.com/tsenart/vegeta
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-231</link>
+    <description>https://github.com/tsenart/vegeta
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>http</category><category>tool</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2019-11-28-89</guid>
     <title>分页设计最佳实践
 </title>

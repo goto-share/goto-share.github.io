@@ -25,6 +25,18 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2020-05-27-781</guid>
+    <title>AVIF for Next-Generation Image Coding
+</title>
+    <link>https://goto-share.github.io/blog/2020-05-27-781</link>
+    <description>AVIF for Next-Generation Image Coding
+</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>algorithm</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2020-05-27-787</guid>
     <title>How Important are Algorithms and Data Structures in Backend Engineering?
 </title>
@@ -154,6 +166,54 @@
     <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>algorithm</category><category>mooc</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-319</guid>
+    <title>分享一下 Eller&#39;s Algorithm，用于创建一个迷宫的算法
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-319</link>
+    <description>这个算法有意思，分享一下 Eller&#39;s Algorithm，用于创建一个迷宫的算法
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-280</guid>
+    <title>Algorithms, Part I
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-280</link>
+    <description>TOP REVIEWS FROM ALGORITHMS, PART Iby CSOct 27, 2021Incredible learning experience. Every programmer in industry should take this course if only to dispel the idea that with the advent of cloud computing...
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-251</guid>
+    <title>花了不少精力做算法题，不过觉得挺值的
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-251</link>
+    <description>花了不少精力，不过觉得挺值的。如果之前不是做算法出身的，我强烈建议试试。2. leetcode的评价体系挺好的，会考虑时间复杂度，有些题目可能会多次遇到超时限制，在调优的过程中，你会对时间复杂度产生具体的感性认识。
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>algorithm</category><category>tips</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-262</guid>
+    <title>关于 packet filter limit和burst参数的含
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-262</link>
+    <description>有没有技术大佬，帮我解释下这个limit和burst参数的含义， 搞不明白了
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>google</category><category>algorithm</category>
   </item>
 
   <item>

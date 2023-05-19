@@ -109,6 +109,18 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2020-02-29-635</guid>
+    <title>Event Sourcing
+</title>
+    <link>https://goto-share.github.io/blog/2020-02-29-635</link>
+    <description>这个不是很清楚。正在看 https://martinfowler.com/eaaDev/EventSourcing.html 刚好提到 Event Replay，Event Replay: If we find a past event was incorrect, we can compute the consequences by reversing it and later events and then replaying the new event and later events. (Or indeed by throwing away the application state and replaying all events with the correct event in sequence.) The same technique can handle events received in the wrong sequence - a common problem with systems that communicate with asynchronous messaging.
+</description>
+    <pubDate>Sat, 29 Feb 2020 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>tcp</category><category>network</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2020-02-29-654</guid>
     <title>Computer Networking: A Top-Down Approach
 </title>
@@ -189,6 +201,78 @@
     <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>http</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-335</guid>
+    <title>nebula net
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-335</link>
+    <description>https://github.com/slackhq/nebula overlay network 竞品 tinc，zerotier，openvpn 群友写的教程供新人参考
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>telegram</category><category>tool</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-25-342</guid>
+    <title>批评pb的来了，评区，有一些别的替代
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-25-342</link>
+    <description>批评pb的来了，评区，what are the  alternatives... 有一些别的替代
+</description>
+    <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-309</guid>
+    <title>GreatFire.org
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-309</link>
+    <description>“GreatFire悬赏计划“现已更新，赏金大幅提升！详情访问https://t.co/fTpbw7FYy2
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-310</guid>
+    <title>类似这些超强的技术贴，哪怕参与一些分享都会有长进
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-310</link>
+    <description>https://github.com/net4people/bbs/issues/21 类似这些超强的技术贴，哪怕参与一些分享都会有长进
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-253</guid>
+    <title>nebula/ 这个库看起来高大上的样子，
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-253</link>
+    <description>https://github.com/slackhq/nebula/ 这个库看起来高大上的样子，
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>network</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-14-260</guid>
+    <title>Congestion Control in Computer Networks
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-14-260</link>
+    <description>A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+</description>
+    <pubDate>Sat, 14 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>network</category>
   </item>
 
   <item>

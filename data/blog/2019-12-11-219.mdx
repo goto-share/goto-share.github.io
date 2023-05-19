@@ -1,0 +1,25 @@
+---
+title: |
+    API返回的JSON太大？
+date: 2019-12-11
+draft: false
+tags: [github, golang]
+summary: |
+    API返回的JSON太大？ Nginx又没法压缩Transfer-Encoding为chunked的返回？ 新挖了一个坑，欢迎各位使用和提各种建议，适用于Gin和net/http的gzip中间件：基于 Content-Type、Content-Length、扩展名等要素自动判断是否启用压缩。
+---
+
+## Content
+
+API返回的JSON太大？
+Nginx又没法压缩Transfer-Encoding为chunked的返回？
+新挖了一个坑，欢迎各位使用和提各种建议：
+
+https://github.com/nanmu42/gzip
+
+适用于Gin和net/http的gzip中间件：基于 Content-Type、Content-Length、扩展名等要素自动判断是否启用压缩。
+
+## Link Preview
+
+- https://github.com/nanmu42/gzip
+- GitHub - nanmu42/gzip: Golang gzip middleware for Gin and net/http | Golang gzip中间件，支持Gin和net/http，开箱即用同时可定制
+- Golang gzip middleware for Gin and net/http | Golang gzip中间件，支持Gin和net/http，开箱即用同时可定制 - GitHub - nanmu42/gzip: Golang gzip middleware for Gin and net/http | Golang gzip中间件，支持Gin和net/h...

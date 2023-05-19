@@ -21,7 +21,7 @@
 </description>
     <pubDate>Thu, 27 Apr 2023 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
-    <category>twitter</category><category>chatgpt</category>
+    <category>twitter</category><category>ai</category>
   </item>
 
   <item>
@@ -334,6 +334,102 @@
     <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-364</guid>
+    <title>Top Stories from the Microsoft DevOps Community – 2019.12.20
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-364</link>
+    <description>This post is the last community roundup before the holiday break, and we certainly have some holiday cheer for you. Thanks to all the blog authors, and check out the end of the post for a fun holiday-break project! Go blue/green with your Cloud Foundry app from WebIDE with Azure DevOps One-click deploys are empowering,
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-30-368</guid>
+    <title>The Best Linux Blog In the Unixverse
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-30-368</link>
+    <description>Linux: a Portable Operating System. Linus Torvalds&#39;s Master&#39;s Thesis (1997) [pdf] https://t.co/feZXXHCZoK
+</description>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>linux</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-27-355</guid>
+    <title>最近一段时间玩了一下 mcu 编程，也做了一些简单的物联小玩具，分享一下粗略的心得
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-27-355</link>
+    <description>最近一段时间玩了一下 mcu 编程，也做了一些简单的物联小玩具，分享一下粗略的心得： https://twitter.com/ivarptr/status/1210147205526351872   一共 4 条推，有兴趣的朋友一起交流一下🙈
+</description>
+    <pubDate>Fri, 27 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-24-318</guid>
+    <title>Today learn agrep =&gt; approximative grep.
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-24-318</link>
+    <description>Today learn agrep =&gt; approximative grep. Based on Levenshtein distances, it&#39;s possible to search for words looking alike a word. https://t.co/3FsInURmeo I&#39;m using it for my personal note taking tools. Knowledge organisation is powerfull!! Cc @nixcraft @climagic
+</description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>tool</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-309</guid>
+    <title>GreatFire.org
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-309</link>
+    <description>“GreatFire悬赏计划“现已更新，赏金大幅提升！详情访问https://t.co/fTpbw7FYy2
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>network</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-22-312</guid>
+    <title>Paul Graham
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-22-312</link>
+    <description>Several people asked which essays are my favorites: https://t.co/yFNe1NW55B https://t.co/HdUSjESNGl https://t.co/ASjOx0YHUu https://t.co/XNW3ov6yXQ https://t.co/Ww2vBKYMt9 https://t.co/GQ6IECES02 https://t.co/jOQbXXji14 https://t.co/52xghlUODR https://t.co/oMGkyfOQ4H
+</description>
+    <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-290</guid>
+    <title>Python&#39;s f-strings are amazingly fast!
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-290</link>
+    <description>Python&#39;s f-strings are amazingly fast!
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-18-294</guid>
+    <title>SICP 的 JavaScript 语言版
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-18-294</link>
+    <description>经典计算机教材 SICP 的 JavaScript 语言版，新加坡国立大学改编的。https://t.co/cxVIzSOJms 连带附上 SICP 的 Python 版本，还是中文翻译好的。https://t.co/usIxwrg7v2
+</description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>twitter</category><category>javascript</category><category>python</category>
   </item>
 
   <item>

@@ -9,9 +9,21 @@
       <language>en-us</language>
       <managingEditor>dylanninin@gmail.com (程序员资源分享网站)</managingEditor>
       <webMaster>dylanninin@gmail.com (程序员资源分享网站)</webMaster>
-      <lastBuildDate>Sat, 07 Mar 2020 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 26 Apr 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://goto-share.github.io/tags/database/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://goto-share.github.io/blog/2022-04-26-913</guid>
+    <title>《Designing Data-Intensive Application》中文翻译
+</title>
+    <link>https://goto-share.github.io/blog/2022-04-26-913</link>
+    <description>《Designing Data-Intensive Application》DDIA中文翻译. Contribute to Vonng/ddia development by creating an account on GitHub.
+</description>
+    <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>github</category><category>database</category>
+  </item>
+
   <item>
     <guid>https://goto-share.github.io/blog/2020-03-07-670</guid>
     <title>iredis: 一个更好的 redis-cli
@@ -118,6 +130,54 @@
     <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
     <author>程序员资源分享网站 (@haoel)</author>
     <category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-16-266</guid>
+    <title>ScyllaDB’s Compaction Series: Size-Tiered Compaction
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-16-266</link>
+    <description>This is the first post in a series of four about the different compaction strategies available in ScyllaDB. This first post will focus on ScyllaDB’s default compaction strategy, size-tiered compaction strategy.
+</description>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-223</guid>
+    <title>《数据库系统概念》
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-223</link>
+    <description>《数据库系统概念》，它是数据库系统方面的经典教材之一。国际上许多著名大学包括斯坦福大学、耶鲁大学、德克萨斯大学、康奈尔大学、伊利诺伊大学、印度理工学院等都采用本书作为教科书。这本书全面介绍了数据库系统的各种知识，透彻阐释数据库管理的基本概念。不仅讨论了数据库查询语言、模式设计、数据仓库、数据库应用开发、基于对象的数据库和 XML、数据存储和查询、事务管理、数据挖掘与信息检索以及数据库系统体系结构等方面的内容，而且对性能评测标准、性能调整、标准化以及空间与地理数据、事务处理监控等高级应用主题进行了广泛讨论。
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>book</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-224</guid>
+    <title>关于数据库的一些补充资料
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-224</link>
+    <description>数据库设计 - 你需要系统地了解一下数据库设计中的那些东西，这里推荐慕课网的一个在线课程 --&quot;[数据库设计的那些事](https://www.imooc.com/learn/117)&quot;。每个小课程不过 5-6 分钟，全部不到 2 个小时，我相信你一定能跟下来。你需要搞清楚数据的那几个范式，还有 SQL 语句的一些用法。
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>mysql</category>
+  </item>
+
+  <item>
+    <guid>https://goto-share.github.io/blog/2019-12-09-210</guid>
+    <title>We introduced a memory database named scuba
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-09-210</link>
+    <description>We introduced a memory database named scuba. In this paper, the author introduces a new memory storage layout to use column-oriented storage for better compression and faster query execution strategies. they reference lots of database design include Dremel Powerdrill etc.
+</description>
+    <pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>database</category><category>pdf</category>
   </item>
 
   <item>

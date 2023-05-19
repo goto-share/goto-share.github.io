@@ -97,6 +97,18 @@
   </item>
 
   <item>
+    <guid>https://goto-share.github.io/blog/2019-12-11-229</guid>
+    <title>Is False == 0 and True == 1 an implementation detail or is it guaranteed by the language?
+</title>
+    <link>https://goto-share.github.io/blog/2019-12-11-229</link>
+    <description>Is it guaranteed that False == 0 and True == 1, in Python (assuming that they are not reassigned by the user)?  For instance, is it in any way guaranteed that the following code will always produce...
+</description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 GMT</pubDate>
+    <author>程序员资源分享网站 (@haoel)</author>
+    <category>stackoverflow</category><category>python</category>
+  </item>
+
+  <item>
     <guid>https://goto-share.github.io/blog/2019-12-05-164</guid>
     <title>我读了两篇
 </title>

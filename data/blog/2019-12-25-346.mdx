@@ -1,0 +1,25 @@
+---
+title: |
+    截一断我极客时间专栏中跟Paxosssh相关的一节
+date: 2019-12-25
+draft: false
+tags: [pdf, tips, distributed]
+summary: |
+    截一断我极客时间专栏中跟Paxosssh相关的一节
+---
+
+## Content
+
+截一断我极客时间专栏中跟Paxosssh相关的一节
+
+Paxos算法，是莱斯利·兰伯特（Lesile Lamport）于1990年提出来的一种基于消息传递且具有高度容错特性的一致性算法。但是这个算法太过于晦涩，所以一直以来都属于理论上的论文性质的东西。其真正进入工程圈，主要是来源于Google的Chubby lock——一个分布式的锁服务，用在了Bigtable中。直到Google发布了下面这两篇论文，Paxos才进入到工程界的视野中来。
+• [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+• [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+Google与Bigtable相齐名的还有另外两篇论文。
+• [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+• [MapReduce: Simplifed Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+不过，这几篇文章中并没有讲太多的Paxos算法上的细节，[反而是在](https://static.googleusercontent.com/media/research.google.com/en//archive/paxos_made_live.pdf) [Paxos Made Live – An Engineering Perspective](https://static.googleusercontent.com/media/research.google.com/en//archive/paxos_made_live.pdf) 这篇论文中提到了很多工程实现的细节。这篇论文详细解释了Google实现Paxos时遇到的各种问题和解决方案，讲述了从理论到实际应用二者之间巨大的鸿沟。
+Paxos算法的原版论文比较晦涩，也不易懂。这里推荐一篇比较容易读的——[Neat Algorithms - Paxos](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/) 。这篇文章中还有一些小动画帮助你读懂。[还有一篇可以帮你理解的文章是Paxos by Examples](https://angus.nyc/2012/paxos-by-example/)
+
+https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+
